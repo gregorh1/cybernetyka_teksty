@@ -170,15 +170,26 @@ def main():
     
     # Tokenizuj dane
     def tokenize_function(examples):
-        return tokenizer(
+        # Tokenize and prepare for causal language modeling
+        tokenized = tokenizer(
             examples["text"],
             truncation=True,
             padding=False,
             max_length=1024,  # Reduced for memory
             return_tensors=None
         )
+        # For causal LM, labels are the same as input_ids
+        tokenized["labels"] = [ids[:] for ids in tokenized["input_ids"]]
+        return tokenized
     
-    tokenized_dataset = dataset.map(tokenize_function, batched=True)
+    tokenized_dataset = dataset.map(
+        tokenize_function, 
+        batched=True,
+        remove_columns=dataset.column_names  # Remove original text column
+    )
+    
+    print(f"🔍 Columns after tokenization: {tokenized_dataset.column_names}")
+    print(f"🔍 Sample data keys: {list(tokenized_dataset[0].keys())}")
     
     # Podziel na train/eval
     train_size = int(0.95 * len(tokenized_dataset))
@@ -222,7 +233,8 @@ def main():
     data_collator = DataCollatorForLanguageModeling(
         tokenizer=tokenizer,
         mlm=False,
-        pad_to_multiple_of=8
+        pad_to_multiple_of=8,
+        return_tensors="pt"
     )
     
     # Utwórz trainer
