@@ -258,8 +258,33 @@ Format JSON:
         print(f"💡 Sprawdź czy Ollama działa: ollama list")
         return []
 
-def generate_qa_finetuned(text_chunk: str, model_path: str) -> List[Dict]:
-    """Generuj Q&A używając wytrenowanego modelu"""
+# Global model cache for finetuned model
+_finetuned_model_cache = {}
+
+def cleanup_finetuned_model():
+    """Clean up model cache and free GPU memory"""
+    global _finetuned_model_cache
+    
+    if _finetuned_model_cache:
+        print(f"🧹 Czyszczenie cache modelu...")
+        try:
+            import torch
+            # Clear CUDA cache if available
+            if torch.cuda.is_available():
+                torch.cuda.empty_cache()
+        except:
+            pass
+        
+        _finetuned_model_cache.clear()
+        print(f"✅ Cache modelu wyczyszczony")
+
+def load_finetuned_model(model_path: str):
+    """Load and cache the finetuned model"""
+    global _finetuned_model_cache
+    
+    if model_path in _finetuned_model_cache:
+        return _finetuned_model_cache[model_path]
+    
     try:
         from transformers import AutoTokenizer, AutoModelForCausalLM
         from peft import PeftModel
@@ -281,6 +306,27 @@ def generate_qa_finetuned(text_chunk: str, model_path: str) -> List[Dict]:
         
         # Set for inference
         model.eval()
+        
+        # Cache the model and tokenizer
+        _finetuned_model_cache[model_path] = (model, tokenizer)
+        print(f"✅ Model załadowany i zapisany w cache")
+        
+        return model, tokenizer
+        
+    except Exception as e:
+        print(f"❌ Błąd ładowania modelu: {e}")
+        return None, None
+
+def generate_qa_finetuned(text_chunk: str, model_path: str) -> List[Dict]:
+    """Generuj Q&A używając wytrenowanego modelu"""
+    try:
+        import torch
+        
+        # Load model from cache or fresh
+        model, tokenizer = load_finetuned_model(model_path)
+        
+        if model is None or tokenizer is None:
+            return []
         
         prompt = f"""Na podstawie tego tekstu z cybernetyki wygeneruj 3-4 pytania i odpowiedzi:
 
@@ -314,7 +360,10 @@ Q:"""
         generated_text = tokenizer.decode(outputs[0], skip_special_tokens=True)
         generated_response = generated_text[len(prompt):]
         
-        # Parse Q&A pairs
+        # Debug: Show what was generated
+        print(f"🔍 Generated response preview: {generated_response[:200]}...")
+        
+        # Parse Q&A pairs with improved logic
         qa_pairs = []
         lines = generated_response.split('\n')
         current_q = None
@@ -323,30 +372,40 @@ Q:"""
         for line in lines:
             line = line.strip()
             if line.startswith('Q:'):
+                # Save previous Q&A pair if exists
                 if current_q and current_a:
                     qa_pairs.append({
                         "question": current_q,
-                        "answer": current_a
+                        "answer": current_a.strip()
                     })
                 current_q = line[2:].strip()
                 current_a = None
             elif line.startswith('A:'):
                 current_a = line[2:].strip()
-            elif current_a and line and not line.startswith('Q:'):
+            elif current_a and line and not line.startswith('Q:') and not line.startswith('A:'):
+                # Continue building the answer
                 current_a += " " + line
         
-        # Add last Q&A
+        # Add last Q&A pair
         if current_q and current_a:
             qa_pairs.append({
                 "question": current_q,
-                "answer": current_a
+                "answer": current_a.strip()
             })
         
+        # Filter out empty or very short Q&A pairs
+        qa_pairs = [qa for qa in qa_pairs if len(qa["question"]) > 10 and len(qa["answer"]) > 20]
+        
         print(f"🧠 Wygenerowano {len(qa_pairs)} par Q&A ekspertem cybernetyki")
-        return qa_pairs[:4]
+        if qa_pairs:
+            print(f"   Przykład: Q: {qa_pairs[0]['question'][:50]}...")
+        
+        return qa_pairs[:4]  # Return max 4 pairs
         
     except Exception as e:
         print(f"❌ Błąd fine-tuned model: {e}")
+        import traceback
+        traceback.print_exc()
         return []
 
 def create_instruction_format(qa_pairs: List[Dict]) -> List[Dict]:
@@ -639,12 +698,16 @@ PRZYKŁADY:
         print(f"💾 Zapisuję ostatni postęp...")
         save_progress(all_qa_pairs, args.output, i)
         print(f"📊 Zebrano {len(all_qa_pairs)} par Q&A przed przerwaniem")
+        if args.method == "finetuned":
+            cleanup_finetuned_model()
         return
         
     except Exception as e:
         print(f"\n❌ Nieoczekiwany błąd: {e}")
         print(f"💾 Zapisuję ostatni postęp...")
         save_progress(all_qa_pairs, args.output, i)
+        if args.method == "finetuned":
+            cleanup_finetuned_model()
         return
     
     # Final save and summary
@@ -686,6 +749,10 @@ PRZYKŁADY:
     # Final progress save if needed
     if all_qa_pairs and 'i' in locals():
         save_progress(all_qa_pairs, args.output, i)
+    
+    # Clean up model cache if using finetuned method
+    if args.method == "finetuned":
+        cleanup_finetuned_model()
 
 if __name__ == "__main__":
     main() 
