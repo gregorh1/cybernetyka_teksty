@@ -200,7 +200,6 @@ def main():
         train_dataset=dataset["train"],
         eval_dataset=dataset["test"],
         peft_config=lora_config,
-        dataset_text_field="text",
         tokenizer=tokenizer,
         args=training_args,
         max_seq_length=2048,
