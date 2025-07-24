@@ -14,10 +14,11 @@ from transformers import (
     AutoTokenizer, 
     AutoModelForCausalLM, 
     TrainingArguments,
-    BitsAndBytesConfig
+    BitsAndBytesConfig,
+    Trainer,
+    DataCollatorForLanguageModeling
 )
 from peft import LoraConfig, get_peft_model, TaskType
-from trl import SFTTrainer
 import os
 
 def check_environment():
@@ -162,9 +163,21 @@ def main():
     # Utwórz dataset
     dataset = Dataset.from_list(training_data)
     
+    # Tokenizuj dane
+    def tokenize_function(examples):
+        return tokenizer(
+            examples["text"],
+            truncation=True,
+            padding=False,
+            max_length=2048,
+            return_tensors=None
+        )
+    
+    tokenized_dataset = dataset.map(tokenize_function, batched=True)
+    
     # Podziel na train/eval
-    train_size = int(0.95 * len(dataset))
-    dataset = dataset.train_test_split(train_size=train_size, seed=42)
+    train_size = int(0.95 * len(tokenized_dataset))
+    tokenized_dataset = tokenized_dataset.train_test_split(train_size=train_size, seed=42)
     
     # Konfiguracja trenowania
     output_dir = "./bielik-cybernetyka-lora"
@@ -194,19 +207,22 @@ def main():
         load_best_model_at_end=True
     )
     
-    # Utwórz trainer
-    trainer = SFTTrainer(
-        model=model,
-        train_dataset=dataset["train"],
-        eval_dataset=dataset["test"],
-        args=training_args,
-        data_collator=None,
-        max_seq_length=2048,
-        packing=False
+    # Utwórz data collator
+    data_collator = DataCollatorForLanguageModeling(
+        tokenizer=tokenizer,
+        mlm=False,
+        pad_to_multiple_of=8
     )
     
-    # Set tokenizer manually
-    trainer.tokenizer = tokenizer
+    # Utwórz trainer
+    trainer = Trainer(
+        model=model,
+        args=training_args,
+        train_dataset=tokenized_dataset["train"],
+        eval_dataset=tokenized_dataset["test"],
+        data_collator=data_collator,
+        tokenizer=tokenizer
+    )
     
     # Uruchom trenowanie
     print("\n🔥 Rozpoczynam trenowanie...")
