@@ -295,6 +295,10 @@ Q:"""
         # Tokenize
         inputs = tokenizer(prompt, return_tensors="pt", truncation=True, max_length=1500)
         
+        # Move inputs to the same device as the model
+        device = next(model.parameters()).device
+        inputs = {k: v.to(device) for k, v in inputs.items()}
+        
         # Generate
         with torch.no_grad():
             outputs = model.generate(
