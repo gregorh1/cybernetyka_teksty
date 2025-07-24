@@ -330,18 +330,20 @@ def generate_qa_finetuned(text_chunk: str, model_path: str) -> List[Dict]:
         
         prompt = f"""Na podstawie tego tekstu z cybernetyki wygeneruj 2-3 pytania i odpowiedzi.
 
-WYMAGANIA:
-- Odpowiedzi mają być szczegółowe (50-150 słów)
-- Wyjaśniaj koncepcje, nie tylko definiuj
-- Podawaj przykłady gdy to możliwe
-- Zachowuj akademicki styl cybernetyki
+RYGORYSTYCZNE WYMAGANIA:
+- Każda odpowiedź MUSI mieć minimum 40-100 słów
+- Wyjaśniaj koncepcje krok po kroku, nie tylko definiuj
+- Podawaj konkretne przykłady z tekstu
+- Łącz z szerszym kontekstem cybernetyki
+- Używaj terminologii akademickiej
+- NIE PISZ krótkich definicji - rozwijaj temat
 
 TEKST:
 {text_chunk[:1200]}
 
-Format:
-Q: [szczegółowe pytanie o cybernetyce]
-A: [szczegółowa odpowiedź z wyjaśnieniami, minimum 50 słów]
+Format (każda odpowiedź minimum 40 słów):
+Q: [analityczne pytanie o cybernetyce]
+A: [rozwinięta odpowiedź z wyjaśnieniem, przykładami i kontekstem - minimum 40 słów]
 
 Q:"""
 
@@ -403,8 +405,8 @@ Q:"""
         # Filter out empty or very short Q&A pairs - require substantial answers
         qa_pairs = [qa for qa in qa_pairs if 
                     len(qa["question"]) > 15 and 
-                    len(qa["answer"]) > 100 and  # Minimum ~20 words
-                    len(qa["answer"].split()) >= 20]  # At least 20 words
+                    len(qa["answer"]) > 150 and  # Minimum ~30 words
+                    len(qa["answer"].split()) >= 30]  # At least 30 words
         
         print(f"🧠 Wygenerowano {len(qa_pairs)} par Q&A ekspertem cybernetyki")
         if qa_pairs:
