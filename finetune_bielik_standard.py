@@ -199,12 +199,14 @@ def main():
         model=model,
         train_dataset=dataset["train"],
         eval_dataset=dataset["test"],
-        peft_config=lora_config,
-        tokenizer=tokenizer,
         args=training_args,
+        data_collator=None,
         max_seq_length=2048,
         packing=False
     )
+    
+    # Set tokenizer manually
+    trainer.tokenizer = tokenizer
     
     # Uruchom trenowanie
     print("\n🔥 Rozpoczynam trenowanie...")
