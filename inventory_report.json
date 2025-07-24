@@ -1,0 +1,3494 @@
+{
+  "kossecki_analysis": {
+    "total_files": 90,
+    "by_extension": {
+      ".txt": [
+        {
+          "name": "cybernetyka_spoleczna-wyd2-ocr.txt",
+          "size_bytes": 1299219,
+          "size_mb": 1.24,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "o_pewnych_stereotypach_wykorzystywanych_do_dzialan_dezinformacyjnych_i_dezintegracyjnych-ocr.txt",
+          "size_bytes": 14930,
+          "size_mb": 0.01,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "czas_w_metacybernetyce-tiff.txt",
+          "size_bytes": 25941,
+          "size_mb": 0.02,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "cele_i_metody_badania_przeszlosci_w_roznych_systemach_sterowania_spolecznego-ocr.txt",
+          "size_bytes": 16333,
+          "size_mb": 0.02,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "relacje_abstrakcyjne-idealne_czy_realne-ocr.txt",
+          "size_bytes": 14552,
+          "size_mb": 0.01,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "integracja_nauki_i_calego_ludzkiego_poznania-ocr.txt",
+          "size_bytes": 20234,
+          "size_mb": 0.02,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "problemy_sterowania_cywilizacyjnym_potencjalem_wytwarzania_-tiff.txt",
+          "size_bytes": 51409,
+          "size_mb": 0.05,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "metacybernetyka-ocr.txt",
+          "size_bytes": 580167,
+          "size_mb": 0.55,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "geografia_opozycji_politycznej_w_polsce_w_latach_1976-1981-ocr.txt",
+          "size_bytes": 317739,
+          "size_mb": 0.3,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "granice_manipulacji-tiff.txt",
+          "size_bytes": 487520,
+          "size_mb": 0.46,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "jak_sterowac_spoleczenstwem-ocr.txt",
+          "size_bytes": 126608,
+          "size_mb": 0.12,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "wzajemne_wplywy_roznych_cywilizacji_w_ujeciu_cybernetyki_spolecznej.txt",
+          "size_bytes": 50324,
+          "size_mb": 0.05,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "socjotechnika_propagandy_politycznej-tiff.txt",
+          "size_bytes": 34319,
+          "size_mb": 0.03,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "naukowe_podstawy_nacjokratyzmu-tiff.txt",
+          "size_bytes": 558498,
+          "size_mb": 0.53,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "elementy_wojny_informacyjnej.txt",
+          "size_bytes": 42705,
+          "size_mb": 0.04,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "tajemnice_mafii_politycznych-tiff.txt",
+          "size_bytes": 624361,
+          "size_mb": 0.6,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "zderzenie_cywilizacji_lacinskiej_i_orientu.txt",
+          "size_bytes": 27480,
+          "size_mb": 0.03,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "elementy_nowoczesnej_wiedzy_o_sterowaniu_ludzmi-tiff.txt",
+          "size_bytes": 598817,
+          "size_mb": 0.57,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "wizerunek_polityczny.txt",
+          "size_bytes": 37502,
+          "size_mb": 0.04,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "porzadek-i-bezlad_w_ujeciu_metacybernetycznym-tiff.txt",
+          "size_bytes": 33311,
+          "size_mb": 0.03,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "ewolucja_metod_sterowania_spolecznego.txt",
+          "size_bytes": 6816,
+          "size_mb": 0.01,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "wplyw_totalnej_wojny_informacyjnej_na_dzieje_prl-jak_manipulowano_nauka_polska-ocr.txt",
+          "size_bytes": 95474,
+          "size_mb": 0.09,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "podstawy_nowoczesnej_nauki_porownawczej_o_cywilizacjach-dominacja_pierwiastkow_cywilizacji_bizantynskiej_w_zyciu_prl_i_iii_rp.txt",
+          "size_bytes": 75601,
+          "size_mb": 0.07,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "cybernetyka_kultury-ocr.txt",
+          "size_bytes": 506636,
+          "size_mb": 0.48,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "dotychczasowy_rozwoj_a_perspektywy_demograficzne_polski_i_ue-ocr (1).txt",
+          "size_bytes": 18271,
+          "size_mb": 0.02,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "cybernetyka_spoleczna-wyd1-tiff.txt",
+          "size_bytes": 1005925,
+          "size_mb": 0.96,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "gry_sil_i_interesow_w_historii-tiff.txt",
+          "size_bytes": 635155,
+          "size_mb": 0.61,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "analiza_funkcji_socjoznaczenia_pewnego_terminu_kluczowego_dla_badania_struktury_systemow_sterowania_spolecznego-ocr.txt",
+          "size_bytes": 20415,
+          "size_mb": 0.02,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "metajezyk_nauki_w_swietle_cybernetyki-ocr.txt",
+          "size_bytes": 35069,
+          "size_mb": 0.03,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "wspolczesne_panstwo_prawa_czy_etyki-ocr.txt",
+          "size_bytes": 34902,
+          "size_mb": 0.03,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "wzajemne_oddzialywania_panstw_jako_ukladow_sterowniczych-tiff.txt",
+          "size_bytes": 293742,
+          "size_mb": 0.28,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "subiektywne_i_obiektywne_metody_oceny_prawdziwosci_informacji_w_ujeciu_cybernetycznym-ocr.txt",
+          "size_bytes": 46381,
+          "size_mb": 0.04,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "socjocybernetyczne_funkcjonowanie_kategorii_piekna_i_brzydoty_w_roznych_systemach_sterowania_spolecznego-tiff.txt",
+          "size_bytes": 53469,
+          "size_mb": 0.05,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "ogolna_panorama_opozycji_politycznej-tiff.txt",
+          "size_bytes": 260706,
+          "size_mb": 0.25,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "tajemnice_mafii_politycznych-pewne_problemy_tajnej_polityki_miedzynarodowej.txt",
+          "size_bytes": 58750,
+          "size_mb": 0.06,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "relacja_prawda_falsz_w_ilosciowej_i_jakosciowej_teorii_informacji-ocr.txt",
+          "size_bytes": 110065,
+          "size_mb": 0.1,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "podstawy_nowoczesnej_nauki_porownawczej_o_cywilizacjach-tiff.txt",
+          "size_bytes": 486309,
+          "size_mb": 0.46,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "socjo-cybernetyczna_analiza_nauki-tiff.txt",
+          "size_bytes": 39598,
+          "size_mb": 0.04,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "znaczenie_relacji_prawdy_do_ideologii_dla_spolecznych_procesow_poznawczych-ocr.txt",
+          "size_bytes": 15432,
+          "size_mb": 0.01,
+          "extension": ".txt",
+          "exists": true
+        }
+      ],
+      ".doc": [
+        {
+          "name": "wizerunek_polityczny.doc",
+          "size_bytes": 103936,
+          "size_mb": 0.1,
+          "extension": ".doc",
+          "exists": true
+        },
+        {
+          "name": "zderzenie_cywilizacji_lacinskiej_i_orientu.doc",
+          "size_bytes": 105472,
+          "size_mb": 0.1,
+          "extension": ".doc",
+          "exists": true
+        },
+        {
+          "name": "ewolucja_metod_sterowania_spolecznego.doc",
+          "size_bytes": 48128,
+          "size_mb": 0.05,
+          "extension": ".doc",
+          "exists": true
+        },
+        {
+          "name": "podstawy_nowoczesnej_nauki_porownawczej_o_cywilizacjach-dominacja_pierwiastkow_cywilizacji_bizantynskiej_w_zyciu_prl_i_iii_rp.doc",
+          "size_bytes": 173056,
+          "size_mb": 0.17,
+          "extension": ".doc",
+          "exists": true
+        },
+        {
+          "name": "tajemnice_mafii_politycznych-pewne_problemy_tajnej_polityki_miedzynarodowej.doc",
+          "size_bytes": 133120,
+          "size_mb": 0.13,
+          "extension": ".doc",
+          "exists": true
+        },
+        {
+          "name": "wzajemne_wplywy_roznych_cywilizacji_w_ujeciu_cybernetyki_spolecznej.doc",
+          "size_bytes": 170496,
+          "size_mb": 0.16,
+          "extension": ".doc",
+          "exists": true
+        },
+        {
+          "name": "elementy_wojny_informacyjnej.doc",
+          "size_bytes": 110592,
+          "size_mb": 0.11,
+          "extension": ".doc",
+          "exists": true
+        }
+      ],
+      ".pdf": [
+        {
+          "name": "tajniki_sterowania_ludzmi.pdf",
+          "size_bytes": 16391740,
+          "size_mb": 15.63,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "jak_sterowac_spoleczenstwem-ocr.pdf",
+          "size_bytes": 340288,
+          "size_mb": 0.32,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "metacybernetyka-ocr.pdf",
+          "size_bytes": 1415380,
+          "size_mb": 1.35,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "geografia_opozycji_politycznej_w_polsce_w_latach_1976-1981-ocr.pdf",
+          "size_bytes": 831139,
+          "size_mb": 0.79,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "granice_manipulacji-tiff.pdf",
+          "size_bytes": 18901379,
+          "size_mb": 18.03,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "socjotechnika_propagandy_politycznej-tiff.pdf",
+          "size_bytes": 11201124,
+          "size_mb": 10.68,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "naukowe_podstawy_nacjokratyzmu-tiff.pdf",
+          "size_bytes": 14244702,
+          "size_mb": 13.58,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "tajemnice_mafii_politycznych-tiff.pdf",
+          "size_bytes": 23949757,
+          "size_mb": 22.84,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "podstawy_nowoczesnej_nauki_porownawczej_o_cywilizacjach-dominacja_pierwiastkow_cywilizacji_bizantynskiej_w_zyciu_prl_i_iii_rp-ocr.pdf",
+          "size_bytes": 203967,
+          "size_mb": 0.19,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "czas_w_metacybernetyce-tiff.pdf",
+          "size_bytes": 2293177,
+          "size_mb": 2.19,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "cele_i_metody_badania_przeszlosci_w_roznych_systemach_sterowania_spolecznego-ocr.pdf",
+          "size_bytes": 74939,
+          "size_mb": 0.07,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "procesy_sterowania_spolecznego_w_zakresie_norm_zdrowotnych_-tiff.pdf",
+          "size_bytes": 5033379,
+          "size_mb": 4.8,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "cybernetyka_spoleczna-wyd2-ocr.pdf",
+          "size_bytes": 3079590,
+          "size_mb": 2.94,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "znaczenie_czasu_decyzyjnego_dla_struktury_organizacyjnej_spoleczenstwa-tiff.pdf",
+          "size_bytes": 2477115,
+          "size_mb": 2.36,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "o_pewnych_stereotypach_wykorzystywanych_do_dzialan_dezinformacyjnych_i_dezintegracyjnych-ocr.pdf",
+          "size_bytes": 93304,
+          "size_mb": 0.09,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "spoleczno-sterownicze_znaczenie_programowania_ideologicznego-tiff.pdf",
+          "size_bytes": 2339932,
+          "size_mb": 2.23,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "zderzenie_cywilizacji_lacinskiej_i_orientu-ocr.pdf",
+          "size_bytes": 100980,
+          "size_mb": 0.1,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "integracja_nauki_i_calego_ludzkiego_poznania-ocr.pdf",
+          "size_bytes": 84072,
+          "size_mb": 0.08,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "problemy_sterowania_cywilizacyjnym_potencjalem_wytwarzania_-tiff.pdf",
+          "size_bytes": 10452018,
+          "size_mb": 9.97,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "tajemnice_mafii_politycznych-pewne_problemy_tajnej_polityki_miedzynarodowej-ocr.pdf",
+          "size_bytes": 152459,
+          "size_mb": 0.15,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "relacje_abstrakcyjne-idealne_czy_realne-ocr.pdf",
+          "size_bytes": 54565,
+          "size_mb": 0.05,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "socjocybernetyczne_funkcjonowanie_kategorii_piekna_i_brzydoty_w_roznych_systemach_sterowania_spolecznego-tiff.pdf",
+          "size_bytes": 4957579,
+          "size_mb": 4.73,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "ogolna_panorama_opozycji_politycznej-tiff.pdf",
+          "size_bytes": 15133518,
+          "size_mb": 14.43,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "wzajemne_oddzialywania_panstw_jako_ukladow_sterowniczych-tiff.pdf",
+          "size_bytes": 9532701,
+          "size_mb": 9.09,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "wspolczesne_panstwo_prawa_czy_etyki-ocr.pdf",
+          "size_bytes": 122371,
+          "size_mb": 0.12,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "czy_swiat_zmierza_do_jednosci_czy_roznorodnosci-tiff.pdf",
+          "size_bytes": 2838110,
+          "size_mb": 2.71,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "subiektywne_i_obiektywne_metody_oceny_prawdziwosci_informacji_w_ujeciu_cybernetycznym-ocr.pdf",
+          "size_bytes": 138201,
+          "size_mb": 0.13,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "rzymski_czy_bizantyjski-tiff.pdf",
+          "size_bytes": 11416034,
+          "size_mb": 10.89,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "relacja_prawda_falsz_w_ilosciowej_i_jakosciowej_teorii_informacji-ocr.pdf",
+          "size_bytes": 337963,
+          "size_mb": 0.32,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "podstawy_nowoczesnej_nauki_porownawczej_o_cywilizacjach-tiff.pdf",
+          "size_bytes": 23014126,
+          "size_mb": 21.95,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "socjo-cybernetyczna_analiza_nauki-tiff.pdf",
+          "size_bytes": 16631762,
+          "size_mb": 15.86,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "znaczenie_relacji_prawdy_do_ideologii_dla_spolecznych_procesow_poznawczych-ocr.pdf",
+          "size_bytes": 69960,
+          "size_mb": 0.07,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "ewolucja_metod_sterowania_spolecznego-ocr.pdf",
+          "size_bytes": 53125,
+          "size_mb": 0.05,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "cybernetyczna_analiza_mozliwosci_jednoczenia_europy-tiff.pdf",
+          "size_bytes": 6844901,
+          "size_mb": 6.53,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "porzadek-i-bezlad_w_ujeciu_metacybernetycznym-tiff.pdf",
+          "size_bytes": 3129999,
+          "size_mb": 2.98,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "elementy_nowoczesnej_wiedzy_o_sterowaniu_ludzmi-tiff.pdf",
+          "size_bytes": 11951296,
+          "size_mb": 11.4,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "gry_sil_i_interesow_w_historii-tiff.pdf",
+          "size_bytes": 43959196,
+          "size_mb": 41.92,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "wizerunek_polityczny-ocr.pdf",
+          "size_bytes": 127402,
+          "size_mb": 0.12,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "analiza_funkcji_socjoznaczenia_pewnego_terminu_kluczowego_dla_badania_struktury_systemow_sterowania_spolecznego-ocr.pdf",
+          "size_bytes": 136213,
+          "size_mb": 0.13,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "metajezyk_nauki_w_swietle_cybernetyki-ocr.pdf",
+          "size_bytes": 132008,
+          "size_mb": 0.13,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "wplyw_totalnej_wojny_informacyjnej_na_dzieje_prl-jak_manipulowano_nauka_polska-ocr.pdf",
+          "size_bytes": 291686,
+          "size_mb": 0.28,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "cybernetyka_kultury-ocr.pdf",
+          "size_bytes": 1526634,
+          "size_mb": 1.46,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "dotychczasowy_rozwoj_a_perspektywy_demograficzne_polski_i_ue-ocr (1).pdf",
+          "size_bytes": 72022,
+          "size_mb": 0.07,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "cybernetyka_spoleczna-wyd1-tiff.pdf",
+          "size_bytes": 28669544,
+          "size_mb": 27.34,
+          "extension": ".pdf",
+          "exists": true
+        }
+      ]
+    },
+    "by_type": {
+      "text": [
+        {
+          "name": "cybernetyka_spoleczna-wyd2-ocr.txt",
+          "size_bytes": 1299219,
+          "size_mb": 1.24,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "o_pewnych_stereotypach_wykorzystywanych_do_dzialan_dezinformacyjnych_i_dezintegracyjnych-ocr.txt",
+          "size_bytes": 14930,
+          "size_mb": 0.01,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "czas_w_metacybernetyce-tiff.txt",
+          "size_bytes": 25941,
+          "size_mb": 0.02,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "cele_i_metody_badania_przeszlosci_w_roznych_systemach_sterowania_spolecznego-ocr.txt",
+          "size_bytes": 16333,
+          "size_mb": 0.02,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "relacje_abstrakcyjne-idealne_czy_realne-ocr.txt",
+          "size_bytes": 14552,
+          "size_mb": 0.01,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "integracja_nauki_i_calego_ludzkiego_poznania-ocr.txt",
+          "size_bytes": 20234,
+          "size_mb": 0.02,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "problemy_sterowania_cywilizacyjnym_potencjalem_wytwarzania_-tiff.txt",
+          "size_bytes": 51409,
+          "size_mb": 0.05,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "metacybernetyka-ocr.txt",
+          "size_bytes": 580167,
+          "size_mb": 0.55,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "geografia_opozycji_politycznej_w_polsce_w_latach_1976-1981-ocr.txt",
+          "size_bytes": 317739,
+          "size_mb": 0.3,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "granice_manipulacji-tiff.txt",
+          "size_bytes": 487520,
+          "size_mb": 0.46,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "jak_sterowac_spoleczenstwem-ocr.txt",
+          "size_bytes": 126608,
+          "size_mb": 0.12,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "wzajemne_wplywy_roznych_cywilizacji_w_ujeciu_cybernetyki_spolecznej.txt",
+          "size_bytes": 50324,
+          "size_mb": 0.05,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "socjotechnika_propagandy_politycznej-tiff.txt",
+          "size_bytes": 34319,
+          "size_mb": 0.03,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "naukowe_podstawy_nacjokratyzmu-tiff.txt",
+          "size_bytes": 558498,
+          "size_mb": 0.53,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "elementy_wojny_informacyjnej.txt",
+          "size_bytes": 42705,
+          "size_mb": 0.04,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "tajemnice_mafii_politycznych-tiff.txt",
+          "size_bytes": 624361,
+          "size_mb": 0.6,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "zderzenie_cywilizacji_lacinskiej_i_orientu.txt",
+          "size_bytes": 27480,
+          "size_mb": 0.03,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "elementy_nowoczesnej_wiedzy_o_sterowaniu_ludzmi-tiff.txt",
+          "size_bytes": 598817,
+          "size_mb": 0.57,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "wizerunek_polityczny.txt",
+          "size_bytes": 37502,
+          "size_mb": 0.04,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "porzadek-i-bezlad_w_ujeciu_metacybernetycznym-tiff.txt",
+          "size_bytes": 33311,
+          "size_mb": 0.03,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "ewolucja_metod_sterowania_spolecznego.txt",
+          "size_bytes": 6816,
+          "size_mb": 0.01,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "wplyw_totalnej_wojny_informacyjnej_na_dzieje_prl-jak_manipulowano_nauka_polska-ocr.txt",
+          "size_bytes": 95474,
+          "size_mb": 0.09,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "podstawy_nowoczesnej_nauki_porownawczej_o_cywilizacjach-dominacja_pierwiastkow_cywilizacji_bizantynskiej_w_zyciu_prl_i_iii_rp.txt",
+          "size_bytes": 75601,
+          "size_mb": 0.07,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "cybernetyka_kultury-ocr.txt",
+          "size_bytes": 506636,
+          "size_mb": 0.48,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "dotychczasowy_rozwoj_a_perspektywy_demograficzne_polski_i_ue-ocr (1).txt",
+          "size_bytes": 18271,
+          "size_mb": 0.02,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "cybernetyka_spoleczna-wyd1-tiff.txt",
+          "size_bytes": 1005925,
+          "size_mb": 0.96,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "gry_sil_i_interesow_w_historii-tiff.txt",
+          "size_bytes": 635155,
+          "size_mb": 0.61,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "analiza_funkcji_socjoznaczenia_pewnego_terminu_kluczowego_dla_badania_struktury_systemow_sterowania_spolecznego-ocr.txt",
+          "size_bytes": 20415,
+          "size_mb": 0.02,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "metajezyk_nauki_w_swietle_cybernetyki-ocr.txt",
+          "size_bytes": 35069,
+          "size_mb": 0.03,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "wspolczesne_panstwo_prawa_czy_etyki-ocr.txt",
+          "size_bytes": 34902,
+          "size_mb": 0.03,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "wzajemne_oddzialywania_panstw_jako_ukladow_sterowniczych-tiff.txt",
+          "size_bytes": 293742,
+          "size_mb": 0.28,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "subiektywne_i_obiektywne_metody_oceny_prawdziwosci_informacji_w_ujeciu_cybernetycznym-ocr.txt",
+          "size_bytes": 46381,
+          "size_mb": 0.04,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "socjocybernetyczne_funkcjonowanie_kategorii_piekna_i_brzydoty_w_roznych_systemach_sterowania_spolecznego-tiff.txt",
+          "size_bytes": 53469,
+          "size_mb": 0.05,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "ogolna_panorama_opozycji_politycznej-tiff.txt",
+          "size_bytes": 260706,
+          "size_mb": 0.25,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "tajemnice_mafii_politycznych-pewne_problemy_tajnej_polityki_miedzynarodowej.txt",
+          "size_bytes": 58750,
+          "size_mb": 0.06,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "relacja_prawda_falsz_w_ilosciowej_i_jakosciowej_teorii_informacji-ocr.txt",
+          "size_bytes": 110065,
+          "size_mb": 0.1,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "podstawy_nowoczesnej_nauki_porownawczej_o_cywilizacjach-tiff.txt",
+          "size_bytes": 486309,
+          "size_mb": 0.46,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "socjo-cybernetyczna_analiza_nauki-tiff.txt",
+          "size_bytes": 39598,
+          "size_mb": 0.04,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "znaczenie_relacji_prawdy_do_ideologii_dla_spolecznych_procesow_poznawczych-ocr.txt",
+          "size_bytes": 15432,
+          "size_mb": 0.01,
+          "extension": ".txt",
+          "exists": true
+        }
+      ],
+      "doc": [
+        {
+          "name": "wizerunek_polityczny.doc",
+          "size_bytes": 103936,
+          "size_mb": 0.1,
+          "extension": ".doc",
+          "exists": true
+        },
+        {
+          "name": "zderzenie_cywilizacji_lacinskiej_i_orientu.doc",
+          "size_bytes": 105472,
+          "size_mb": 0.1,
+          "extension": ".doc",
+          "exists": true
+        },
+        {
+          "name": "ewolucja_metod_sterowania_spolecznego.doc",
+          "size_bytes": 48128,
+          "size_mb": 0.05,
+          "extension": ".doc",
+          "exists": true
+        },
+        {
+          "name": "podstawy_nowoczesnej_nauki_porownawczej_o_cywilizacjach-dominacja_pierwiastkow_cywilizacji_bizantynskiej_w_zyciu_prl_i_iii_rp.doc",
+          "size_bytes": 173056,
+          "size_mb": 0.17,
+          "extension": ".doc",
+          "exists": true
+        },
+        {
+          "name": "tajemnice_mafii_politycznych-pewne_problemy_tajnej_polityki_miedzynarodowej.doc",
+          "size_bytes": 133120,
+          "size_mb": 0.13,
+          "extension": ".doc",
+          "exists": true
+        },
+        {
+          "name": "wzajemne_wplywy_roznych_cywilizacji_w_ujeciu_cybernetyki_spolecznej.doc",
+          "size_bytes": 170496,
+          "size_mb": 0.16,
+          "extension": ".doc",
+          "exists": true
+        },
+        {
+          "name": "elementy_wojny_informacyjnej.doc",
+          "size_bytes": 110592,
+          "size_mb": 0.11,
+          "extension": ".doc",
+          "exists": true
+        }
+      ],
+      "pdf": [
+        {
+          "name": "tajniki_sterowania_ludzmi.pdf",
+          "size_bytes": 16391740,
+          "size_mb": 15.63,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "jak_sterowac_spoleczenstwem-ocr.pdf",
+          "size_bytes": 340288,
+          "size_mb": 0.32,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "metacybernetyka-ocr.pdf",
+          "size_bytes": 1415380,
+          "size_mb": 1.35,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "geografia_opozycji_politycznej_w_polsce_w_latach_1976-1981-ocr.pdf",
+          "size_bytes": 831139,
+          "size_mb": 0.79,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "granice_manipulacji-tiff.pdf",
+          "size_bytes": 18901379,
+          "size_mb": 18.03,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "socjotechnika_propagandy_politycznej-tiff.pdf",
+          "size_bytes": 11201124,
+          "size_mb": 10.68,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "naukowe_podstawy_nacjokratyzmu-tiff.pdf",
+          "size_bytes": 14244702,
+          "size_mb": 13.58,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "tajemnice_mafii_politycznych-tiff.pdf",
+          "size_bytes": 23949757,
+          "size_mb": 22.84,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "podstawy_nowoczesnej_nauki_porownawczej_o_cywilizacjach-dominacja_pierwiastkow_cywilizacji_bizantynskiej_w_zyciu_prl_i_iii_rp-ocr.pdf",
+          "size_bytes": 203967,
+          "size_mb": 0.19,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "czas_w_metacybernetyce-tiff.pdf",
+          "size_bytes": 2293177,
+          "size_mb": 2.19,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "cele_i_metody_badania_przeszlosci_w_roznych_systemach_sterowania_spolecznego-ocr.pdf",
+          "size_bytes": 74939,
+          "size_mb": 0.07,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "procesy_sterowania_spolecznego_w_zakresie_norm_zdrowotnych_-tiff.pdf",
+          "size_bytes": 5033379,
+          "size_mb": 4.8,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "cybernetyka_spoleczna-wyd2-ocr.pdf",
+          "size_bytes": 3079590,
+          "size_mb": 2.94,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "znaczenie_czasu_decyzyjnego_dla_struktury_organizacyjnej_spoleczenstwa-tiff.pdf",
+          "size_bytes": 2477115,
+          "size_mb": 2.36,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "o_pewnych_stereotypach_wykorzystywanych_do_dzialan_dezinformacyjnych_i_dezintegracyjnych-ocr.pdf",
+          "size_bytes": 93304,
+          "size_mb": 0.09,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "spoleczno-sterownicze_znaczenie_programowania_ideologicznego-tiff.pdf",
+          "size_bytes": 2339932,
+          "size_mb": 2.23,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "zderzenie_cywilizacji_lacinskiej_i_orientu-ocr.pdf",
+          "size_bytes": 100980,
+          "size_mb": 0.1,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "integracja_nauki_i_calego_ludzkiego_poznania-ocr.pdf",
+          "size_bytes": 84072,
+          "size_mb": 0.08,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "problemy_sterowania_cywilizacyjnym_potencjalem_wytwarzania_-tiff.pdf",
+          "size_bytes": 10452018,
+          "size_mb": 9.97,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "tajemnice_mafii_politycznych-pewne_problemy_tajnej_polityki_miedzynarodowej-ocr.pdf",
+          "size_bytes": 152459,
+          "size_mb": 0.15,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "relacje_abstrakcyjne-idealne_czy_realne-ocr.pdf",
+          "size_bytes": 54565,
+          "size_mb": 0.05,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "socjocybernetyczne_funkcjonowanie_kategorii_piekna_i_brzydoty_w_roznych_systemach_sterowania_spolecznego-tiff.pdf",
+          "size_bytes": 4957579,
+          "size_mb": 4.73,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "ogolna_panorama_opozycji_politycznej-tiff.pdf",
+          "size_bytes": 15133518,
+          "size_mb": 14.43,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "wzajemne_oddzialywania_panstw_jako_ukladow_sterowniczych-tiff.pdf",
+          "size_bytes": 9532701,
+          "size_mb": 9.09,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "wspolczesne_panstwo_prawa_czy_etyki-ocr.pdf",
+          "size_bytes": 122371,
+          "size_mb": 0.12,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "czy_swiat_zmierza_do_jednosci_czy_roznorodnosci-tiff.pdf",
+          "size_bytes": 2838110,
+          "size_mb": 2.71,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "subiektywne_i_obiektywne_metody_oceny_prawdziwosci_informacji_w_ujeciu_cybernetycznym-ocr.pdf",
+          "size_bytes": 138201,
+          "size_mb": 0.13,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "rzymski_czy_bizantyjski-tiff.pdf",
+          "size_bytes": 11416034,
+          "size_mb": 10.89,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "relacja_prawda_falsz_w_ilosciowej_i_jakosciowej_teorii_informacji-ocr.pdf",
+          "size_bytes": 337963,
+          "size_mb": 0.32,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "podstawy_nowoczesnej_nauki_porownawczej_o_cywilizacjach-tiff.pdf",
+          "size_bytes": 23014126,
+          "size_mb": 21.95,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "socjo-cybernetyczna_analiza_nauki-tiff.pdf",
+          "size_bytes": 16631762,
+          "size_mb": 15.86,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "znaczenie_relacji_prawdy_do_ideologii_dla_spolecznych_procesow_poznawczych-ocr.pdf",
+          "size_bytes": 69960,
+          "size_mb": 0.07,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "ewolucja_metod_sterowania_spolecznego-ocr.pdf",
+          "size_bytes": 53125,
+          "size_mb": 0.05,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "cybernetyczna_analiza_mozliwosci_jednoczenia_europy-tiff.pdf",
+          "size_bytes": 6844901,
+          "size_mb": 6.53,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "porzadek-i-bezlad_w_ujeciu_metacybernetycznym-tiff.pdf",
+          "size_bytes": 3129999,
+          "size_mb": 2.98,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "elementy_nowoczesnej_wiedzy_o_sterowaniu_ludzmi-tiff.pdf",
+          "size_bytes": 11951296,
+          "size_mb": 11.4,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "gry_sil_i_interesow_w_historii-tiff.pdf",
+          "size_bytes": 43959196,
+          "size_mb": 41.92,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "wizerunek_polityczny-ocr.pdf",
+          "size_bytes": 127402,
+          "size_mb": 0.12,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "analiza_funkcji_socjoznaczenia_pewnego_terminu_kluczowego_dla_badania_struktury_systemow_sterowania_spolecznego-ocr.pdf",
+          "size_bytes": 136213,
+          "size_mb": 0.13,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "metajezyk_nauki_w_swietle_cybernetyki-ocr.pdf",
+          "size_bytes": 132008,
+          "size_mb": 0.13,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "wplyw_totalnej_wojny_informacyjnej_na_dzieje_prl-jak_manipulowano_nauka_polska-ocr.pdf",
+          "size_bytes": 291686,
+          "size_mb": 0.28,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "cybernetyka_kultury-ocr.pdf",
+          "size_bytes": 1526634,
+          "size_mb": 1.46,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "dotychczasowy_rozwoj_a_perspektywy_demograficzne_polski_i_ue-ocr (1).pdf",
+          "size_bytes": 72022,
+          "size_mb": 0.07,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "cybernetyka_spoleczna-wyd1-tiff.pdf",
+          "size_bytes": 28669544,
+          "size_mb": 27.34,
+          "extension": ".pdf",
+          "exists": true
+        }
+      ]
+    },
+    "total_size_mb": 290.2999999999999,
+    "text_ready": [
+      {
+        "name": "cybernetyka_spoleczna-wyd2-ocr.txt",
+        "size_bytes": 1299219,
+        "size_mb": 1.24,
+        "extension": ".txt",
+        "exists": true
+      },
+      {
+        "name": "o_pewnych_stereotypach_wykorzystywanych_do_dzialan_dezinformacyjnych_i_dezintegracyjnych-ocr.txt",
+        "size_bytes": 14930,
+        "size_mb": 0.01,
+        "extension": ".txt",
+        "exists": true
+      },
+      {
+        "name": "czas_w_metacybernetyce-tiff.txt",
+        "size_bytes": 25941,
+        "size_mb": 0.02,
+        "extension": ".txt",
+        "exists": true
+      },
+      {
+        "name": "cele_i_metody_badania_przeszlosci_w_roznych_systemach_sterowania_spolecznego-ocr.txt",
+        "size_bytes": 16333,
+        "size_mb": 0.02,
+        "extension": ".txt",
+        "exists": true
+      },
+      {
+        "name": "relacje_abstrakcyjne-idealne_czy_realne-ocr.txt",
+        "size_bytes": 14552,
+        "size_mb": 0.01,
+        "extension": ".txt",
+        "exists": true
+      },
+      {
+        "name": "integracja_nauki_i_calego_ludzkiego_poznania-ocr.txt",
+        "size_bytes": 20234,
+        "size_mb": 0.02,
+        "extension": ".txt",
+        "exists": true
+      },
+      {
+        "name": "problemy_sterowania_cywilizacyjnym_potencjalem_wytwarzania_-tiff.txt",
+        "size_bytes": 51409,
+        "size_mb": 0.05,
+        "extension": ".txt",
+        "exists": true
+      },
+      {
+        "name": "metacybernetyka-ocr.txt",
+        "size_bytes": 580167,
+        "size_mb": 0.55,
+        "extension": ".txt",
+        "exists": true
+      },
+      {
+        "name": "geografia_opozycji_politycznej_w_polsce_w_latach_1976-1981-ocr.txt",
+        "size_bytes": 317739,
+        "size_mb": 0.3,
+        "extension": ".txt",
+        "exists": true
+      },
+      {
+        "name": "granice_manipulacji-tiff.txt",
+        "size_bytes": 487520,
+        "size_mb": 0.46,
+        "extension": ".txt",
+        "exists": true
+      },
+      {
+        "name": "jak_sterowac_spoleczenstwem-ocr.txt",
+        "size_bytes": 126608,
+        "size_mb": 0.12,
+        "extension": ".txt",
+        "exists": true
+      },
+      {
+        "name": "wzajemne_wplywy_roznych_cywilizacji_w_ujeciu_cybernetyki_spolecznej.txt",
+        "size_bytes": 50324,
+        "size_mb": 0.05,
+        "extension": ".txt",
+        "exists": true
+      },
+      {
+        "name": "socjotechnika_propagandy_politycznej-tiff.txt",
+        "size_bytes": 34319,
+        "size_mb": 0.03,
+        "extension": ".txt",
+        "exists": true
+      },
+      {
+        "name": "naukowe_podstawy_nacjokratyzmu-tiff.txt",
+        "size_bytes": 558498,
+        "size_mb": 0.53,
+        "extension": ".txt",
+        "exists": true
+      },
+      {
+        "name": "elementy_wojny_informacyjnej.txt",
+        "size_bytes": 42705,
+        "size_mb": 0.04,
+        "extension": ".txt",
+        "exists": true
+      },
+      {
+        "name": "tajemnice_mafii_politycznych-tiff.txt",
+        "size_bytes": 624361,
+        "size_mb": 0.6,
+        "extension": ".txt",
+        "exists": true
+      },
+      {
+        "name": "zderzenie_cywilizacji_lacinskiej_i_orientu.txt",
+        "size_bytes": 27480,
+        "size_mb": 0.03,
+        "extension": ".txt",
+        "exists": true
+      },
+      {
+        "name": "elementy_nowoczesnej_wiedzy_o_sterowaniu_ludzmi-tiff.txt",
+        "size_bytes": 598817,
+        "size_mb": 0.57,
+        "extension": ".txt",
+        "exists": true
+      },
+      {
+        "name": "wizerunek_polityczny.txt",
+        "size_bytes": 37502,
+        "size_mb": 0.04,
+        "extension": ".txt",
+        "exists": true
+      },
+      {
+        "name": "porzadek-i-bezlad_w_ujeciu_metacybernetycznym-tiff.txt",
+        "size_bytes": 33311,
+        "size_mb": 0.03,
+        "extension": ".txt",
+        "exists": true
+      },
+      {
+        "name": "ewolucja_metod_sterowania_spolecznego.txt",
+        "size_bytes": 6816,
+        "size_mb": 0.01,
+        "extension": ".txt",
+        "exists": true
+      },
+      {
+        "name": "wplyw_totalnej_wojny_informacyjnej_na_dzieje_prl-jak_manipulowano_nauka_polska-ocr.txt",
+        "size_bytes": 95474,
+        "size_mb": 0.09,
+        "extension": ".txt",
+        "exists": true
+      },
+      {
+        "name": "podstawy_nowoczesnej_nauki_porownawczej_o_cywilizacjach-dominacja_pierwiastkow_cywilizacji_bizantynskiej_w_zyciu_prl_i_iii_rp.txt",
+        "size_bytes": 75601,
+        "size_mb": 0.07,
+        "extension": ".txt",
+        "exists": true
+      },
+      {
+        "name": "cybernetyka_kultury-ocr.txt",
+        "size_bytes": 506636,
+        "size_mb": 0.48,
+        "extension": ".txt",
+        "exists": true
+      },
+      {
+        "name": "dotychczasowy_rozwoj_a_perspektywy_demograficzne_polski_i_ue-ocr (1).txt",
+        "size_bytes": 18271,
+        "size_mb": 0.02,
+        "extension": ".txt",
+        "exists": true
+      },
+      {
+        "name": "cybernetyka_spoleczna-wyd1-tiff.txt",
+        "size_bytes": 1005925,
+        "size_mb": 0.96,
+        "extension": ".txt",
+        "exists": true
+      },
+      {
+        "name": "gry_sil_i_interesow_w_historii-tiff.txt",
+        "size_bytes": 635155,
+        "size_mb": 0.61,
+        "extension": ".txt",
+        "exists": true
+      },
+      {
+        "name": "analiza_funkcji_socjoznaczenia_pewnego_terminu_kluczowego_dla_badania_struktury_systemow_sterowania_spolecznego-ocr.txt",
+        "size_bytes": 20415,
+        "size_mb": 0.02,
+        "extension": ".txt",
+        "exists": true
+      },
+      {
+        "name": "metajezyk_nauki_w_swietle_cybernetyki-ocr.txt",
+        "size_bytes": 35069,
+        "size_mb": 0.03,
+        "extension": ".txt",
+        "exists": true
+      },
+      {
+        "name": "wspolczesne_panstwo_prawa_czy_etyki-ocr.txt",
+        "size_bytes": 34902,
+        "size_mb": 0.03,
+        "extension": ".txt",
+        "exists": true
+      },
+      {
+        "name": "wzajemne_oddzialywania_panstw_jako_ukladow_sterowniczych-tiff.txt",
+        "size_bytes": 293742,
+        "size_mb": 0.28,
+        "extension": ".txt",
+        "exists": true
+      },
+      {
+        "name": "subiektywne_i_obiektywne_metody_oceny_prawdziwosci_informacji_w_ujeciu_cybernetycznym-ocr.txt",
+        "size_bytes": 46381,
+        "size_mb": 0.04,
+        "extension": ".txt",
+        "exists": true
+      },
+      {
+        "name": "socjocybernetyczne_funkcjonowanie_kategorii_piekna_i_brzydoty_w_roznych_systemach_sterowania_spolecznego-tiff.txt",
+        "size_bytes": 53469,
+        "size_mb": 0.05,
+        "extension": ".txt",
+        "exists": true
+      },
+      {
+        "name": "ogolna_panorama_opozycji_politycznej-tiff.txt",
+        "size_bytes": 260706,
+        "size_mb": 0.25,
+        "extension": ".txt",
+        "exists": true
+      },
+      {
+        "name": "tajemnice_mafii_politycznych-pewne_problemy_tajnej_polityki_miedzynarodowej.txt",
+        "size_bytes": 58750,
+        "size_mb": 0.06,
+        "extension": ".txt",
+        "exists": true
+      },
+      {
+        "name": "relacja_prawda_falsz_w_ilosciowej_i_jakosciowej_teorii_informacji-ocr.txt",
+        "size_bytes": 110065,
+        "size_mb": 0.1,
+        "extension": ".txt",
+        "exists": true
+      },
+      {
+        "name": "podstawy_nowoczesnej_nauki_porownawczej_o_cywilizacjach-tiff.txt",
+        "size_bytes": 486309,
+        "size_mb": 0.46,
+        "extension": ".txt",
+        "exists": true
+      },
+      {
+        "name": "socjo-cybernetyczna_analiza_nauki-tiff.txt",
+        "size_bytes": 39598,
+        "size_mb": 0.04,
+        "extension": ".txt",
+        "exists": true
+      },
+      {
+        "name": "znaczenie_relacji_prawdy_do_ideologii_dla_spolecznych_procesow_poznawczych-ocr.txt",
+        "size_bytes": 15432,
+        "size_mb": 0.01,
+        "extension": ".txt",
+        "exists": true
+      }
+    ],
+    "needs_processing": [
+      {
+        "name": "wizerunek_polityczny.doc",
+        "size_bytes": 103936,
+        "size_mb": 0.1,
+        "extension": ".doc",
+        "exists": true
+      },
+      {
+        "name": "zderzenie_cywilizacji_lacinskiej_i_orientu.doc",
+        "size_bytes": 105472,
+        "size_mb": 0.1,
+        "extension": ".doc",
+        "exists": true
+      },
+      {
+        "name": "ewolucja_metod_sterowania_spolecznego.doc",
+        "size_bytes": 48128,
+        "size_mb": 0.05,
+        "extension": ".doc",
+        "exists": true
+      },
+      {
+        "name": "podstawy_nowoczesnej_nauki_porownawczej_o_cywilizacjach-dominacja_pierwiastkow_cywilizacji_bizantynskiej_w_zyciu_prl_i_iii_rp.doc",
+        "size_bytes": 173056,
+        "size_mb": 0.17,
+        "extension": ".doc",
+        "exists": true
+      },
+      {
+        "name": "tajemnice_mafii_politycznych-pewne_problemy_tajnej_polityki_miedzynarodowej.doc",
+        "size_bytes": 133120,
+        "size_mb": 0.13,
+        "extension": ".doc",
+        "exists": true
+      },
+      {
+        "name": "wzajemne_wplywy_roznych_cywilizacji_w_ujeciu_cybernetyki_spolecznej.doc",
+        "size_bytes": 170496,
+        "size_mb": 0.16,
+        "extension": ".doc",
+        "exists": true
+      },
+      {
+        "name": "elementy_wojny_informacyjnej.doc",
+        "size_bytes": 110592,
+        "size_mb": 0.11,
+        "extension": ".doc",
+        "exists": true
+      },
+      {
+        "name": "wizerunek_polityczny-ocr.pdf",
+        "size_bytes": 127402,
+        "size_mb": 0.12,
+        "extension": ".pdf",
+        "exists": true
+      },
+      {
+        "name": "zderzenie_cywilizacji_lacinskiej_i_orientu-ocr.pdf",
+        "size_bytes": 100980,
+        "size_mb": 0.1,
+        "extension": ".pdf",
+        "exists": true
+      },
+      {
+        "name": "ewolucja_metod_sterowania_spolecznego-ocr.pdf",
+        "size_bytes": 53125,
+        "size_mb": 0.05,
+        "extension": ".pdf",
+        "exists": true
+      },
+      {
+        "name": "podstawy_nowoczesnej_nauki_porownawczej_o_cywilizacjach-dominacja_pierwiastkow_cywilizacji_bizantynskiej_w_zyciu_prl_i_iii_rp-ocr.pdf",
+        "size_bytes": 203967,
+        "size_mb": 0.19,
+        "extension": ".pdf",
+        "exists": true
+      },
+      {
+        "name": "tajemnice_mafii_politycznych-pewne_problemy_tajnej_polityki_miedzynarodowej-ocr.pdf",
+        "size_bytes": 152459,
+        "size_mb": 0.15,
+        "extension": ".pdf",
+        "exists": true
+      }
+    ],
+    "processed_pairs": [
+      {
+        "pdf": {
+          "name": "czas_w_metacybernetyce-tiff.pdf",
+          "size_bytes": 2293177,
+          "size_mb": 2.19,
+          "extension": ".pdf",
+          "exists": true
+        },
+        "txt": {
+          "name": "czas_w_metacybernetyce-tiff.txt",
+          "size_bytes": 25941,
+          "size_mb": 0.02,
+          "extension": ".txt",
+          "exists": true
+        },
+        "base_name": "czas_w_metacybernetyce"
+      },
+      {
+        "pdf": {
+          "name": "granice_manipulacji-tiff.pdf",
+          "size_bytes": 18901379,
+          "size_mb": 18.03,
+          "extension": ".pdf",
+          "exists": true
+        },
+        "txt": {
+          "name": "granice_manipulacji-tiff.txt",
+          "size_bytes": 487520,
+          "size_mb": 0.46,
+          "extension": ".txt",
+          "exists": true
+        },
+        "base_name": "granice_manipulacji"
+      },
+      {
+        "pdf": {
+          "name": "socjotechnika_propagandy_politycznej-tiff.pdf",
+          "size_bytes": 11201124,
+          "size_mb": 10.68,
+          "extension": ".pdf",
+          "exists": true
+        },
+        "txt": {
+          "name": "socjotechnika_propagandy_politycznej-tiff.txt",
+          "size_bytes": 34319,
+          "size_mb": 0.03,
+          "extension": ".txt",
+          "exists": true
+        },
+        "base_name": "socjotechnika_propagandy_politycznej"
+      },
+      {
+        "pdf": {
+          "name": "naukowe_podstawy_nacjokratyzmu-tiff.pdf",
+          "size_bytes": 14244702,
+          "size_mb": 13.58,
+          "extension": ".pdf",
+          "exists": true
+        },
+        "txt": {
+          "name": "naukowe_podstawy_nacjokratyzmu-tiff.txt",
+          "size_bytes": 558498,
+          "size_mb": 0.53,
+          "extension": ".txt",
+          "exists": true
+        },
+        "base_name": "naukowe_podstawy_nacjokratyzmu"
+      },
+      {
+        "pdf": {
+          "name": "tajemnice_mafii_politycznych-tiff.pdf",
+          "size_bytes": 23949757,
+          "size_mb": 22.84,
+          "extension": ".pdf",
+          "exists": true
+        },
+        "txt": {
+          "name": "tajemnice_mafii_politycznych-tiff.txt",
+          "size_bytes": 624361,
+          "size_mb": 0.6,
+          "extension": ".txt",
+          "exists": true
+        },
+        "base_name": "tajemnice_mafii_politycznych"
+      },
+      {
+        "pdf": {
+          "name": "problemy_sterowania_cywilizacyjnym_potencjalem_wytwarzania_-tiff.pdf",
+          "size_bytes": 10452018,
+          "size_mb": 9.97,
+          "extension": ".pdf",
+          "exists": true
+        },
+        "txt": {
+          "name": "problemy_sterowania_cywilizacyjnym_potencjalem_wytwarzania_-tiff.txt",
+          "size_bytes": 51409,
+          "size_mb": 0.05,
+          "extension": ".txt",
+          "exists": true
+        },
+        "base_name": "problemy_sterowania_cywilizacyjnym_potencjalem_wytwarzania_"
+      },
+      {
+        "pdf": {
+          "name": "socjocybernetyczne_funkcjonowanie_kategorii_piekna_i_brzydoty_w_roznych_systemach_sterowania_spolecznego-tiff.pdf",
+          "size_bytes": 4957579,
+          "size_mb": 4.73,
+          "extension": ".pdf",
+          "exists": true
+        },
+        "txt": {
+          "name": "socjocybernetyczne_funkcjonowanie_kategorii_piekna_i_brzydoty_w_roznych_systemach_sterowania_spolecznego-tiff.txt",
+          "size_bytes": 53469,
+          "size_mb": 0.05,
+          "extension": ".txt",
+          "exists": true
+        },
+        "base_name": "socjocybernetyczne_funkcjonowanie_kategorii_piekna_i_brzydoty_w_roznych_systemach_sterowania_spolecznego"
+      },
+      {
+        "pdf": {
+          "name": "ogolna_panorama_opozycji_politycznej-tiff.pdf",
+          "size_bytes": 15133518,
+          "size_mb": 14.43,
+          "extension": ".pdf",
+          "exists": true
+        },
+        "txt": {
+          "name": "ogolna_panorama_opozycji_politycznej-tiff.txt",
+          "size_bytes": 260706,
+          "size_mb": 0.25,
+          "extension": ".txt",
+          "exists": true
+        },
+        "base_name": "ogolna_panorama_opozycji_politycznej"
+      },
+      {
+        "pdf": {
+          "name": "elementy_nowoczesnej_wiedzy_o_sterowaniu_ludzmi-tiff.pdf",
+          "size_bytes": 11951296,
+          "size_mb": 11.4,
+          "extension": ".pdf",
+          "exists": true
+        },
+        "txt": {
+          "name": "elementy_nowoczesnej_wiedzy_o_sterowaniu_ludzmi-tiff.txt",
+          "size_bytes": 598817,
+          "size_mb": 0.57,
+          "extension": ".txt",
+          "exists": true
+        },
+        "base_name": "elementy_nowoczesnej_wiedzy_o_sterowaniu_ludzmi"
+      },
+      {
+        "pdf": {
+          "name": "wzajemne_oddzialywania_panstw_jako_ukladow_sterowniczych-tiff.pdf",
+          "size_bytes": 9532701,
+          "size_mb": 9.09,
+          "extension": ".pdf",
+          "exists": true
+        },
+        "txt": {
+          "name": "wzajemne_oddzialywania_panstw_jako_ukladow_sterowniczych-tiff.txt",
+          "size_bytes": 293742,
+          "size_mb": 0.28,
+          "extension": ".txt",
+          "exists": true
+        },
+        "base_name": "wzajemne_oddzialywania_panstw_jako_ukladow_sterowniczych"
+      },
+      {
+        "pdf": {
+          "name": "porzadek-i-bezlad_w_ujeciu_metacybernetycznym-tiff.pdf",
+          "size_bytes": 3129999,
+          "size_mb": 2.98,
+          "extension": ".pdf",
+          "exists": true
+        },
+        "txt": {
+          "name": "porzadek-i-bezlad_w_ujeciu_metacybernetycznym-tiff.txt",
+          "size_bytes": 33311,
+          "size_mb": 0.03,
+          "extension": ".txt",
+          "exists": true
+        },
+        "base_name": "porzadek-i-bezlad_w_ujeciu_metacybernetycznym"
+      },
+      {
+        "pdf": {
+          "name": "cybernetyka_spoleczna-wyd1-tiff.pdf",
+          "size_bytes": 28669544,
+          "size_mb": 27.34,
+          "extension": ".pdf",
+          "exists": true
+        },
+        "txt": {
+          "name": "cybernetyka_spoleczna-wyd1-tiff.txt",
+          "size_bytes": 1005925,
+          "size_mb": 0.96,
+          "extension": ".txt",
+          "exists": true
+        },
+        "base_name": "cybernetyka_spoleczna-wyd1"
+      },
+      {
+        "pdf": {
+          "name": "gry_sil_i_interesow_w_historii-tiff.pdf",
+          "size_bytes": 43959196,
+          "size_mb": 41.92,
+          "extension": ".pdf",
+          "exists": true
+        },
+        "txt": {
+          "name": "gry_sil_i_interesow_w_historii-tiff.txt",
+          "size_bytes": 635155,
+          "size_mb": 0.61,
+          "extension": ".txt",
+          "exists": true
+        },
+        "base_name": "gry_sil_i_interesow_w_historii"
+      },
+      {
+        "pdf": {
+          "name": "podstawy_nowoczesnej_nauki_porownawczej_o_cywilizacjach-tiff.pdf",
+          "size_bytes": 23014126,
+          "size_mb": 21.95,
+          "extension": ".pdf",
+          "exists": true
+        },
+        "txt": {
+          "name": "podstawy_nowoczesnej_nauki_porownawczej_o_cywilizacjach-tiff.txt",
+          "size_bytes": 486309,
+          "size_mb": 0.46,
+          "extension": ".txt",
+          "exists": true
+        },
+        "base_name": "podstawy_nowoczesnej_nauki_porownawczej_o_cywilizacjach"
+      },
+      {
+        "pdf": {
+          "name": "socjo-cybernetyczna_analiza_nauki-tiff.pdf",
+          "size_bytes": 16631762,
+          "size_mb": 15.86,
+          "extension": ".pdf",
+          "exists": true
+        },
+        "txt": {
+          "name": "socjo-cybernetyczna_analiza_nauki-tiff.txt",
+          "size_bytes": 39598,
+          "size_mb": 0.04,
+          "extension": ".txt",
+          "exists": true
+        },
+        "base_name": "socjo-cybernetyczna_analiza_nauki"
+      }
+    ],
+    "orphaned_files": []
+  },
+  "mazur_analysis": {
+    "total_files": 61,
+    "by_extension": {
+      ".pdf": [
+        {
+          "name": "podstawy_cybernetycznej_teorii_myslenia-ocr.pdf",
+          "size_bytes": 458192,
+          "size_mb": 0.44,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "spoleczne_znaczenie_cybernetyki-ocr.pdf",
+          "size_bytes": 111447,
+          "size_mb": 0.11,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "integracja_nauczania-ocr.pdf",
+          "size_bytes": 61220,
+          "size_mb": 0.06,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "jaka_szkola-ocr.pdf",
+          "size_bytes": 59526,
+          "size_mb": 0.06,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "historia_naturalna_polskiego_naukowca-ocr (2).pdf",
+          "size_bytes": 563150,
+          "size_mb": 0.54,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "pojecie_systemu_i_rygory_jego_stosowania-ocr.pdf",
+          "size_bytes": 107681,
+          "size_mb": 0.1,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "zle_z_matematyki-ocr (1).pdf",
+          "size_bytes": 80015,
+          "size_mb": 0.08,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "homeostaza_spoleczna-ocr.pdf",
+          "size_bytes": 63730,
+          "size_mb": 0.06,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "cybernetyczna_teoria_ukladow_samodzielnych-ocr (1).pdf",
+          "size_bytes": 2886560,
+          "size_mb": 2.75,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "cybernetyka_i_charakter1999-tiff.pdf",
+          "size_bytes": 18728756,
+          "size_mb": 17.86,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "swiadome_dzialanie_jako_rozwiazanie_problemu_optymalizacyjnego-ocr.pdf",
+          "size_bytes": 85280,
+          "size_mb": 0.08,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "modelowanie_cybernetyczne_i_jego_przydatnosc_w_modelowaniu_procesow_dydaktycznych-ocr.pdf",
+          "size_bytes": 95366,
+          "size_mb": 0.09,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "cybernetyka_a_humanitaryzm-ocr.pdf",
+          "size_bytes": 68556,
+          "size_mb": 0.07,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "zle_z_jezykow_obcych-ocr.pdf",
+          "size_bytes": 63855,
+          "size_mb": 0.06,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "cybernetyka_i_charakter1976-ocr (1).pdf",
+          "size_bytes": 3508338,
+          "size_mb": 3.35,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "o_cybernetyce_i_cybernetykach-ocr.pdf",
+          "size_bytes": 54427,
+          "size_mb": 0.05,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "informacja-dezinformacja-pseudoinformacja-ocr.pdf",
+          "size_bytes": 82475,
+          "size_mb": 0.08,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "tajemnice_charakteru_czyli_poznaj_samego_siebie-ocr (1).pdf",
+          "size_bytes": 208119,
+          "size_mb": 0.2,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "twor_skostnialy-ocr.pdf",
+          "size_bytes": 65320,
+          "size_mb": 0.06,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "teoria_informacji_a_metrologia-tiff.pdf",
+          "size_bytes": 2605421,
+          "size_mb": 2.48,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "cybernetyka_a_zarzadzanie-tiff (1).pdf",
+          "size_bytes": 8370434,
+          "size_mb": 7.98,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "zle_z_historii-ocr.pdf",
+          "size_bytes": 69211,
+          "size_mb": 0.07,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "szkola_bez_leku-ocr.pdf",
+          "size_bytes": 90307,
+          "size_mb": 0.09,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "zle_z_matematyki-ocr.pdf",
+          "size_bytes": 80015,
+          "size_mb": 0.08,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "jakosciowa_teoria_informacji-tiff (1).pdf",
+          "size_bytes": 10951736,
+          "size_mb": 10.44,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "cybernetyka-tiff.pdf",
+          "size_bytes": 2634784,
+          "size_mb": 2.51,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "zagadnienie_prawdy_w_nauce-ocr.pdf",
+          "size_bytes": 80489,
+          "size_mb": 0.08,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "cybernetyczne_zagadnienia_przebiegu_zycia-tiff.pdf",
+          "size_bytes": 3441216,
+          "size_mb": 3.28,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "zle_z_polskiego-ocr.pdf",
+          "size_bytes": 73429,
+          "size_mb": 0.07,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "cybernetyczne_zagadnienia_myslenia-tiff.pdf",
+          "size_bytes": 4400128,
+          "size_mb": 4.2,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "historia_naturalna_polskiego_naukowca-ocr (1).pdf",
+          "size_bytes": 563150,
+          "size_mb": 0.54,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "sprzezenie_zwrotne_w_cybernetyce_i_automatyce-tiff.pdf",
+          "size_bytes": 1454893,
+          "size_mb": 1.39,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "system_ewolucyjno-morfologiczny_klasyfikacji_tematycznej_dla_potrzeb_polityki_przeciwalkoholowej-ocr.pdf",
+          "size_bytes": 111176,
+          "size_mb": 0.11,
+          "extension": ".pdf",
+          "exists": true
+        }
+      ],
+      ".txt": [
+        {
+          "name": "cybernetyka_a_humanitaryzm-ocr.txt",
+          "size_bytes": 20232,
+          "size_mb": 0.02,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "modelowanie_cybernetyczne_i_jego_przydatnosc_w_modelowaniu_procesow_dydaktycznych-ocr.txt",
+          "size_bytes": 23852,
+          "size_mb": 0.02,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "cybernetyka_i_charakter1999-tiff.txt",
+          "size_bytes": 1000331,
+          "size_mb": 0.95,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "swiadome_dzialanie_jako_rozwiazanie_problemu_optymalizacyjnego-ocr.txt",
+          "size_bytes": 13698,
+          "size_mb": 0.01,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "twor_skostnialy-ocr.txt",
+          "size_bytes": 16641,
+          "size_mb": 0.02,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "zle_z_jezykow_obcych-ocr.txt",
+          "size_bytes": 14306,
+          "size_mb": 0.01,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "cybernetyka_i_charakter1976-ocr (1).txt",
+          "size_bytes": 909930,
+          "size_mb": 0.87,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "o_cybernetyce_i_cybernetykach-ocr.txt",
+          "size_bytes": 13198,
+          "size_mb": 0.01,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "tajemnice_charakteru_czyli_poznaj_samego_siebie-ocr (1).txt",
+          "size_bytes": 75008,
+          "size_mb": 0.07,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "informacja-dezinformacja-pseudoinformacja-ocr.txt",
+          "size_bytes": 24126,
+          "size_mb": 0.02,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "jaka_szkola-ocr.txt",
+          "size_bytes": 15415,
+          "size_mb": 0.01,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "historia_naturalna_polskiego_naukowca-ocr (2).txt",
+          "size_bytes": 217131,
+          "size_mb": 0.21,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "podstawy_cybernetycznej_teorii_myslenia-ocr.txt",
+          "size_bytes": 31620,
+          "size_mb": 0.03,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "spoleczne_znaczenie_cybernetyki-ocr.txt",
+          "size_bytes": 34314,
+          "size_mb": 0.03,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "integracja_nauczania-ocr.txt",
+          "size_bytes": 15967,
+          "size_mb": 0.02,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "pojecie_systemu_i_rygory_jego_stosowania-ocr.txt",
+          "size_bytes": 20746,
+          "size_mb": 0.02,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "zle_z_matematyki-ocr (1).txt",
+          "size_bytes": 21353,
+          "size_mb": 0.02,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "homeostaza_spoleczna-ocr.txt",
+          "size_bytes": 19993,
+          "size_mb": 0.02,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "cybernetyczna_teoria_ukladow_samodzielnych-ocr (1).txt",
+          "size_bytes": 433059,
+          "size_mb": 0.41,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "zagadnienie_prawdy_w_nauce-ocr.txt",
+          "size_bytes": 27701,
+          "size_mb": 0.03,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "system_ewolucyjno-morfologiczny_klasyfikacji_tematycznej_dla_potrzeb_polityki_przeciwalkoholowej-ocr.txt",
+          "size_bytes": 28611,
+          "size_mb": 0.03,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "zle_z_polskiego-ocr.txt",
+          "size_bytes": 21350,
+          "size_mb": 0.02,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "historia_naturalna_polskiego_naukowca-ocr (1).txt",
+          "size_bytes": 217131,
+          "size_mb": 0.21,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "zle_z_historii-ocr.txt",
+          "size_bytes": 20078,
+          "size_mb": 0.02,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "szkola_bez_leku-ocr.txt",
+          "size_bytes": 22586,
+          "size_mb": 0.02,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "cybernetyka-tiff.txt",
+          "size_bytes": 99808,
+          "size_mb": 0.1,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "zle_z_matematyki-ocr.txt",
+          "size_bytes": 21345,
+          "size_mb": 0.02,
+          "extension": ".txt",
+          "exists": true
+        }
+      ],
+      "": [
+        {
+          "name": ".DS_Store",
+          "size_bytes": 6148,
+          "size_mb": 0.01,
+          "extension": "",
+          "exists": true
+        }
+      ]
+    },
+    "by_type": {
+      "pdf": [
+        {
+          "name": "podstawy_cybernetycznej_teorii_myslenia-ocr.pdf",
+          "size_bytes": 458192,
+          "size_mb": 0.44,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "spoleczne_znaczenie_cybernetyki-ocr.pdf",
+          "size_bytes": 111447,
+          "size_mb": 0.11,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "integracja_nauczania-ocr.pdf",
+          "size_bytes": 61220,
+          "size_mb": 0.06,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "jaka_szkola-ocr.pdf",
+          "size_bytes": 59526,
+          "size_mb": 0.06,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "historia_naturalna_polskiego_naukowca-ocr (2).pdf",
+          "size_bytes": 563150,
+          "size_mb": 0.54,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "pojecie_systemu_i_rygory_jego_stosowania-ocr.pdf",
+          "size_bytes": 107681,
+          "size_mb": 0.1,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "zle_z_matematyki-ocr (1).pdf",
+          "size_bytes": 80015,
+          "size_mb": 0.08,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "homeostaza_spoleczna-ocr.pdf",
+          "size_bytes": 63730,
+          "size_mb": 0.06,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "cybernetyczna_teoria_ukladow_samodzielnych-ocr (1).pdf",
+          "size_bytes": 2886560,
+          "size_mb": 2.75,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "cybernetyka_i_charakter1999-tiff.pdf",
+          "size_bytes": 18728756,
+          "size_mb": 17.86,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "swiadome_dzialanie_jako_rozwiazanie_problemu_optymalizacyjnego-ocr.pdf",
+          "size_bytes": 85280,
+          "size_mb": 0.08,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "modelowanie_cybernetyczne_i_jego_przydatnosc_w_modelowaniu_procesow_dydaktycznych-ocr.pdf",
+          "size_bytes": 95366,
+          "size_mb": 0.09,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "cybernetyka_a_humanitaryzm-ocr.pdf",
+          "size_bytes": 68556,
+          "size_mb": 0.07,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "zle_z_jezykow_obcych-ocr.pdf",
+          "size_bytes": 63855,
+          "size_mb": 0.06,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "cybernetyka_i_charakter1976-ocr (1).pdf",
+          "size_bytes": 3508338,
+          "size_mb": 3.35,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "o_cybernetyce_i_cybernetykach-ocr.pdf",
+          "size_bytes": 54427,
+          "size_mb": 0.05,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "informacja-dezinformacja-pseudoinformacja-ocr.pdf",
+          "size_bytes": 82475,
+          "size_mb": 0.08,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "tajemnice_charakteru_czyli_poznaj_samego_siebie-ocr (1).pdf",
+          "size_bytes": 208119,
+          "size_mb": 0.2,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "twor_skostnialy-ocr.pdf",
+          "size_bytes": 65320,
+          "size_mb": 0.06,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "teoria_informacji_a_metrologia-tiff.pdf",
+          "size_bytes": 2605421,
+          "size_mb": 2.48,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "cybernetyka_a_zarzadzanie-tiff (1).pdf",
+          "size_bytes": 8370434,
+          "size_mb": 7.98,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "zle_z_historii-ocr.pdf",
+          "size_bytes": 69211,
+          "size_mb": 0.07,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "szkola_bez_leku-ocr.pdf",
+          "size_bytes": 90307,
+          "size_mb": 0.09,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "zle_z_matematyki-ocr.pdf",
+          "size_bytes": 80015,
+          "size_mb": 0.08,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "jakosciowa_teoria_informacji-tiff (1).pdf",
+          "size_bytes": 10951736,
+          "size_mb": 10.44,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "cybernetyka-tiff.pdf",
+          "size_bytes": 2634784,
+          "size_mb": 2.51,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "zagadnienie_prawdy_w_nauce-ocr.pdf",
+          "size_bytes": 80489,
+          "size_mb": 0.08,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "cybernetyczne_zagadnienia_przebiegu_zycia-tiff.pdf",
+          "size_bytes": 3441216,
+          "size_mb": 3.28,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "zle_z_polskiego-ocr.pdf",
+          "size_bytes": 73429,
+          "size_mb": 0.07,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "cybernetyczne_zagadnienia_myslenia-tiff.pdf",
+          "size_bytes": 4400128,
+          "size_mb": 4.2,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "historia_naturalna_polskiego_naukowca-ocr (1).pdf",
+          "size_bytes": 563150,
+          "size_mb": 0.54,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "sprzezenie_zwrotne_w_cybernetyce_i_automatyce-tiff.pdf",
+          "size_bytes": 1454893,
+          "size_mb": 1.39,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "system_ewolucyjno-morfologiczny_klasyfikacji_tematycznej_dla_potrzeb_polityki_przeciwalkoholowej-ocr.pdf",
+          "size_bytes": 111176,
+          "size_mb": 0.11,
+          "extension": ".pdf",
+          "exists": true
+        }
+      ],
+      "text": [
+        {
+          "name": "cybernetyka_a_humanitaryzm-ocr.txt",
+          "size_bytes": 20232,
+          "size_mb": 0.02,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "modelowanie_cybernetyczne_i_jego_przydatnosc_w_modelowaniu_procesow_dydaktycznych-ocr.txt",
+          "size_bytes": 23852,
+          "size_mb": 0.02,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "cybernetyka_i_charakter1999-tiff.txt",
+          "size_bytes": 1000331,
+          "size_mb": 0.95,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "swiadome_dzialanie_jako_rozwiazanie_problemu_optymalizacyjnego-ocr.txt",
+          "size_bytes": 13698,
+          "size_mb": 0.01,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "twor_skostnialy-ocr.txt",
+          "size_bytes": 16641,
+          "size_mb": 0.02,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "zle_z_jezykow_obcych-ocr.txt",
+          "size_bytes": 14306,
+          "size_mb": 0.01,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "cybernetyka_i_charakter1976-ocr (1).txt",
+          "size_bytes": 909930,
+          "size_mb": 0.87,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "o_cybernetyce_i_cybernetykach-ocr.txt",
+          "size_bytes": 13198,
+          "size_mb": 0.01,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "tajemnice_charakteru_czyli_poznaj_samego_siebie-ocr (1).txt",
+          "size_bytes": 75008,
+          "size_mb": 0.07,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "informacja-dezinformacja-pseudoinformacja-ocr.txt",
+          "size_bytes": 24126,
+          "size_mb": 0.02,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "jaka_szkola-ocr.txt",
+          "size_bytes": 15415,
+          "size_mb": 0.01,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "historia_naturalna_polskiego_naukowca-ocr (2).txt",
+          "size_bytes": 217131,
+          "size_mb": 0.21,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "podstawy_cybernetycznej_teorii_myslenia-ocr.txt",
+          "size_bytes": 31620,
+          "size_mb": 0.03,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "spoleczne_znaczenie_cybernetyki-ocr.txt",
+          "size_bytes": 34314,
+          "size_mb": 0.03,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "integracja_nauczania-ocr.txt",
+          "size_bytes": 15967,
+          "size_mb": 0.02,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "pojecie_systemu_i_rygory_jego_stosowania-ocr.txt",
+          "size_bytes": 20746,
+          "size_mb": 0.02,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "zle_z_matematyki-ocr (1).txt",
+          "size_bytes": 21353,
+          "size_mb": 0.02,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "homeostaza_spoleczna-ocr.txt",
+          "size_bytes": 19993,
+          "size_mb": 0.02,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "cybernetyczna_teoria_ukladow_samodzielnych-ocr (1).txt",
+          "size_bytes": 433059,
+          "size_mb": 0.41,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "zagadnienie_prawdy_w_nauce-ocr.txt",
+          "size_bytes": 27701,
+          "size_mb": 0.03,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "system_ewolucyjno-morfologiczny_klasyfikacji_tematycznej_dla_potrzeb_polityki_przeciwalkoholowej-ocr.txt",
+          "size_bytes": 28611,
+          "size_mb": 0.03,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "zle_z_polskiego-ocr.txt",
+          "size_bytes": 21350,
+          "size_mb": 0.02,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "historia_naturalna_polskiego_naukowca-ocr (1).txt",
+          "size_bytes": 217131,
+          "size_mb": 0.21,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "zle_z_historii-ocr.txt",
+          "size_bytes": 20078,
+          "size_mb": 0.02,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "szkola_bez_leku-ocr.txt",
+          "size_bytes": 22586,
+          "size_mb": 0.02,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "cybernetyka-tiff.txt",
+          "size_bytes": 99808,
+          "size_mb": 0.1,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "zle_z_matematyki-ocr.txt",
+          "size_bytes": 21345,
+          "size_mb": 0.02,
+          "extension": ".txt",
+          "exists": true
+        }
+      ],
+      "other": [
+        {
+          "name": ".DS_Store",
+          "size_bytes": 6148,
+          "size_mb": 0.01,
+          "extension": "",
+          "exists": true
+        }
+      ]
+    },
+    "total_size_mb": 62.65000000000002,
+    "text_ready": [
+      {
+        "name": "cybernetyka_a_humanitaryzm-ocr.txt",
+        "size_bytes": 20232,
+        "size_mb": 0.02,
+        "extension": ".txt",
+        "exists": true
+      },
+      {
+        "name": "modelowanie_cybernetyczne_i_jego_przydatnosc_w_modelowaniu_procesow_dydaktycznych-ocr.txt",
+        "size_bytes": 23852,
+        "size_mb": 0.02,
+        "extension": ".txt",
+        "exists": true
+      },
+      {
+        "name": "cybernetyka_i_charakter1999-tiff.txt",
+        "size_bytes": 1000331,
+        "size_mb": 0.95,
+        "extension": ".txt",
+        "exists": true
+      },
+      {
+        "name": "swiadome_dzialanie_jako_rozwiazanie_problemu_optymalizacyjnego-ocr.txt",
+        "size_bytes": 13698,
+        "size_mb": 0.01,
+        "extension": ".txt",
+        "exists": true
+      },
+      {
+        "name": "twor_skostnialy-ocr.txt",
+        "size_bytes": 16641,
+        "size_mb": 0.02,
+        "extension": ".txt",
+        "exists": true
+      },
+      {
+        "name": "zle_z_jezykow_obcych-ocr.txt",
+        "size_bytes": 14306,
+        "size_mb": 0.01,
+        "extension": ".txt",
+        "exists": true
+      },
+      {
+        "name": "cybernetyka_i_charakter1976-ocr (1).txt",
+        "size_bytes": 909930,
+        "size_mb": 0.87,
+        "extension": ".txt",
+        "exists": true
+      },
+      {
+        "name": "o_cybernetyce_i_cybernetykach-ocr.txt",
+        "size_bytes": 13198,
+        "size_mb": 0.01,
+        "extension": ".txt",
+        "exists": true
+      },
+      {
+        "name": "tajemnice_charakteru_czyli_poznaj_samego_siebie-ocr (1).txt",
+        "size_bytes": 75008,
+        "size_mb": 0.07,
+        "extension": ".txt",
+        "exists": true
+      },
+      {
+        "name": "informacja-dezinformacja-pseudoinformacja-ocr.txt",
+        "size_bytes": 24126,
+        "size_mb": 0.02,
+        "extension": ".txt",
+        "exists": true
+      },
+      {
+        "name": "jaka_szkola-ocr.txt",
+        "size_bytes": 15415,
+        "size_mb": 0.01,
+        "extension": ".txt",
+        "exists": true
+      },
+      {
+        "name": "historia_naturalna_polskiego_naukowca-ocr (2).txt",
+        "size_bytes": 217131,
+        "size_mb": 0.21,
+        "extension": ".txt",
+        "exists": true
+      },
+      {
+        "name": "podstawy_cybernetycznej_teorii_myslenia-ocr.txt",
+        "size_bytes": 31620,
+        "size_mb": 0.03,
+        "extension": ".txt",
+        "exists": true
+      },
+      {
+        "name": "spoleczne_znaczenie_cybernetyki-ocr.txt",
+        "size_bytes": 34314,
+        "size_mb": 0.03,
+        "extension": ".txt",
+        "exists": true
+      },
+      {
+        "name": "integracja_nauczania-ocr.txt",
+        "size_bytes": 15967,
+        "size_mb": 0.02,
+        "extension": ".txt",
+        "exists": true
+      },
+      {
+        "name": "pojecie_systemu_i_rygory_jego_stosowania-ocr.txt",
+        "size_bytes": 20746,
+        "size_mb": 0.02,
+        "extension": ".txt",
+        "exists": true
+      },
+      {
+        "name": "zle_z_matematyki-ocr (1).txt",
+        "size_bytes": 21353,
+        "size_mb": 0.02,
+        "extension": ".txt",
+        "exists": true
+      },
+      {
+        "name": "homeostaza_spoleczna-ocr.txt",
+        "size_bytes": 19993,
+        "size_mb": 0.02,
+        "extension": ".txt",
+        "exists": true
+      },
+      {
+        "name": "cybernetyczna_teoria_ukladow_samodzielnych-ocr (1).txt",
+        "size_bytes": 433059,
+        "size_mb": 0.41,
+        "extension": ".txt",
+        "exists": true
+      },
+      {
+        "name": "zagadnienie_prawdy_w_nauce-ocr.txt",
+        "size_bytes": 27701,
+        "size_mb": 0.03,
+        "extension": ".txt",
+        "exists": true
+      },
+      {
+        "name": "system_ewolucyjno-morfologiczny_klasyfikacji_tematycznej_dla_potrzeb_polityki_przeciwalkoholowej-ocr.txt",
+        "size_bytes": 28611,
+        "size_mb": 0.03,
+        "extension": ".txt",
+        "exists": true
+      },
+      {
+        "name": "zle_z_polskiego-ocr.txt",
+        "size_bytes": 21350,
+        "size_mb": 0.02,
+        "extension": ".txt",
+        "exists": true
+      },
+      {
+        "name": "historia_naturalna_polskiego_naukowca-ocr (1).txt",
+        "size_bytes": 217131,
+        "size_mb": 0.21,
+        "extension": ".txt",
+        "exists": true
+      },
+      {
+        "name": "zle_z_historii-ocr.txt",
+        "size_bytes": 20078,
+        "size_mb": 0.02,
+        "extension": ".txt",
+        "exists": true
+      },
+      {
+        "name": "szkola_bez_leku-ocr.txt",
+        "size_bytes": 22586,
+        "size_mb": 0.02,
+        "extension": ".txt",
+        "exists": true
+      },
+      {
+        "name": "cybernetyka-tiff.txt",
+        "size_bytes": 99808,
+        "size_mb": 0.1,
+        "extension": ".txt",
+        "exists": true
+      },
+      {
+        "name": "zle_z_matematyki-ocr.txt",
+        "size_bytes": 21345,
+        "size_mb": 0.02,
+        "extension": ".txt",
+        "exists": true
+      }
+    ],
+    "needs_processing": [],
+    "processed_pairs": [
+      {
+        "pdf": {
+          "name": "cybernetyka_i_charakter1999-tiff.pdf",
+          "size_bytes": 18728756,
+          "size_mb": 17.86,
+          "extension": ".pdf",
+          "exists": true
+        },
+        "txt": {
+          "name": "cybernetyka_i_charakter1999-tiff.txt",
+          "size_bytes": 1000331,
+          "size_mb": 0.95,
+          "extension": ".txt",
+          "exists": true
+        },
+        "base_name": "cybernetyka_i_charakter1999"
+      },
+      {
+        "pdf": {
+          "name": "cybernetyka-tiff.pdf",
+          "size_bytes": 2634784,
+          "size_mb": 2.51,
+          "extension": ".pdf",
+          "exists": true
+        },
+        "txt": {
+          "name": "cybernetyka-tiff.txt",
+          "size_bytes": 99808,
+          "size_mb": 0.1,
+          "extension": ".txt",
+          "exists": true
+        },
+        "base_name": "cybernetyka"
+      }
+    ],
+    "orphaned_files": []
+  },
+  "transformation_plan": {
+    "summary": {
+      "total_text_ready": 66,
+      "total_needs_conversion": 12,
+      "kossecki_processed_pairs": 15,
+      "mazur_processed_pairs": 2
+    },
+    "ready_for_ai": [
+      {
+        "author": "Kossecki",
+        "file": "cybernetyka_spoleczna-wyd2-ocr.txt",
+        "size_mb": 1.24,
+        "status": "ready"
+      },
+      {
+        "author": "Kossecki",
+        "file": "o_pewnych_stereotypach_wykorzystywanych_do_dzialan_dezinformacyjnych_i_dezintegracyjnych-ocr.txt",
+        "size_mb": 0.01,
+        "status": "ready"
+      },
+      {
+        "author": "Kossecki",
+        "file": "czas_w_metacybernetyce-tiff.txt",
+        "size_mb": 0.02,
+        "status": "ready"
+      },
+      {
+        "author": "Kossecki",
+        "file": "cele_i_metody_badania_przeszlosci_w_roznych_systemach_sterowania_spolecznego-ocr.txt",
+        "size_mb": 0.02,
+        "status": "ready"
+      },
+      {
+        "author": "Kossecki",
+        "file": "relacje_abstrakcyjne-idealne_czy_realne-ocr.txt",
+        "size_mb": 0.01,
+        "status": "ready"
+      },
+      {
+        "author": "Kossecki",
+        "file": "integracja_nauki_i_calego_ludzkiego_poznania-ocr.txt",
+        "size_mb": 0.02,
+        "status": "ready"
+      },
+      {
+        "author": "Kossecki",
+        "file": "problemy_sterowania_cywilizacyjnym_potencjalem_wytwarzania_-tiff.txt",
+        "size_mb": 0.05,
+        "status": "ready"
+      },
+      {
+        "author": "Kossecki",
+        "file": "metacybernetyka-ocr.txt",
+        "size_mb": 0.55,
+        "status": "ready"
+      },
+      {
+        "author": "Kossecki",
+        "file": "geografia_opozycji_politycznej_w_polsce_w_latach_1976-1981-ocr.txt",
+        "size_mb": 0.3,
+        "status": "ready"
+      },
+      {
+        "author": "Kossecki",
+        "file": "granice_manipulacji-tiff.txt",
+        "size_mb": 0.46,
+        "status": "ready"
+      },
+      {
+        "author": "Kossecki",
+        "file": "jak_sterowac_spoleczenstwem-ocr.txt",
+        "size_mb": 0.12,
+        "status": "ready"
+      },
+      {
+        "author": "Kossecki",
+        "file": "wzajemne_wplywy_roznych_cywilizacji_w_ujeciu_cybernetyki_spolecznej.txt",
+        "size_mb": 0.05,
+        "status": "ready"
+      },
+      {
+        "author": "Kossecki",
+        "file": "socjotechnika_propagandy_politycznej-tiff.txt",
+        "size_mb": 0.03,
+        "status": "ready"
+      },
+      {
+        "author": "Kossecki",
+        "file": "naukowe_podstawy_nacjokratyzmu-tiff.txt",
+        "size_mb": 0.53,
+        "status": "ready"
+      },
+      {
+        "author": "Kossecki",
+        "file": "elementy_wojny_informacyjnej.txt",
+        "size_mb": 0.04,
+        "status": "ready"
+      },
+      {
+        "author": "Kossecki",
+        "file": "tajemnice_mafii_politycznych-tiff.txt",
+        "size_mb": 0.6,
+        "status": "ready"
+      },
+      {
+        "author": "Kossecki",
+        "file": "zderzenie_cywilizacji_lacinskiej_i_orientu.txt",
+        "size_mb": 0.03,
+        "status": "ready"
+      },
+      {
+        "author": "Kossecki",
+        "file": "elementy_nowoczesnej_wiedzy_o_sterowaniu_ludzmi-tiff.txt",
+        "size_mb": 0.57,
+        "status": "ready"
+      },
+      {
+        "author": "Kossecki",
+        "file": "wizerunek_polityczny.txt",
+        "size_mb": 0.04,
+        "status": "ready"
+      },
+      {
+        "author": "Kossecki",
+        "file": "porzadek-i-bezlad_w_ujeciu_metacybernetycznym-tiff.txt",
+        "size_mb": 0.03,
+        "status": "ready"
+      },
+      {
+        "author": "Kossecki",
+        "file": "ewolucja_metod_sterowania_spolecznego.txt",
+        "size_mb": 0.01,
+        "status": "ready"
+      },
+      {
+        "author": "Kossecki",
+        "file": "wplyw_totalnej_wojny_informacyjnej_na_dzieje_prl-jak_manipulowano_nauka_polska-ocr.txt",
+        "size_mb": 0.09,
+        "status": "ready"
+      },
+      {
+        "author": "Kossecki",
+        "file": "podstawy_nowoczesnej_nauki_porownawczej_o_cywilizacjach-dominacja_pierwiastkow_cywilizacji_bizantynskiej_w_zyciu_prl_i_iii_rp.txt",
+        "size_mb": 0.07,
+        "status": "ready"
+      },
+      {
+        "author": "Kossecki",
+        "file": "cybernetyka_kultury-ocr.txt",
+        "size_mb": 0.48,
+        "status": "ready"
+      },
+      {
+        "author": "Kossecki",
+        "file": "dotychczasowy_rozwoj_a_perspektywy_demograficzne_polski_i_ue-ocr (1).txt",
+        "size_mb": 0.02,
+        "status": "ready"
+      },
+      {
+        "author": "Kossecki",
+        "file": "cybernetyka_spoleczna-wyd1-tiff.txt",
+        "size_mb": 0.96,
+        "status": "ready"
+      },
+      {
+        "author": "Kossecki",
+        "file": "gry_sil_i_interesow_w_historii-tiff.txt",
+        "size_mb": 0.61,
+        "status": "ready"
+      },
+      {
+        "author": "Kossecki",
+        "file": "analiza_funkcji_socjoznaczenia_pewnego_terminu_kluczowego_dla_badania_struktury_systemow_sterowania_spolecznego-ocr.txt",
+        "size_mb": 0.02,
+        "status": "ready"
+      },
+      {
+        "author": "Kossecki",
+        "file": "metajezyk_nauki_w_swietle_cybernetyki-ocr.txt",
+        "size_mb": 0.03,
+        "status": "ready"
+      },
+      {
+        "author": "Kossecki",
+        "file": "wspolczesne_panstwo_prawa_czy_etyki-ocr.txt",
+        "size_mb": 0.03,
+        "status": "ready"
+      },
+      {
+        "author": "Kossecki",
+        "file": "wzajemne_oddzialywania_panstw_jako_ukladow_sterowniczych-tiff.txt",
+        "size_mb": 0.28,
+        "status": "ready"
+      },
+      {
+        "author": "Kossecki",
+        "file": "subiektywne_i_obiektywne_metody_oceny_prawdziwosci_informacji_w_ujeciu_cybernetycznym-ocr.txt",
+        "size_mb": 0.04,
+        "status": "ready"
+      },
+      {
+        "author": "Kossecki",
+        "file": "socjocybernetyczne_funkcjonowanie_kategorii_piekna_i_brzydoty_w_roznych_systemach_sterowania_spolecznego-tiff.txt",
+        "size_mb": 0.05,
+        "status": "ready"
+      },
+      {
+        "author": "Kossecki",
+        "file": "ogolna_panorama_opozycji_politycznej-tiff.txt",
+        "size_mb": 0.25,
+        "status": "ready"
+      },
+      {
+        "author": "Kossecki",
+        "file": "tajemnice_mafii_politycznych-pewne_problemy_tajnej_polityki_miedzynarodowej.txt",
+        "size_mb": 0.06,
+        "status": "ready"
+      },
+      {
+        "author": "Kossecki",
+        "file": "relacja_prawda_falsz_w_ilosciowej_i_jakosciowej_teorii_informacji-ocr.txt",
+        "size_mb": 0.1,
+        "status": "ready"
+      },
+      {
+        "author": "Kossecki",
+        "file": "podstawy_nowoczesnej_nauki_porownawczej_o_cywilizacjach-tiff.txt",
+        "size_mb": 0.46,
+        "status": "ready"
+      },
+      {
+        "author": "Kossecki",
+        "file": "socjo-cybernetyczna_analiza_nauki-tiff.txt",
+        "size_mb": 0.04,
+        "status": "ready"
+      },
+      {
+        "author": "Kossecki",
+        "file": "znaczenie_relacji_prawdy_do_ideologii_dla_spolecznych_procesow_poznawczych-ocr.txt",
+        "size_mb": 0.01,
+        "status": "ready"
+      },
+      {
+        "author": "Mazur",
+        "file": "cybernetyka_a_humanitaryzm-ocr.txt",
+        "size_mb": 0.02,
+        "status": "ready"
+      },
+      {
+        "author": "Mazur",
+        "file": "modelowanie_cybernetyczne_i_jego_przydatnosc_w_modelowaniu_procesow_dydaktycznych-ocr.txt",
+        "size_mb": 0.02,
+        "status": "ready"
+      },
+      {
+        "author": "Mazur",
+        "file": "cybernetyka_i_charakter1999-tiff.txt",
+        "size_mb": 0.95,
+        "status": "ready"
+      },
+      {
+        "author": "Mazur",
+        "file": "swiadome_dzialanie_jako_rozwiazanie_problemu_optymalizacyjnego-ocr.txt",
+        "size_mb": 0.01,
+        "status": "ready"
+      },
+      {
+        "author": "Mazur",
+        "file": "twor_skostnialy-ocr.txt",
+        "size_mb": 0.02,
+        "status": "ready"
+      },
+      {
+        "author": "Mazur",
+        "file": "zle_z_jezykow_obcych-ocr.txt",
+        "size_mb": 0.01,
+        "status": "ready"
+      },
+      {
+        "author": "Mazur",
+        "file": "cybernetyka_i_charakter1976-ocr (1).txt",
+        "size_mb": 0.87,
+        "status": "ready"
+      },
+      {
+        "author": "Mazur",
+        "file": "o_cybernetyce_i_cybernetykach-ocr.txt",
+        "size_mb": 0.01,
+        "status": "ready"
+      },
+      {
+        "author": "Mazur",
+        "file": "tajemnice_charakteru_czyli_poznaj_samego_siebie-ocr (1).txt",
+        "size_mb": 0.07,
+        "status": "ready"
+      },
+      {
+        "author": "Mazur",
+        "file": "informacja-dezinformacja-pseudoinformacja-ocr.txt",
+        "size_mb": 0.02,
+        "status": "ready"
+      },
+      {
+        "author": "Mazur",
+        "file": "jaka_szkola-ocr.txt",
+        "size_mb": 0.01,
+        "status": "ready"
+      },
+      {
+        "author": "Mazur",
+        "file": "historia_naturalna_polskiego_naukowca-ocr (2).txt",
+        "size_mb": 0.21,
+        "status": "ready"
+      },
+      {
+        "author": "Mazur",
+        "file": "podstawy_cybernetycznej_teorii_myslenia-ocr.txt",
+        "size_mb": 0.03,
+        "status": "ready"
+      },
+      {
+        "author": "Mazur",
+        "file": "spoleczne_znaczenie_cybernetyki-ocr.txt",
+        "size_mb": 0.03,
+        "status": "ready"
+      },
+      {
+        "author": "Mazur",
+        "file": "integracja_nauczania-ocr.txt",
+        "size_mb": 0.02,
+        "status": "ready"
+      },
+      {
+        "author": "Mazur",
+        "file": "pojecie_systemu_i_rygory_jego_stosowania-ocr.txt",
+        "size_mb": 0.02,
+        "status": "ready"
+      },
+      {
+        "author": "Mazur",
+        "file": "zle_z_matematyki-ocr (1).txt",
+        "size_mb": 0.02,
+        "status": "ready"
+      },
+      {
+        "author": "Mazur",
+        "file": "homeostaza_spoleczna-ocr.txt",
+        "size_mb": 0.02,
+        "status": "ready"
+      },
+      {
+        "author": "Mazur",
+        "file": "cybernetyczna_teoria_ukladow_samodzielnych-ocr (1).txt",
+        "size_mb": 0.41,
+        "status": "ready"
+      },
+      {
+        "author": "Mazur",
+        "file": "zagadnienie_prawdy_w_nauce-ocr.txt",
+        "size_mb": 0.03,
+        "status": "ready"
+      },
+      {
+        "author": "Mazur",
+        "file": "system_ewolucyjno-morfologiczny_klasyfikacji_tematycznej_dla_potrzeb_polityki_przeciwalkoholowej-ocr.txt",
+        "size_mb": 0.03,
+        "status": "ready"
+      },
+      {
+        "author": "Mazur",
+        "file": "zle_z_polskiego-ocr.txt",
+        "size_mb": 0.02,
+        "status": "ready"
+      },
+      {
+        "author": "Mazur",
+        "file": "historia_naturalna_polskiego_naukowca-ocr (1).txt",
+        "size_mb": 0.21,
+        "status": "ready"
+      },
+      {
+        "author": "Mazur",
+        "file": "zle_z_historii-ocr.txt",
+        "size_mb": 0.02,
+        "status": "ready"
+      },
+      {
+        "author": "Mazur",
+        "file": "szkola_bez_leku-ocr.txt",
+        "size_mb": 0.02,
+        "status": "ready"
+      },
+      {
+        "author": "Mazur",
+        "file": "cybernetyka-tiff.txt",
+        "size_mb": 0.1,
+        "status": "ready"
+      },
+      {
+        "author": "Mazur",
+        "file": "zle_z_matematyki-ocr.txt",
+        "size_mb": 0.02,
+        "status": "ready"
+      }
+    ],
+    "conversion_needed": [
+      {
+        "author": "Kossecki",
+        "file": "wizerunek_polityczny.doc",
+        "size_mb": 0.1,
+        "conversion_type": "DOC_to_TXT"
+      },
+      {
+        "author": "Kossecki",
+        "file": "zderzenie_cywilizacji_lacinskiej_i_orientu.doc",
+        "size_mb": 0.1,
+        "conversion_type": "DOC_to_TXT"
+      },
+      {
+        "author": "Kossecki",
+        "file": "ewolucja_metod_sterowania_spolecznego.doc",
+        "size_mb": 0.05,
+        "conversion_type": "DOC_to_TXT"
+      },
+      {
+        "author": "Kossecki",
+        "file": "podstawy_nowoczesnej_nauki_porownawczej_o_cywilizacjach-dominacja_pierwiastkow_cywilizacji_bizantynskiej_w_zyciu_prl_i_iii_rp.doc",
+        "size_mb": 0.17,
+        "conversion_type": "DOC_to_TXT"
+      },
+      {
+        "author": "Kossecki",
+        "file": "tajemnice_mafii_politycznych-pewne_problemy_tajnej_polityki_miedzynarodowej.doc",
+        "size_mb": 0.13,
+        "conversion_type": "DOC_to_TXT"
+      },
+      {
+        "author": "Kossecki",
+        "file": "wzajemne_wplywy_roznych_cywilizacji_w_ujeciu_cybernetyki_spolecznej.doc",
+        "size_mb": 0.16,
+        "conversion_type": "DOC_to_TXT"
+      },
+      {
+        "author": "Kossecki",
+        "file": "elementy_wojny_informacyjnej.doc",
+        "size_mb": 0.11,
+        "conversion_type": "DOC_to_TXT"
+      },
+      {
+        "author": "Kossecki",
+        "file": "wizerunek_polityczny-ocr.pdf",
+        "size_mb": 0.12,
+        "conversion_type": "OCR"
+      },
+      {
+        "author": "Kossecki",
+        "file": "zderzenie_cywilizacji_lacinskiej_i_orientu-ocr.pdf",
+        "size_mb": 0.1,
+        "conversion_type": "OCR"
+      },
+      {
+        "author": "Kossecki",
+        "file": "ewolucja_metod_sterowania_spolecznego-ocr.pdf",
+        "size_mb": 0.05,
+        "conversion_type": "OCR"
+      },
+      {
+        "author": "Kossecki",
+        "file": "podstawy_nowoczesnej_nauki_porownawczej_o_cywilizacjach-dominacja_pierwiastkow_cywilizacji_bizantynskiej_w_zyciu_prl_i_iii_rp-ocr.pdf",
+        "size_mb": 0.19,
+        "conversion_type": "OCR"
+      },
+      {
+        "author": "Kossecki",
+        "file": "tajemnice_mafii_politycznych-pewne_problemy_tajnej_polityki_miedzynarodowej-ocr.pdf",
+        "size_mb": 0.15,
+        "conversion_type": "OCR"
+      }
+    ],
+    "recommendations": [
+      "Convert all .doc files to .txt using LibreOffice or similar tool",
+      "Process remaining -ocr.pdf files with OCR if they contain scanned text",
+      "Clean and normalize existing .txt files for consistent formatting",
+      "Create metadata file with author, title, year, and topic information",
+      "Consider organizing by topic/theme rather than just by author",
+      "Implement quality control checks for OCR accuracy"
+    ]
+  },
+  "generated_at": "/Users/grzegorz.hul/Documents/ghProjects/cybernetyka_teksty",
+  "total_authors": 2
+}

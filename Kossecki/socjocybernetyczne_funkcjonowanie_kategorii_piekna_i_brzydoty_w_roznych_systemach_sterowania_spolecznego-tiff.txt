@@ -1,0 +1,1125 @@
+=== socjocybernetyczne_funkcjonowanie_kategorii_piekna_i_brzydoty_w_roznych_systemach_sterowania_spolecznego-tiff ===
+Generated on: czw 10 lip 13:26:13 2025 CEST
+Original PDF: ./Kossecki/socjocybernetyczne_funkcjonowanie_kategorii_piekna_i_brzydoty_w_roznych_systemach_sterowania_spolecznego-tiff.pdf
+Total pages:       19
+
+--- Page 01 ---
+THE PECULIARITY OF MAN
+vol. 7, 2002
+Tradycyjne i współczesne systemy wartości.
+Przeciwieństwo trzecie: „Piękno i Brzydota”,
+et variae
+
+SOCJOCYBERNETYCZNE FUNKCJONOWANIE
+,       KATEGORII PIĘKNA I BRZYDOTY
+
+* W RÓŻNYCH SYSTEMACH STEROWANIA
+
+sk                  SPOŁECZNEGO
+
+JÓZEF KOSSECKI
+
+KW niniejszej pracy nie zajmuję się koncepcjami, pojęciami oraz kryte-
+imi kategorii piękna i brzydoty formułowanymi przez filozofów czy teore-
+ków sztuki, lecz tymi, które funkcjonują w społecznych procesach wymia-
+i' przetwarzania informacji w różnych systemach sterowania społecznego,
+anowiąc integralną część społecznych procesów poznawczych czyli
+ksploracyjnych.
+
+| Jak wynika z wykopalisk archeologicznych, ludzie poznając zarówno sie-
+e jak i obiekty otaczającego ich świata, starali się przypisywać im określo-
+ oznaczenia — symbole, inaczej mówiąc oznaczali je symbolami. Symbole
+e stanowiły obrazy! określonych obiektów świata rzeczywistego lub relacji
+lzy nimi, a miały charakter dostosowany do rodzaju zmysłów ludzkich,
+'zy czym dominowały symbole oddziałujące na wzrok — czyli wizualne
+wzrokowe) lub na słuch — czyli audialne (słuchowe), zaś inne (np. doty-
+we, węchowe) grały w społecznych procesach poznawczych stosunkowo
+aniejszą rolę.
+
+Symbole wizualne podzieliły się na:
+|a) graficzne (obrazowe, ikoniczne) — na których bazie  powstała
+s     grafika, malarstwo, pismo obrazkowe wreszcie rysunek techniczny;
+* b) alfanumeryczne - na których bazie rozwinęło się pismo literowe
+B*       stanowiące zapis mowy oraz logika i matematyka;
+©) inne — takie jak np. gesty, mimika twarzy itp.
+Symbole audialne podzieliły się na:
+a) werbalne — na których opiera się mowa;
+
+" ' rozumieniu jakościowej teorii informacji M. Mazura. Por. M. MAZUR, Jakościowa teoria
+informacji, Warszawa 1970.
+
+--- Page 02 ---
+372                                                        Józef Kossecki
+
+b) niewerbalne, które z kolei możemy podzielić na: 1. tonalne — na
+których bazie powstała muzyka, 2. nietonalne — np. niezwerbalizo.
+wane okrzyki sygnalizujące ból, strach, wesołość itp.
+
+Powstały też wizualne odpowiedniki symboli audialnych — np. zapis nut
+
+i słów, oraz audialne odpowiedniki symboli wizualnych — np. opowiadanie
+treści reprezentacji graficznych oraz głosowe odczytywanie symboli alfany.
+merycznych.
+
+Zbiór symboli nazywamy tekstem.
+
+Symbole mogą oznaczać jakiś jeden konkretny obiekt — np. portret okre.
+ślonego człowieka lub jego numer ewidencyjny (np. pesel), albo też oznaczać
+cały zbiór obiektów czy też dowolny obiekt należący do danego zbioru -
+w tym wypadku mamy do czynienia z oznaczaniem pojęcia (np. pojęcie
+człowiek oznacza dowolnego przedstawiciela naszego gatunku). Rozwój pojęć
+łączyć się musiał z rozwojem umiejętności myślenia abstrakcyjnego, które
+doprowadziło do powstania logiki i matematyki, a dalej cybernetyki i meta.
+cybernetyki oraz związanych z nimi grafoanalitycznych metod badania rze.
+czywistości.
+
+Aksjomatyczna teoria poznania — którą w skrócie nazywać będziemy
+eksploracjonizmem i oparta na niej konstrukcja nowoczesnej nauki, opie-
+ra się na pojęciach pierwotnych, których nie definiujemy, zaś ich znacze-
+nie przyjmujemy za oczywiste. Pojęcia pierwotne oznaczać będziemy symbo-
+lami słownymi lub grafoanalitycznymi. Ponieważ znaczenie pojęć pierwot-
+nych może być różnie przez różnych ludzi rozumiane, zatem mając na uwa-
+dze dążenie do jednoznaczności naukowego przekazu informacji postuluje
+się, aby tych pojęć pierwotnych było jak najmniej.
+
+System pojęć aksjomatycznej teorii poznania i oparty na niej system po-
+jeć naukowych, można zbudować wychodząc z trzech następujących pojęć
+pierwotnych:
+
+1. obiektu elementarnego, który oznaczamy symbolem o, (gdzie in-
+
+deks i oznacza identyfikator obiektu — np. jego numer lub oznaczenie
+literowe),
+
+2. relacji, którą oznaczamy 7,, (gdzie k oraz s oznaczają identyfikatory
+obiektów elementarnych, między którymi relacja występuje),
+
+3. zbioru, który oznaczamy nawiasem, w którym wpisujemy obiekty
+lub relacje należące do tego zbioru: zbiór obiektów elementarnych
+oznaczamy (4,0,...,0,), zaś zbiór relacji między nimi
+(Kh eee Fi mo s25-1 e9 5s eeesTy ); MoŻNA też stosować inne alterna-
+tywne oznaczenia zbioru obiektów: o, (gdzie indeks i przybierać może
+dowolną z wartości 1,2,...,n) zaś zbioru relacji między nimi: 7,, (gdzie
+
+zarówno indeks k jak i indeks s przybierać mogą dowolną z wartości
+1,2,...,n). Zbiory w odróżnieniu od ich elementów oznaczać będziemy
+
+? Por. J. KOSssECKI, Metacybernetyka i jej rola w nowoczesnej nauce, „PHAENOMENA", Tom I,
+Kielce 1995, s. 55—-74.
+
+--- Page 03 ---
+Socjocybernetyczne funkcjonowanie kategorii piękna i brzydoty...         373
+
+dużymi literami: zbiór obiektów elementarnych oznaczymy O, zaś
+zbiór relacji między nimi R.
+. Obiektów elementarnych nie dzielimy na mniejsze części. Przy rozwią-
+ywaniu konkretnego problemu określamy co będziemy traktować jako
+biekty elementarne, jakie zbiory tych obiektów i jakie relacje między nimi
+sdziemy badać. Np. w fizyce cząstek elementarnych jako obiekty elemen-
+arne traktujemy właśnie te cząstki, badając ich zbiory i fizykalne relacje
+y nimi; w demografii jako obiekty elementarne traktujemy ludzi, ba-
+ając ich zbiory oraz ilościowe relacje między nimi. Wśród wszelkich rodza-
+w relacji wyróżniamy relacje pierwotne, które leżą u podstaw wszelkich
+połecznych procesów poznawczych (eksploracyjnych).
+
+ Relacje pierwotne to takie, których nie definiujemy, lecz przyjmujemy
+o oczywiste. Wyróżniamy cztery tego rodzaju relacje:
+
+1. przynależność do zbioru — którą oznaczamy symbolem €,
+
+2. brak przynależności do zbioru — którą oznaczamy symbolem £,
+
+3. tożsamość, którą oznaczamy symbolem =,
+
+4. brak tożsamości, który oznaczamy symbolem +.
+
+Relacje powtarzalne, tzn. takie, które występują nie jeden, lecz wiele ra-
+zy, nazywać będziemy relacjami ogólnymi. Natomiast aksjomatami na-
+vać będziemy relacje ogólne, które przyjmujemy jako oczywiste.
+Posługując się podanymi wyżej pojęciami pierwotnymi i relacjami pier-
+wotnymi, możemy sformułować następujące aksjomaty stanowiące podstawę
+ploracjonizmu:
+
+1. dowolny obiekt elementarny o, jest tożsamy z samym sobą, co zapi-
+
+sać możemy symbolicznie o, = 0,;
+
+2. dowolny obiekt elementarny o, nie jest tożsamy z żadną dowolną re-
+lacją 7,, co zapisać możemy symbolicznie o, Ery;
+
+3. dowolna relacja 7,, jest tożsama z samą sobą, co zapisać możemy
+symbolicznie 7,, = Ż,;
+
+4. dowolna relacja 7,, nie jest tożsama z żadnym dowolnym obiektem
+elementarnym 0,, co zapisać możemy symbolicznie 7; b$oa›
+
+5. dowolny obiekt elementarny o, (gdzie indeks a może przybierać do-
+wolną z wartości 1,2,...,n) należy do zbioru obiektów elementarnych
+O, co zapisać możemy symbolicznie o, € O ;
+
+6. dowolny obiekt elementarny o, nie należy do zbioru relacji R, co za-
+pisać możemy symbolicznie o, £ R ;
+
+7. dowolna relacja 7,, (gdzie zarówno indeks a jak i indeks b przybierać
+mogą dowolną z wartości 1,2,...,) należy do zbioru relacji R, co zapi-
+sać możemy symbolicznie 7,, € R;
+
+8. dowolna relacja 7,, nie należy do zbioru obiektów elementarnych O,
+
+co zapisać możemy symbolicznie 7,, £ O.
+
+--- Page 04 ---
+374                                              Józef Kossecki
+
+Istotę powyższych ośmiu aksjomatów możemy streścić następującym
+zdaniem:
+
+obiekty elementarne należą do zbioru obiektów elementarnych i nie ną_
+leżą do zbiorów relacji, zaś relacje należą do zbioru relacji i nie należą q
+zbioru obiektów elementarnych.
+
+Możemy też rozpatrywać więcej niż jeden zbiór obiektów elementarnych
+i relacji między obiektami elementarnymi należącymi do tych zbiorów,
+W takim wypadku zbiory te oznaczać będziemy kolejno dużymi literami
+X, Y,..., które występować będą jako dodatkowe indeksy (w indeksach uży.
+wamy małych liter) przy oznaczeniach zarówno obiektów elementarnych jak
+i relacji pomiędzy nimi: obiekty elementarne należące do zbioru X oznaczać
+będziemy ,o, (gdzie indeks i przybierać może dowolną z wartości 1,2,...,n),
+
+zaś zbiór tych obiektów oznaczymy O, relacje pomiędzy nimi oznaczymy sR
+
+(gdzie zarówno indeks k jak i indek; s przybierać mogą dowolną z wartości
+
+1,2,...,n), zaś zbiór tych relacji oznaczymy Ixł ; obiekty elementarne należące
+
+do zbioru Y oznaczać będziemy ,9 (gdzie indeks j przybierać może dowolną
+
+z wartości 1,2,...,m), zbiór tych obiektów oznaczymy O, relacje pomiędzy
+y
+
+nimi s (gdzie zarówno indeks / jak i indeks p przybierać mogą dowolną
+z wartości 1,2,...,m), zaś zbiór tych relacji oznaczymy R.
+,
+
+Jeżeli wszystkie obiekty elementarne należące do zbioru X są tożsame
+z obiektami elementarnymi należącymi do zbioru Y, wówczas biorąc pod
+uwagę aksjomaty 1) i 5) możemy stwierdzić, że te zbiory są tożsame, co mo-
+żemy zapisać:
+
+::,                              X=Y
+
+Jeżeli relacje między obiektami elementarnymi należącymi do zbioru X
+są takie same jak relacje między obiektami elementarnymi należącymi do
+zbioru Y, wówczas na podstawie aksjomatów 3) i 7) możemy napisać:
+
+...                                       xłab"y"ab — Tab
+Relację równości oznaczoną znakiem „=” zamiast relacji tożsamości
+oznaczonej znakiem „=” wprowadzamy tu dla zaznaczenia, że rozważane re-
+
+lacje występują między obiektami elementarnymi należącymi do różnych
+zbiorów, które nie muszą być tożsame; można ją też traktować jako dodatkową
+relację pierwotną, która zachodzić może między relacjami. Analogicznie za-
+miast relacji pierwotnej braku tożsamości oznaczonej symbolem „sE” wprowa-
+dzić możemy relację pierwotną nierówności oznaczoną symbolem „7”.   ,
+Relacje między obiektami elementarnymi należącymi do różnych zbiorów
+oznaczymy dwoma indeksami odpowiadającymi oznaczeniom tych zbiorów:
+w wypadku rozpatrywanych dwóch zbiorów oznaczonych odpowiednio lite-
+
+--- Page 05 ---
+Socjocybernetyczne funkcjonowanie kategorii piękna i brzydoty...         375
+
+ami X, Y relacje te oznaczymy s%m (gdzie indeks u przybierać może warto-
+
+1,2,...n, zaś indeks w przybierać może wartości 1,2,...,m).
+
+Możemy też rozpatrywać zbiór dwu lub więcej zbiorów XY,..., w takim
+
+e oprócz relacji między ich elementami mamy jeszcze relacje między
+
+jorami, które oznaczamy odpowiednio R,..., zbiór tych relacji oznaczamy
+sy
+
+Posługując się pojęciami pierwotnymi i relacjami pierwotnymi formułu-
+definicje pojęć niepierwotnych (można je ewentualnie nazywać po-
+i złożonymi), które polegają na określeniu przynależności danego ro-
+aju pojęcia do określonych zbiorów (przynależności do  poszczególnych
+iorów będziemy nazywać cechami) lub też określaniu zbiorów składają-
+się na dane pojęcie. Np. definicje klasyczne polegają na określeniu
+ależności obiektów lub relacji danego rodzaju — które oznaczymy e — do
+ru zbiorów (określeniu dwóch cech definiowanego obiektu), z których jeden
+czymy literą X, zaś drugi literą Y. Przy tych oznaczeniach definicja kla-
+szna może być symbolicznie zapisana w następujący sposób:
+
+ecX
+ecY
+
+p. jeżeli X będzie oznaczać zbiór prostokątów, zaś Y zbiór figur geome-
+ycznych o bokach równych, wówczas klasyczna definicja pojęcia kwadratu
+który w tym w;padku oznaczymy e — będzie określać go jako prostokąt
+'kach równych”.
+
+Definicje nieklasyczne polegają na określeniu przynależności danego ro-
+aju obiektów e do więcej niż dwu zbiorów (określeniu więcej niż dwóch
+ch definiowanego obiektu), przy czym zbiory te oznaczymy odpowiednio
+Y,Z,..., co możemy zapisać symbolicznie w następujący sposób:
+
+ecX
+ecY
+eecZz
+
+:_' pojęcie odpowiedniego kandydata do pracy w danym przedsiębiorstwie
+ożemy zdefiniować jako człowieka w określonym przedziale wieku, posia-
+jącego odpowiednie wykształcenie, praktykę itd.*.
+
+aproponowane tu pojęcie definicji klasycznej jest pewnym uogólnieniem pojęcia tradycyjne-
+go używanego w logice.
+
+icja klasyczna jest wystarczająca dla potrzeb nauk ścisłych, natomiast w naukach hu-
+manistycznych nie wystarczy i większe zastosowanie ma tu definicja nieklasyczna.
+
+--- Page 06 ---
+„                                                        JUZEIL TAUDDULNL
+
+Przy pomocy podanych wyżej pojęć i relacji możemy określać różne bar.
+dziej złożone pojęcia i operacje na zbiorach, których badaniem zajmuje się
+teoria mnogości.
+
+Zbiór (,9%,.%) = (Q,IS)  obiektów elementarnych ,o, (gdzie indeks ;
+przybierać może dowolną z wartości 1,2,...,n) oraz wszystkich relacji między
+nimi „7, (gdzie zarówno indeks k jak i indeks s przybierać mogą dowolną
+z wartości 1,2,...,) nazywamy systemem i oznaczamy (O,R)=S,, gdzie
+
+x jest oznaczeniem danego systemu. Zbiór wszystkich obiektów elementar-
+nych ,o, nazywamy substancją systemu S,, natomiast zbiór wszystkich
+
+relacji ,7, strukturą tego systemu.
+Zbiór systemów (S,,S,,...) nazywamy nadsystemem i oznaczamy
+
+(S„Sy,„.) = S„_„› zaś systemy, z których się składa, nazywamy jego pod-
+systemami; zbiór relacji między tymi podsystemami (R,...)= R nazy-
+sy      xY
+
+wamy strukturą nadsystemu, zaś zbiór składający się ze wszystkich
+obiektów elementarnych (O,0O,...) należących do tych podsystemów, nazy-
+s Y
+
+wamy substancją nadsystemu. Oczywiście każdy z podsystemów ma swo-
+ją substancję i strukturę.
+Jeżeli mamy zbiór relacji „7, między obiektami elementarnymi dowol-
+
+nego zbioru X, wówczas relacje „7, € R nazywamy informacjami i ozna-
+
+czamy ,I,, (gdzie zarówno indeks a jak i indeks b przybierać mogą dowolną
+z wartości 1,2,...,n). Inaczej można to sformułować w następujący sposób: re-
+lacje między obiektami elementarnymi tego samego dowolnego zbioru X na-
+zywamy informacjami oznaczając je  I , (gdzie a oraz b to indeksy obiek-
+
+złab
+tów elementarnych między którymi relacja-informacja występuje).
+Informacje należą do systemów stanowiąc elementy ich struktury. W ja-
+kościowej teorii informacji” przyjęło się używanie sformułowania, że infor-
+macje są zawarte w określonym zbiorze obiektów elementarnych.
+Biorąc pod uwagę wyrażenie (2) możemy stwierdzić, że informacje nale-
+żące do różnych zbiorów oznaczonych odpowiednio X,Y mogą być równe, co
+zapisujemy:
+
+65)...                         xch'=ylal =LI
+
+Jeżeli mamy dwa zbiory oznaczone odpowiednio literami X, Y, wówczas
+relacje między obiektami elementarnymi należącymi do różnych zbiorów
+(oznaczone wyżej symbolem „7,) nazywamy kodami i oznaczamy x„K„„.
+
+5 Twórcą jakościowej teorii informacji jest polski cybernetyk Marian Mazur, zaproponowaną
+przez niego terminologię stosujemy w niniejszej pracy. Por. M. MAZUR, Jakościowa teoria
+informacji, Warszawa 1970.
+
+--- Page 07 ---
+Docjocypernetyczne tunkcjonowanie kategorii piękna i brzydoty...        377
+
+'Inaczej można zdefiniować kody jako nie będące informacjami relacje eri
+między obiektami elementarnymi zbioru (X,Y) złożonego z wszystkich obiek-
+yw elementarnych obu tych zbiorów, i oznaczyć je symbolicznie:
+
+K„, gdzie yFyŻ 1,
+
+zyTwE x
+e ,]I,
+
+TE y !p
+
+yy
+
+| Podane wyżej definicje informacji i kodów można uogólnić na przypadek
+relacji między wielu zbiorami (nadsystemami), przy czym zamiast obiektów
+lementarnych i relacji, między nimi występować będą zbiory i relacje mię-
+zy tymi zbiorami. W związku z tym możemy sformułować następujące
+Tótkie ogólne definicje: relacje między elementami tego samego zbioru na-
+zywamy informacjami, zaś relacje między elementami różnych zbiorów
+nazywamy kodami (elementami mogą tu być zarówno obiekty elementarne
+ak i zbiory tych obiektów). Jeżeli np. mamy jeden zbiór X odległości między
+żnymi miejscowościami w terenie oraz drugi zbiór Y odpowiadających im
+egłości na mapie, wówczas stosunki tych odległości będą informacjami,
+zaś skala mapy będzie kodem.
+
+Elementy zbioru, między którymi występują relacje-informacje nazy-
+amy komunikatami.
+
+Jeżeli poszukujemy informacji zawartych między elementami zbioru X,
+"wówczas elementy tego zbioru nazywamy oryginałami.
+v:  Do znalezienia poszukiwanych przez nas informacji możemy wykorzy-
+stać zbiór Y, który posiada taką samą strukturę jak zbiór X — wówczas ele-
+menty tego zbioru nazywamy obrazami.
+Kody w tym wypadku będą relacjami między oryginałami a obrazami.
+W omawianym wyżej przykładzie oryginałami będą odległości między
+żnymi miejscowościami w terenie, zaś obrazami odpowiadające im odległo-
+ści na mapie.
+
+Przetwarzanie oryginałów w obrazy i obrazów w oryginały jest prze-
+twarzaniem komunikatów, kody określają sposób tego przetwarzania.
+Natomiast przetwarzanie informacji zawartych między elementami zbioru
+ oryginałów w informacje zawarte między elementami zbioru obrazów, nazy-
+wamy informowaniem.
+
+. Znając oryginały i kody można określić (znaleźć) obrazy — proces ten na-
+'!ywamy kodowaniem.
+
+Znając oryginały i obrazy można określić kody — operację tę nazywamy
+wykrywaniem kodu.
+
+Znając obrazy i kody można określić oryginały — operację tę nazywamy
+?ekodowaniem.
+
+W naszym przykładzie kodowaniem będzie sporządzanie mapy terenu
+w określonej skali, natomiast dekodowaniem znajdowanie odpowiednich od-
+cinków w terenie na podstawie mapy.
+
+Jeżeli przetwarzanie oryginałów w obrazy odbywa się bez zmiany infor-
+macji — tzn. jeżeli informacje zawarte między elementami zbioru obrazów są
+
+--- Page 08 ---
+378                                              Józef Kossecki
+
+takie same jak informacje zawarte między elementami zbioru oryginałów,
+wówczas mamy do czynienia z informowaniem wiernym, czyli transin.
+formowaniem. Jest ono opisane wyrażeniem (5).
+
+Transinformowanie jest równoznaczne z przenoszeniem informacji bez
+ich zniekształcania.
+
+W omawianym przykładzie mapy, z informowaniem wiernym czyli tran-
+sinformowaniem będziemy mieli do czynienia wówczas, gdy stosunki odle-
+głościG na mapie będą takie same jak stosunki odpowiednich odległości w te.
+renie”.
+
+Informowanie wierne możemy nazwać informowaniem prawdziwym,
+zaś informacje zawarte w zbiorze obrazów, które są takie same jak informa-
+cje zawarte w zbiorze oryginałów nazywamy informacjami prawdziwymi.
+Prawda jest to stosunek informacji zawartych w zbiorze obrazów do infor-
+macji, zawartych w zbiorze oryginałów występujący w informowaniu wier-
+nym czyli transinformowaniu.
+
+Jeżeli przetwarzanie oryginałów w obrazy odbywa się w taki sposób, że
+informacje zawarte między elementami zbioru obrazów nie są takie same
+jak informacje zawarte między elementami zbioru  ory%'inałów,  wWówczas
+mamy do czynienia z informowaniem zniekształconym .
+
+Informowanie zniekształcone możemy nazwać informowaniem fał.
+szywym (w następnym rozdziale omówimy jeszcze pojęcie informowania
+pozornego — czyli pseudoinformowania, które jest specyficzną odmianą in-
+formowania zniekształconego), zaś informacje zawarte w zbiorze obrazów,
+które są różne niż informacje zawarte w zbiorze  oryginałów nazywamy
+informacjami fałszywymi. Fałsz jest to stosunek informacji zawartych
+w zbiorze obrazów do informacji zawartych w zbiorze oryginałów występują-
+cy w informowaniu zniekształconym.
+
+Ocena prawdziwości lub fałszywości informacji stanowi najogólniejszy
+cel procesów przetwarzania informacji, które są zasadniczą częścią procesów
+eksploracyjnych.
+
+Jeżeli jako obiekty elementarne potraktujemy pewne słowa-pojęcia i ba-
+dać będziemy relacje pomiędzy nimi, przy czym oprócz podanych wyżej rela-
+cji pierwotnych wprowadzimy jeszcze dwie: lub oznaczoną symbolem „V”
+oraz i oznaczoną symbolem „A”, a następnie rozpatrywać będziemy systemy
+złożone z tych słów i relacji pomiędzy nimi — nazywając je  zdaniami,
+przyjmując dalej pewien zbiór zdań jako ten, w którym zawarte są informa-
+cje prawdziwe, wówczas badaniem prawdziwości informacji zawartych w in-
+nych zdaniach w oparciu o informacje zawarte w powyższych zbiorach zdań
+uznanych za prawdziwe, zajmuje się logika.
+
+Jeżeli wprowadzimy kolejne pojęcie pierwotne — mianowicie wielkość,
+wówczas oprócz wymienionych wyżej sześciu relacji pierwotnych „E”, sE
+„m”, „F, „=”, „7 dochodzi nam jeszcze jedna, którą oznaczamy „<”, jeżeli
+dwie wielkości a oraz b są połączone tą relacją:
+
+Ś Por. J. KOSSECKI, Cybernetyczna analiza systemów i procesów społecznych, Kielce 1996,
+s. 48-50.
+
+" Por. tamże, s. 50.
+
+--- Page 09 ---
+Socjocybernetyczne funkcjonowanie kategorii piękna i brzydoty...         379
+
+:  K7::.                                         a<b
+
+" oznacza to, że wielkość a jest mniejsza niż wielkość b. Badaniem tych relacji
+ zajmuje się matematyka w tradycyjnym tego słowa znaczeniu. Poszczegól-
+" nym wielkościom przyporządkowuje się w odpowiednim porządku liczby.
+" Wielkości opisywane przez liczby są specjalnym rodzajem relacji, które okre-
+ślamy porównując ze sobą różne obiekty i ich zbiory. Bez porównania co
+ najmniej dwu obiektów lub dwu ich zbiorów nie jest możliwe określenie tych
+relacji.
+
+Z kolei jeżeli wprowadzimy kolejne trzy pojęcia pierwotne: odległość,
+' czas i masę”, oraz miary ich wielkości — odpowiednio centymetr (lub metr),
+sekundę i gram, wówczas będziemy badać obiekty energomaterialne i relacje
+. między nimi.
+| - Przy opisie obiektów energomaterialnych podajemy ich masę oraz poło-
+_żenie w przestrzeni i w czasie. W wypadku złożonych obiektów energomate-
+rialnych — czyli systemów — musimy jeszcze podać ich strukturę.
+|  Badaniem relacji między energomaterialnymi obiektami elementarnymi
+' jich zbiorami zajmuje się fizyka, cybernetyka i metacybernetyka. Zasadnicze
+znaczenie ma przy tym badanie specjalnych relacji zwanych związkami
+przyczynowymi (jest to kolejny rodzaj relacji pierwotnych). Fizyka bada
+związki przyczynowe między poprzednimi i następnymi (w czasie) stanami
+obiektów  energomaterialnych, cybernetyka związki przyczynowe  między
+pewnymi stanami następnymi, nazywanymi celami i poprzednimi — inaczej
+mówiąc bada procesy sterowania zmierzające do określonych celów (w proce-
+. sach fizykalnych pojęcie celu nie występuje)*, wreszcie metacybernetyka
+. stanowi syntezę fizyki i cybernetyki.
+| — Badaniem procesów fizykalnych i procesów sterowania w organizmach
+żywych zajmują się nauki biologiczne. Organizmy żywe — które są przedmio-
+' tem badań w naukach biologicznych są systemami autonomicznymi, przy
+cz     system autonomiczny - zgodnie z definicją M. Mazura - jest to taki
+system, który ma zdolność do sterowania się i może przeciwdziałać utracie
+tej swojej zdolności; albo inaczej mówiąc, jest swoim własnym organizatorem
+i steruje się we własnym interesie*.
+| Specjalny — ze względu na charakter swych celów — rodzaj systemów au-
+ tonomicznych stanowią ludzie i ich zrzeszenia — których badaniem zajmuje
+. się cybernetyka społeczna”. Ludzie jako cybernetyczne systemy autonomicz-
+ne tym różnią się od innych organizmów żywych, że dominującymi celami
+ich działań sterowniczych mogą być inne niż czysto witalne (związane z dą-
+5~Ogć-lma teoria względności tłumaczy zjawiska grawitacyjne własnościami geometrycznymi
+zakrzywionej czasoprzestrzeni, ostatnio zaś rozwija się kwantowa teoria geometrii.
+
+* Choć jest do pomyślenia fizyka z pojęciem celu, czego przykładem może być zasada antro-
+_ piczna w kosmologii, w swych mocnych sformułowaniach, jak to jest u Wheelera, Tiplera
+iin. (przypis redaktora).
+
+Por. M. MAZUR, Cybernetyka i charakter, Warszawa 1976, s. 163.
+" Por. J. KOSSECKI, Cybernetyka społeczna, Warszawa 1981.
+
+
+--- Page 10 ---
+380                                                                                  Józef Kossecki
+
+żeniem do podtrzymania życia, przekazania życia, własnej dominacji w stą.
+dzie i dominacji swego stada nad innymi) cele — np. etyczne, ideologiczne.
+
+Podane wyżej pojęcia ogólnej jakościowej teorii informacji odnoszą się do
+obiektów i relacji zarówno abstrakcyjnych - tj. takich, którym nie przypi-
+sujemy masy ani energii — jak też  energomaterialnych, którym  masę
+i energię przypisujemy. W związku z tym, wszelkie relacje — zarówno infor.
+macje jak i kody — możemy podzielić na abstrakcyjne i energomateria].
+ne; podział ten przedstawia następujący schemat:
+
+RELACJE
+(Informacje, kody)
+
+ZN
+
+ABSTRAKCYJNE HENERGOMATERIALNE
+
+Tradycyjne pojęcie informacji — stosowane  zarówno W ilościowej jak
+i wartościowej teorii informacji — według powyższego podziału odpowiada po-
+jęciu informacji abstrakcyjnej.
+
+W rzeczywistości nie znamy przekazywania i przetwarzania informacji
+bez przekazywania i przetwarzania energomaterii i na odwrót.
+
+Przekazu informacji nie można rozpatrywać w oderwaniu od obiektów,
+które informacje przekazują i obiektów, które je odbierają. Jeżeli obiektami
+tymi są ludzie, lub inne systemy autonomiczne, wówczas oceną prawdzi-
+wości informacji zajmuję się psychocybernetyczna teoria informacji
+i socjocybernetyczna teoria informacji oraz związana z nimi teoria po-
+znania”.
+
+Z punktu widzenia wykorzystania informacji, przez systemy  autono-
+miczne, możemy je podzielić na:
+
+« informacje poznawcze (bierne), których uzyskanie przez system
+autonomiczny nie powoduje przepływu energomaterii w formie jego
+reakcji (oddziaływań na otoczenie);
+
+« informacje decyzyjne (czynne), których uzyskanie przez system
+autonomiczny powoduje przepływ energomaterii w formie jego reak-
+cji (oddziaływań na otoczenie).
+
+System, który jest źródłem informacji poznawczych nazywamy informa-
+
+torem'”.
+
+„Twierdzenia są to informacje zawarte w zbiorze obrazów. Twierdze-
+nia prawdziwe są to informacje zawarte w zbiorze obrazów takie same jak
+informacje zawarte w zbiorze oryginałów.
+
+!! Por. J. KOSSECKI, Metacybernetyczna teoria poznania, (w:) Miscellanea FPhilosophica, Rok 2,
+No 3, 5/1998, s. 195—208.
+
+! Por. J. KossEcKi, Relacja „Prawda - fałsz” w ilościowej i jakościowej teorii informacji, (w:)
+THE PECULARITY OF MAN, vol. 6, Warszawa-Kielce 2001, s. 349-386.
+
+--- Page 11 ---
+Socjocybernetyczne funkcjonowanie kategorii piękna i brzydoty...         381
+
+Do sprawdzania prawdziwości twierdzeń — czyli ustalania zgodności in-
+
+macji zawartych w zbiorach obrazów z informacjami zawartymi w zbio-
+
+sach oryginałów — służą procedury - czyli procesy - dowodowe (dowo-
+enie), których podstawą są dowody czyli zbiory komunikatów zawiera-
+
+ce poszukiwane informacje; dzielimy je na: a) dowody bezpośrednie,
+
+które są elementami oryginałów, b) dowody pośrednie, które są elemen-
+
+mi obrazów. (...)"'*.
+
+Procesy dowodowe polegające na badaniu oryginałów nazywamy empi-
+
+znymi, zaś polegające na badaniu obrazów — teoretycznymi.
+
+- Twierdzenia ogólne są to informacje zawarte w wielu zbiorach orygi-
+
+iałów — czyli powtarzalne, Im większa jest liczba zbiorów, w których zawar-
+
+ra jest dana informacja, tym mocniejsze jest twierdzenie.
+
+„Nauka bada informacje (relacje):
+
+- a) ogólne, czyli występujące w wielu zbiorach oryginałów (inaczej mó-
+
+4        wiąc typowe, powtarzalne),
+
+| b) intersubiektywnie komunikowalne, czyli możliwe do zakodowa-
+
+Ź        nia (zawarcia) w zbiorach obrazów występujących w ludzkiej pamię-
+
+ci — wewnętrznej lub zewnętrznej,
+
+| c) sprawdzalne, czyli takie, których prawdziwość można sprawdzić
+
+ń        przy pomocy omówionych wyżej procedur dowodowych.
+
+. Twierdzenia naukowe, to informacje ogólne zawarte w zbiorach obrazów.
+
+|  Naukowe procedury dowodowe, to sprawdzanie prawdziwości twier-
+
+ naukowych.
+
+- Teoria, to zbiór twierdzeń.
+
+- Teoria naukowa, to zbiór informacji ogólnych zawartych w zbiorach
+
+brazów — czyli zbiór twierdzeń naukowych.
+
+- Twierdzenia naukowe, które przyjmujemy bez dowodu nazywamy ak-
+
+sjomatami naukowymi.
+
+O mocnej teorii mówić możemy wówczas, gdy zawiera ona nie tylko in-
+
+je znane z empirii — czyli stwierdzone w zbiorach oryginałów, ale
+
+Ż i takie, których jeszcze w zbiorach oryginałów nie stwierdzono; ina-
+
+j mówiąc mocna teoria nie tylko zawiera informacje znane już z doświad-
+nia, ale pozwala przewidywać takie, których jeszcze doświadczalnie nie
+
+wierdzono”!*.
+
+Twórca polskiej szkoły cybernetycznej Marian Mazur wyróżnił trzy wiel-
+de dziedziny procesów zdobywania informacji poznawczych — które nazy-
+amy procesami eksploracyjnymi — w społeczeństwie jako wielkim sys-
+mie autonomicznym: sztukę, filozofię i naukę. Różnią się one od siebie —
+g M. Mazura - relacją wobec twierdzeń ogólnych i procedur dowodo-
+wych, co pokazuje tablica 1.
+
+ J. KOSSECKI, Elementy nowoczesnej wiedzy o sterowaniu ludźmi, Kielce 2001, s. 161.
+
+" J. KossECKI, Metacybernetyczna teoria poznania, (w:) Miscellanea Philosophica, Rok 2, No.
+3, 5/1998, s. 195-208.
+
+--- Page 12 ---
+382
+
+Józef Kossecki
+
+Tablica 1. Dziedziny ludzkiego poznania.
+
+Dziedzina                 Twierdzenia ogólne       Procedury dowodowe
+Sztuka                        nie zawiera                      nie zawiera
+
+Filozofia                         zawiera                        nie zawiera
+Nauka                          zawiera                          zawiera
+
+Sztuka jest najstarszą dziedziną ludzkiego poznania!*, nie zawiera ona
+żadnych twierdzeń ogólnych ani procedur dowodowych. Filozofia jest młod.
+sza niż sztuka, zawiera ona twierdzenia ogólne, natomiast nie zawiera pro-
+cedur dowodowych — zamiast nich występuje w niej powoływanie się na au-
+torytety. Najmłodszą historycznie dziedziną ludzkiego poznania jest nauka,
+która zawiera twierdzenia ogólne i procedury dowodowe (ciągle doskonalo-
+ne). M. Mazur podkreślał, że w nauce występują tylko twierdzenia i proce-
+dury dowodowe, tam zaś, gdzie zaczynają się autorytety kończy się nauka
+i zaczyna filozofia.
+
+Mazurowskie rozróżnienie sztuki, filozofii i nauki wymaga pewnego ko-
+mentarza. Skoro nauka zawiera tylko twierdzenia ogólne i procedury dowo-
+dowe, to zrozumiałe jest, że poznanie naukowe jest w stosunku do filozofii
+i sztuki ograniczone, gdyż dotyczy tylko tego, co na danym etapie rozwoju
+można wyrazić w formie twierdzeń ogólnych i udowodnić. To oczywiście nie
+wystarczy wielu ludziom (w tym również samym naukowcom), dlatego sięga-
+ją oni po wiedzę, której nie da się udowodnić (na danym etapie rozwoju na-
+uki), jeżeli ta wiedza będzie wyrażona w formie twierdzeń równie ogólnych
+jak naukowe, wówczas będzie to filozofia. Twierdzenia filozoficzne mogą być
+traktowane jako poglądy głoszone przez ich autorów lub zwolenników, przy
+czym autorytet autorów ma tu duże znaczenie. Filozofia jest metadziedziną
+w stosunku do nauki, może ją wyprzedzać i inspirować, każdy naukowiec
+zakłada jakieś twierdzenia filozoficzne, które traktuje jako aksjomaty na-
+ukowe. Filozofia jest więc źródłem aksjomatów naukowych. Niektóre twier-
+dzenia filozoficzne mogą zostać udowodnione i wówczas stają się one ele-
+mentem nauki, przestając być poglądami, które można przyjmować jako
+prawdziwe lub nie.
+
+Podobnie jak poznanie naukowe również poznanie filozoficzne może nie
+wystarczyć wielu ludziom, gdyż jest ono ograniczone do tego, co można wy-
+razić w formie twierdzeń ogólnych. Dlatego też ludzie od wieków sięgali po
+sztukę jako narzędzie poznania o wiele szerszego i głębszego (choć może
+mniej precyzyjnego) niż poznanie naukowe czy nawet filozoficzne, gdyż nie
+jest ono ograniczone formalnymi wymogami ogólności, ani też koniecznością
+przeprowadzania procedur dowodowych, których nikt od artystów nie wy-
+maga. Przedstawiają oni tylko swoją wizję rzeczywistości i przekazują także
+informacje unikalne nie zaś koniecznie ogólne. Sztuka jest metadziedziną
+
+= Według A. Wiercińskiego muzyka, jako najłatwiejsza w odbiorze, wyprzedzała inne rodzaje
+sztuki, kształtując pewien typ wrażliwości estetycznej i umożliwiając rozwój innych dziedzin
+sztuki, tworząc wraz z nimi określony system stanowiący pewną całość.
+
+--- Page 13 ---
+Socjocybernetyczne funkcjonowanie kategorii piękna i brzydoty...         383
+
+ia w stosunku do filozofii — i oczywiście również nauki — inspirując do
+iej ogólnego i ścisłego poznawania świata. Język literacki, który jest
+mentem sztuki — literatury pięknej — funkcjonuje również w filozofii i na-
+w których nie da się uniknąć stosowania słów zaczerpniętych z tzw.
+nowy potocznej's.
+
+Poszczególne kierunki filozoficzne różnią się przede wszystkim tym, co
+ktują jako oryginały pierwotne (praoryginały) — tj. takie, w których
+warte są informacje z jakimi w ostatecznej instancji porównujemy infor-
+je zawarte w zbiorach naukowych czy filozoficznych obrazów. Np. ide-
+jako oryginały pierwotne traktuje idee, materializm materię, reizm
+zy itp.
+
+Ogólnie rzecz ujmując można stwierdzić, że poszczególne kierunki filozo-
+zne i naukowe różnią się między sobą tym, co traktują jako obiekty ele-
+ntarne, jaki rodzaj relacji między nimi badają, co traktują jako praorygi-
+y, wreszcie jakie aksjomaty przyjmują.
+
+. W pewnym stopniu kryteria powyższe można również — choć już nie tak
+ciśle — zastosować do rozróżnienia poszczególnych kierunków w sztuce.
+
+2. Przekaz informacji poprzez dzieła sztuki w ujęciu jakościowej
+teorii informacji M. Mazura
+
+- Sztuka powstała wcześniej niż nauka i filozofia odgrywając decydującą
+
+'rolę w procesach zdobywania informacji poznawczych społeczeństwa jako
+
+. systemu autonomicznego. M. Mazur w swoim referacie na Sympozjum Se-
+
+miologii Teatralnej we wrześniu 1977 r. w Paryżu zastosował język i metody
+
+stworzonej przez siebie jakościowej teorii informacji do analizy procesów
+ przetwarzania informacji w sztuce.
+
+i     Dzieło sztuki oddziałuje na jego odbiorców, przy czym oddziaływanie to
+
+można — zgodnie z metodą M. Mazura — rozpatrywać jako proces przekazy-
+
+ wania i przetwarzania informacji. Proces ten zależy od stanu nadawcy in-
+ formacji, którym w tym wypadku jest twórca, od przekaźnika informacji,
+
+" którym jest dzieło sztuki, oraz od stanu odbiorców informacji zawartych
+
+w dziele sztuki.
+
+Jeżeli informacje, które za pośrednictwem swego dzieła chce społeczeń-
+
+. stwu przekazać twórca, są takie same jak informacje faktycznie odebrane
+
+przez społeczeństwo, wówczas mamy do czynienia z przenoszeniem informa-
+
+cji — czyli informowaniem wiernym, jeżeli natomiast nie będą one takie sa-
+me, wówczas mamy do czynienia z informowaniem zniekształconym.
+
+;      Informowanie wierne występuje w wypadku, gdy:
+
+a) w przekaźniku informacji, jakim jest dzieło sztuki, zawarte są te
+wszystkie informacje, które chce przekazać twórca i które odbierają
+odbiorcy — wówczas mamy do czynienia z transinformowaniem;
+
+b) w dziele sztuki nie są zawarte wszystkie te informacje, które chce
+przekazać twórca, ale mimo to odbiorcy je odbierają — wówczas ma-
+
+16 Por. tamże.
+
+--- Page 14 ---
+384                                                        Józef Kossecki
+
+my do czynienia z parainformowaniem; może ono występować
+tylko wówczas, gdy u twórcyi u odbiorców występują wspólne zbiory
+parainformacji (skojarzeń) zarejestrowanych w ich pamięci.
+
+Zarówno transinformowanie jak i parainformowanie jest informowaniem
+wiernym.
+
+Zniekształcone informowanie może być:
+
+a) pseudoinformowaniem - czyli informowaniem pozornym (rozwle-
+
+kłym, ogólnikowym lub niejasnym);
+
+b) dezinformowaniem - czyli informowaniem fałszywym (zmyślanie,
+
+przekręcanie, zatajanie).
+
+Sztuka nowożytna —- według M. Mazura - przeszła w swym rozwoju
+przez etap transinformowania, następnie pseudoinformowania i wreszcie
+doszła współcześnie do parainformowania.
+
+Mniej więcej do końca XVIII wieku twórcy w swych dziełach starali się
+możliwie wiernie przekazywać wszystkie informacje, które miał odbierać od-
+biorca. Dzieła sztuki odznaczały się dużą  dokładnością przedstawiania
+szczegółów, a odbiorcy nie musieli się zbyt wiele domyślać i mogli ograniczać
+się do stosunkowo biernego odbioru informacji zawartych w dziele sztuki. Były
+to typowe procesy transinformowania. Nie mogło być wówczas inaczej, gdyż
+odbiorcy dysponowali stosunkowo niewielkimi zasobami parainformacji.
+
+W miarę postępów oświaty i podnoszenia się kultury społecznej posze-
+rzył się zasób parainformacji (skojarzeń) u odbiorców (a także u twórców)
+i powstały warunki dla bardziej aktywnej ich postawy. Znalazło do odbicie
+w twórczości artystycznej. W XIX wieku pojawia się romantyzm, a wraz
+z nim tendencja do podkreślania, a nawet wyolbrzymiania pewnych elemen-
+tów rzeczywistości, pomniejszania lub pomijania innych, tzn. w sztuce roz-
+wija się pseudoinformowanie.
+
+Twórcy epoki romantyzmu nie starali się o wierny przekaz informacji,
+chodziło im raczej o pobudzanie wyobraźni i uczuć odbiorców, którzy powin-
+ni sami odczytywać to wszystko, czego twórca w swym dziele nie dopowie-
+dział wyraźnie.
+
+'We współczesnej epoce rewolucji informacyjnej  dokonał się nie tylko
+szybki postęp nauki i oświaty, ale również środków masowego przekazu in-
+formacji, co przyczyniło się  do istotnego rozszerzenia zakresu  skojarzeń
+w szerokich rzeszach odbiorców. Znalazło to też odbicie w nowoczesnej sztu-
+ce, która może się odwoływać do odbiorców wykorzystujących szeroki zakres
+swych parainformacji i stających się jakby współtwórcami dzieł sztuki. Przy
+przekazie informacji za pośrednictwem nowoczesnych dzieł sztuki mamy do
+czynienia przede wszystkim z parainformowaniem. Oczywiście dawne formy
+sztuki oparte na  transinformowaniu i  pseudoinformowaniu  funkcjonują
+nadal — zwłaszcza w sztuce filmowej i telewizji, a nawet spełniają istotną ro-
+lę w procesach edukacji społeczeństwa, a także w reklamie i propagandzie”.
+
+L Według A. Wiercińskiego to właśnie muzyka kształtuje podatność ludzi na określone rodza-
+je informowania (wiernego lub zniekształconego) i od zmian w muzyce zaczynały się opisane
+wyżej zmiany w sztuce nowożytnej.
+
+--- Page 15 ---
+Socjocybernetyczne funkcjonowanie kategorii piękna i brzydoty...         385
+
+Rozważania M. Mazura można uzupełnić ogólnym stwierdzeniem, że do-
+- bra sztuka informuje wiernie (tzn. transinformuje lub parainformuje), ewen-
+tualnie pseudoinformuje (twórca ma bowiem prawo do pomniejszania pew-
+nych elementów rzeczywistości lub eksponowania innych), natomiast zła
+. sztuka dezinformuje (daje fałszywy obraz rzeczywistości).
+
+(
+
+ 3. Systemy sterowania społecznego i funkcjonowanie w nich
+kategorii piękna i brzydoty - czyli tworzenia norm estetycznych
+*    Procesy powstawania parainformacji w szerokich rzeszach członków spo-
+leczenstwa łączą się z powstawaniem norm społecznych, które funkcjonu-
+|ją w poszczególnych społeczeństwach, a te z kolei są uzależnione od syste-
+. mów sterowania społecznego rozumianych jako zorganizowane układy
+j'n'ocesów sterowania ludzkimi działaniami w danym społeczeństwie. Syste-
+my te — jeżeli mają być skuteczne — muszą wykorzystywać bodźce dostoso-
+. wane do rodzaju norm dominujących w danym społeczeństwie. Wywierają
+one istotny wpływ na społeczne funkcjonowanie sztuki. Zasadnicze znacze-
+nie mają przy tym normy estetyczne.
+- S. Ossowski traktuje wyraz piękny jako równoważnik wyrażenia: posia-
+_@ązący wartość estetyczną!*. Można w związku z tym powiedzieć, że w sensie
+tradycyjnym normy estetyczne wartościują osoby, czyny rzeczy i zjawiska
+z punktu widzenia piękna i brzydoty (brzydota jest rozumiana jako przeci-
+wieństwo piękna), stanowiąc podłoże i zarazem kryterium dla szerokiego za-
+Śesu zjawisk, przede wszystkim z dziedziny sztuk pięknych.
+Stanisław Ossowski, a także Leon Petrażycki i jego uczeń Henryk Piętka
+wskazywa_h na związki przeżyć estetycznych z różnymi dziedzinami życia
+i wpływ sztuki na te dziedziny.
+:':   H. Piętka wskazywał na społeczno-psychologiczne prawidłowości po-
+Łtawaniem  norm estetycznych, które są analogiczne jak prawidłowości
+ztałtowania się innych rodzajów norm społecznych. „Normy społeczne
+stanowią rezultat doświadczenia masowego, przy czym każdy przejaw do-
+dczenia indywidualnego wpływa na urabianie ich treści, która ostatecz-
+ie odpowiada najczęściej spotykanemu w danej gromadzie wartościowaniu
+. danego zjawiska lub postępowania ludzkiego”!*. Jak z tego wynika przypi-
+ sywanie określonym obiektom wartości takich jak piękno i brzydota jest wy-
+_nikiem wartościowania społecznego.
+Ś    W cybernetyce społeczneJ normy estetyczne traktowane są jako normy
+poznawcze nieścisłe”.
+|  Ogólnie rzecz ujmując w cybernetyce społecznej wyróżniamy następujące
+rodzaje norm społecznych:
+| 1. normy poznawcze funkcjonujące w sferze procesów zdobywania,
+przetwarzania i oceny informacji; dzielimy je na normy poznawcze
+
+ Por S. OSSOWSKI, U podstaw estetyki, Warszawa 1958, s. 13.
+   H. PIĘTKA, Teoria prawa, cz. II: Nauka o normach społecznych, Warszawa 1947, s. 1.
+Por. J. KOSSECKI, Cybernetyka społeczna, wyd. cyt., s. 84.
+
+--- Page 16 ---
+386                                                             Józef Kossecki
+
+ścisłe — które funkcjonują w sferze nauki i filozofii, oraz normy po-
+
+znawcze nieścisłe — które funkcjonują w sferze sztuki;
+
+2. normy ideologiczne — które określają zasadnicze cele działań spo.
+łecznych;*
+
+3. normy etyczne — przestrzegane dobrowolnie normy regulujące spo-
+soby osiągania celów określonych przez normy ideologiczne;
+
+4. normy prawne - które od norm etycznych różnią się tym, że ich
+
+przestrzeganie jest przymusowe;
+
+normy ekonomiczne - regulujące funkcjonowanie gospodarki;
+
+6. normy witalne — określające sposoby podtrzymania i przekazania
+życia, a także zdobywania pozycji społecznej i władzy (chodzi tu za-
+równo o pozycję własną w swojej grupie społecznej jak i pozycję wła-
+snej społeczności w stosunku do innych społeczności) jako celu same-
+go w sobie”.
+
+Bodźce, które oddziałując na określony rodzaj norm społecznych, wywołują
+działania ludzkie, nazywamy bodźcami motywacyjnymi albo krótko mo-
+tywacjami. Motywacje dzielimy w sposób analogiczny jak normy społeczne.
+
+Systemy sterowania społecznego możemy podzielić w zależności od tego,
+jaki rodzaj norm i związanych z nimi motywacji w nich dominuje. Funkcjo-
+nowanie norm estetycznych i związane z tym socjocybernetyczne funkcjono-
+wanie kategorii piękna i brzydoty jest uzależnione od rodzaju systemu ste-
+rowania społecznego.
+
+W systemie sterowania społecznego o  dominujących normach
+poznawczych od sztuki — podobnie jak nauki i filozofii — wymaga się
+przede wszystkim tego, by przekazywała prawdziwe informacje, ustalanie
+zaś prawdziwości informacji odbywa się poprzez porównywanie  obrazów
+z oryginałami. W związku ze społecznym charakterem wartościowania este-
+tycznego, w tym systemie sterowania, kryterium, według którego określa się
+czy dany obiekt jest piękny czy brzydki, polega na badaniu rzeczywistych
+ocen funkcjonujących w społeczeństwie. System tego rodzaju funkcjonował
+np. w starożytnej Grecji.
+
+W systemie sterowania społecznego o dominujących normach
+ideologicznych od sztuki wymaga się zgodności z obowiązującą ideologią,
+za piękne uważa się to, co jest z nią zgodne, a za brzydkie to, co jest z nią
+sprzeczne, zaś do określania tej zgodności uprawnione są określone autory-
+tety. System tego rodzaju funkcjonował np. w  średniowiecznej Europie,
+współcześnie zaś w niektórych państwach rządzonych przez fundamentali-
+stów muzułmańskich.
+
+W systemie sterowania społecznego o  dominujących normach
+etycznych od sztuki wymaga się zgodności z moralnością i to, co jest z nią
+
+o
+
+* Należy podkreślić inny sens użycia określenia norm ideologicznych w antropologii ogólnej, gdzie
+będzie chodziło o regulację życia społecznego przez ogólny pogląd na świat i pozycji w nim czło-
+wieka. Wówczas tak rozumiane normy ideologiczne (religijne, albo filozoficzne) decydują o hie-
+rarchizacji pozostałych rodzajów norm w poszczególnych systemach społeczno-kulturowych, w
+szczególności dotyczy to norm estetycznych i antyestetycznych (przypis redaktora).
+
+a Por. J. KOSSECKI, Elementy nowoczesnej wiedzy..., wyd. cyt., s. 120-133.
+
+--- Page 17 ---
+Socjocybernetyczne funkcjonowanie kategorii piękna i brzydoty...         387
+
+zgodne uważa się za piękne, zaś to, co z nią sprzeczne uważa się za brzydkie.
+Tego rodzaju system funkcjonuje np. w cywilizacji łacińskiej. W cywilizacji
+łacińskiej wszelkie rodzaje norm społecznych — a więc i normy estetyczne —
+ustala społeczeństwo w oparciu o swoją moralność.
+
+W systemie sterowania społecznego o  dominujących normach
+. prawnych funkcjonują określone w sposób formalny kanony piękna i brzy-
+doty oraz biurokratyczne instytucje upoważnione do określania tego rodzaju
+kanonów. System taki funkcjonuje np. w cywilizacji bizantyńskiej.
+
+W systemie sterowania  społecznego o dominujących normach
+ekonomicznych za piękne uważa się to co przynosi zysk, zaś za brzydkie
+to, co przynosi straty, zaś praktyczne określenie tego odbywa się poprzez ry-
+nek. System taki funkcjonuje np. w USA.
+
+W systemie sterowania społecznego o dominujących normach wi-
+talnych za piękne uważa się to, co zdrowe, jak również to, co pozwala umac-
+niać własną pozycję społeczną oraz pozycję własnej społeczności w stosunku do
+innych, zaś za brzydkie to, co niezdrowe lub szkodliwe dla własnej pozycji spo-
+łecznej i pozycji własnej społeczności. Decydujący głos ma przy tym władza.
+System taki funkcjonował i funkcjonuje np. w cywilizacji turańskiej?.
+
+Wymienione wyżej rodzaje norm i motywacji można obserwować nie tyl-
+ko u ludzi ale również u zwierząt, przy czym u zwierząt niżej zorganizowa-
+nych będą to wyłącznie normy wrodzone, zaś u zwierząt wyżej zorganizowa-
+nych coraz większą rolę odgrywają normy nabyte dzięki obcowaniu z innymi
+osobnikami danego gatunku — rodzicami i ewentualnie innymi członkami
+stada. U zwierząt — nawet wówczas, gdy obserwujemy różne rodzaje norm
+i motywacji — zawsze dominującą rolę odgrywają normy i motywacje wital-
+ne, tylko w społecznościach ludzkich możemy obserwować dominację innych
+
+niż witalne norm i motywacji.
+
+4. Elementy estetyki formalnej, aksjomatyczne ujęcie norm
+estetycznych
+
+Z punktu widzenia cybernetyki, można opisać oddziaływanie twórcy po-
+przez dzieło sztuki na odbiorcę, jako przekaz informacji — w sposób zapre-
+zentowany na rysunku 1.
+
+SYSTEM
+
+DZIEŁO
+
+Twórca                                    Odbiorca
+SZTUKI
+
+ORYGINAŁ           KOD                 OBRAZ
+
+Rys. 1. Przekaz informacji poprzez dzieło sztuki.
+
+s Por. J. KOSSECKI, Podstawy nauki porównawczej o cywilizacjach, Kielce 1996.
+
+--- Page 18 ---
+388                                                             Józef Kossecki
+
+Informacje, które twórca chce przekazać za pośrednictwem swego dziełą
+możemy traktować jako oryginały, dzieło sztuki to kod, zaś informacje, które
+uzyskuje odbiorca to obrazy. Twórca, jego dzieło i odbiorca stanowią okre.
+ślony system przekazu informacji. Trzeba też pamiętać, że informacje, które
+chce przekazać twórca, są wytworzonymi w jego umyśle obrazami orygina-
+łów świata, który postrzega, lub tworzy w swojej wyobraźni. Ten świat skłą.
+da się z obiektów i relacji między nimi, które podlegać mogą ocenie estetycz.
+nej.
+
+Jeżeli obiektom A i B oraz relacji między nimi 7,, możemy przypisać ce-
+chę piękna lub cechę brzydoty, oznaczając posiadanie cechy piękna znakiem
+„+”, zaś posiadanie cechy brzydoty znakiem „—”, wówczas można zapropo-
+nować oparcie estetyki formalnej na następującym zbiorze aksjomatów:
+
+1) Jeżeli obiekt A i obiekt B oraz relacja między nimi 7,, mają cechę
+piękna, wówczas system S składający się z nich również ma cechę piękna, co
+zapisać możemy symbolicznie:
+
+8)...                                        (+4,+B,+r,,)=+S
+
+2) Jeżeli którykolwiek z elementów systemu S ma cechę brzydoty, wów-
+czas ten system ma cechę brzydoty, co zapisać możemy symbolicznie:
+
+(-A,+B,+r,,)=—S
+(+4,-B+r,,)=—S
+(+4+B,—r,„)=—S
+(-4,-By+r,,)=—S
+(+4,-B,-r,,)=—S
+(-4,+B,—r,)=—S
+(—A:_B›—rAB) =—-S
+
+(9)...
+
+Opierając się na powyższych aksjomatach możemy oceniać również sys-
+temy składające się z większej ilości obiektów, jak również określać procen-
+towo zawarte w nich elementy piękna i brzydoty.
+
+Jak opisaliśmy wyżej, przypisywanie poszczególnym systemom i ich
+elementom cech piękna i brzydoty jest zależne od systemu sterowania spo-
+łecznego, zatem te same systemy i ich elementy mogą być uznawane w jed-
+nych systemach sterowania społecznego za piękne zaś w innych za brzydkie.
+Można w związku z tym powiedzieć, że podane wyżej aksjomaty określają
+w sposób formalny sposób tworzenia norm estetycznych wewnątrz poszcze-
+gólnych systemów sterowania społecznego.
+
+Można również formułować inne systemy aksjomatów i na nich opierać
+estetykę formalną. Np. można punkt 2) zmodyfikować w następujący sposób:
+
+Jeżeli nieparzysta liczba elementów systemu S ma cechę brzydoty, wów-
+czas ten system ma cechę brzydoty, zaś gdy cechę brzydoty ma parzysta
+liczba tych cech, wówczas system S ma cechę piękna. W tym wypadku
+
+--- Page 19 ---
+Socjocybernetyczne funkcjonowanie kategorii piękna i brzydoty...         389
+
+w zbiorze wyrażeń (9) tylko w 1-szym, 2-gim, 3-cim i 7-mym po prawej
+. stronie wystąpi znak „, zaś w 4-tym, 5-tym i 6-tym znak „+”.
+
+5. Uwagi końcowe
+
+W praktycznym życiu społecznym najczęściej występują dziś mieszane
+systemy sterowania społecznego, w których na porządku dziennym mamy do
+czynienia z konfliktami różnych norm społecznych, które prowadzą do roz-
+mywania wartości leżących u podstaw danego systemu. Ma to także odbicie
+w sferze norm estetycznych, które ulegają osłabieniu.
+
+Zjawiska tego rodzaju występują obecnie szczególnie wyraźnie w życiu
+społeczeństw europejskich, a także w Ameryce. Dawne normy estetyczne
+ ulegają osłabieniu, zaś w ich miejsce nie tyle powstają nowe normy co poja-
+wia się chaos normatywny. W związku z tym w kręgu społeczeństw należą-
+cych do tzw. świata zachodniego coraz trudniejsze okazuje się określanie ka-
+tegorii piękna i brzydoty.
+
+Inna sytuacja występuje w społeczeństwach należących do cywilizacji
+chińskiej a także arabskiej, które dość ostro bronią się przed chaosem nor-
+. matywnym narzucanym im przez Zachód. Prowadzi to do ostrych konflik-
+tów, które nasiliły się bardzo w ostatnim okresie.
+
+Dla norm ideologicznych, etycznych, prawnych, ekonomicznych i wital-
+nych można zaproponować ujęcie aksjomatyczne analogiczne jak dla norm
+estetycznych. W takim wypadku znaki „+” będą odpowiednio oznaczać ko-
+ lejno pozytywne wartości ideologiczne, etyczne, prawne, ekonomiczne wresz-
+cie witalne (zdrowotne), zaś znaki „-” wartości negatywne.
+
+ś     Oznacza to, że system pozytywny z punktu widzenia określonej ideologii
+
+musi mieć wszystkie części (tzn. obiekty i relacje między nimi) pozytywne,
+gdy zaś choćby jeden z tych elementów jest negatywny to cały system jest
+
+negatywny — tak właśnie przedstawiciele różnych religii oceniali wszelkiego
+' rodzaju herezje, które kwestionowały choćby jeden z dogmatów będących ich
+. podstawą. Analogicznie, ocena etyczna systemu jest pozytywna, gdy wszyst-
+kie jego części są oceniane pozytywnie; dla pozytywnej oceny prawnej do-
+wolnego systemu konieczne jest, aby jego wszystkie części były zgodne z pra-
+wem; dla pozytywnej oceny ekonomicznej danego systemu konieczne jest, by
+wszystkie jego części były oceniane pozytywnie z punktu widzenia norm
+ekonomicznych (korzystne); wreszcie dla pozytywnej oceny systemu z punk-
+tu widzenia norm witalnych konieczne jest, aby wszystkie jego części były
+. pozytywne z punktu widzenia tych norm (zdrowe).
+
+Adres autora
+
+Doc. dr JÓZEF KOSSECKI
+
+Zakład Socjologii Instytutu Nauk Politycznych
+
+Wydział Zarządzania i Administracji Akademii Świętokrzyskiej w Kielcach
+ul. Świętokrzyska 21
+
+25—406 Kielce
+
+autonom.edu.pl
+

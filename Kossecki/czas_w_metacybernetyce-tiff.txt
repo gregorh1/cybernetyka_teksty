@@ -1,0 +1,556 @@
+=== czas_w_metacybernetyce-tiff ===
+Generated on: czw 10 lip 13:23:46 2025 CEST
+Original PDF: ./Kossecki/czas_w_metacybernetyce-tiff.pdf
+Total pages:       10
+
+--- Page 01 ---
+THE PECULIARITY OF MAN
+vol. 9, 2004
+O NATURZE CZASU
+
+CZAS W METACYBERNETYCE
+
+JÓZEF KOSSECKI
+
+1. Uwagi wstępne
+
+W tradycyjnej nauce pojęcie czasu nie jest jednoznaczne. Encyklopedia
+Popularna PWN stwierdza, że CZAS to jedna z podstawowych (obok prze-
+strzeni) form bytu materii, atrybut materii; w mechanice relatywistycznej
+czwarta współrzędna czasoprzestrzeni; ponadto dowiadujemy się, że termin
+czas jest rozumiany jako: 1) chwila, moment, punkt czasowy; 2) okres, odci-
+nek czasowy; 3) trwanie; 4) zbiór wszystkich chwil i okresów czasowych;
+w historii nauki i filozofii znany jest spór o absolutny (lub obiektywny) czy
+też względny (lub subiektywny) charakter czasu'.
+
+Zrozumienie, co oznacza określenie czasu jako jednej z podstawowych
+(obok przestrzeni) form bytu materii, atrybutu materii, wymaga jednoznacz-
+nego rozumienia, co oznaczają takie pojęcia, jak materia, byt, forma, atrybut,
+tymczasem te pojęcia są różnie rozumiane w ramach różnych systemów filo-
+zoficznych. Określanie pojęcia czas jako punkt czasowy lub odcinek czasowy,
+czy wreszcie zbiór wszystkich chwil i okresów czasowych — to typowy błąd
+w definiowaniu pojęć, bowiem by zrozumieć, co to jest np. punkt czasowy czy
+okres czasowy, trzeba najpierw wiedzieć co to jest czas.
+
+W przytoczonym wyżej tekście określającym pojęcie czasu jedynie defini-
+cja zaczerpnięta z mechaniki relatywistycznej wydawać się może jedno-
+znaczna, przy czym jednak i tu trzeba zauważyć, że definiowanie czasu jako
+jednej ze współrzędnych czasoprzestrzeni wymaga uprzedniego określenia po-
+jęć czasu i przestrzeni oraz podania czym te współrzędne się od siebie różnią.
+
+Bardzo istotny jest również problem strzałki czasu, która pozwala od-
+różniać przeszłość od przyszłości i nadaje czasowi kierunek. Znany współ-
+czesny fizyk Stephen Hawking stwierdza, że: Istnieją co najmniej trzy
+strzałki czasu. Pierwszą jest termodynamiczna strzałka czasu, wiążąca kie-
+runek upływu czasu z kierunkiem wzrostu entropii. Drugą — psychologiczna
+strzałka, związana z naszym poczuciem upływu czasu, z faktem, że pamię-
+
+: Encyklopedia Popularna PWN, Warszawa 1986, s. 144.
+
+--- Page 02 ---
+426                                                        Józef Kossecki
+
+tamy przeszłość, ale nie przyszłość. Wreszcie trzecia, kosmologiczna strzałką
+czasu łączy kierunek upływu czasu z rozszerzaniem się wszechświata”.
+
+'W dalszym ciągu S. Hawking wykazuje, że ...ipoteza „wszechświata bez
+brzegów”, połączona ze słabą zasadą antropiczną, może wyjaśnić, dlaczego
+wszystkie trzy strzałki wskazują ten sam kierunek i, ponadto, czemu dobrze
+określona strzałka czasu w ogóle istnieje. Twierdzę, iż psychologiczna
+strzałka jest wyznaczona przez termodynamiczną oraz że te dwie strzałki
+muszą zawsze wskazywać ten sam kierunek. Jeżeli uznajemy warunek „bra-
+ku brzegów”, to wynika stąd istnienie strzałki kosmologicznej i termodyna-
+micznej, które nie muszą zgadzać się ze sobą w ciągu całej historii wszech-
+świata. Następnie S. Hawking wykazuje ...iż tylko w okresie, kiedy wskazują
+ten sam kierunek, istnieją warunki sprzyjające powstaniu inteligentnych
+istot, które potrafią zadać pytanie, dlaczego nieporządek wzrasta w tym sa-
+mym kierunku czasu co ekspansja wszechświata”.
+
+Pewne modyfikacje wprowadza tu teoria kwantowa, S. Hawking stwier-
+dza ...że promieniowanie czarnych dziur dowodzi, iż teoria kwantowa do-
+puszcza podróże w czasie w skali mikroskopowej i takie podróże mogą spo-
+wodować obserwowalne efekty.
+
+Można zatem zapytać, czy mechanika kwantowa pozwala na podróże
+w czasie w skali makroskopowej, dostępnej dla ludzi. Na pierwszy rzut oka
+wydaje się, że tak być powinno. Zgodnie z propozycją Feynmana, należy su-
+mować po wszystkich historiach. Wobec tego należy również uwzględnić
+historie, w których czasoprzestrzeń ma taką krzywiznę, że można podróżo-
+wać w przeszłość. Dlaczego zatem nie mamy problemów z historią? (...)
+
+Takie problemy nie pojawiają się, jeśli jest spełniona hipoteza, którą na-
+zwałem zasadą ochrony chronologii. Zgodnie z nią prawa fizyki gwarantu-
+Ją, że makroskopowe ciała nie przenoszą informacji w przeszłość'.
+
+S. Hawking stwierdza ponadto:
+
+Jak dotąd naukowcy byli najczęściej zbyt zajęci rozwijaniem teorii mó-
+wiących o tym, jaki jest wszechświat, by zajmować się pytaniem, dlaczego
+istnieje. Z drugiej strony, ci, których specjalnością jest stawianie pytań dla-
+czego, filozofowie, nie byli w stanie nadążyć za rozwojem nauki*.
+
+Do odpowiedzi na takie właśnie pytania pomocna jest metacybernetyka.
+
+2. Pojęcie czasu w metacybernetyce
+W mojej pracy „Porządek” i „bezład” w ujęciu metacybernetycznym* po-
+
+kazałem, że pojęcie czasu jest jednym z trzech pojęć pierwotnych (obok ma-
+sy i odległości), którego wprowadzenie jest konieczne, by przejść z poziomu
+
+S. HAWKING, Ilustrowana krótka historia czasu, Poznań 1996, s. 184.
+Tamże, s. 185-186.
+
+Tamże, s. 209-210.
+
+" Tamże, s. 233.
+
+Por. J. KOSSECKI, „Porządek” i „bezład” w ujęciu metacybernetycznym, „THE PECULARITY OF
+MAN', vol. 8, Warszawa - Kielce 2003, s. 245-256.
+
+o sww
+
+o
+
+--- Page 03 ---
+Czas w metacybernetyce                                    427
+
+nauk abstrakcyjnych do poziomu nauk konkretnych” — tzn. zajmujących się
+badaniem obiektów i relacji o charakterze energomaterialnym.
+
+W metacybernetyce posługujemy się termodynamiczną strzałką czasu
+związaną z kierunkiem samoczynnego wzrostu entropii w rozumieniu fizy-
+kalnym (o którym była mowa wyżej).
+
+Upływ czasu i związany z nim samoczynny proces wzrostu entropii
+w rozszerzającym się wszechświecie możemy określić jako bezwładność
+temporalną.
+
+Czas możemy opisywać jako ciągły — tak właśnie ujmuje się go w fizyce
+klasycznej, lub nieciągły (dyskretny) — kwantyzacja czasu.
+
+Można czas opisywać za pomocą prostej osi współrzędnych £ — tak wła-
+śnie postępuje się w mechanice Newtona — zaś do opisu czasoprzestrzeni
+używać kartezjańskiego układu współrzędnych x,, x, 15, . Albo też można
+czasoprzestrzeń opisywać za pomocą krzywoliniowego układu współrzędnych
+i badać krzywiznę czasoprzestrzeni.
+
+Miarą czasu są zdarzenia w nim zachodzące, zaś pewne regularnie po-
+wtarzalne ich zbiory przyjmujemy jako jednostkę czasu. Pomiar odstępu
+czasu między dwoma zdarzeniami dokonywany jest przez porównanie go
+z czasem trwania innego zjawiska, które według uzyskanej wcześniej wiedzy
+przebiega zawsze tak samo. Najwygodniejsze są zjawiska powtarzające się
+okresowo, gdyż ich okres jest naturalną jednostką czasu. Z tą jednostką po-
+równujemy inne zbiory zdarzeń zachodzących w tymże czasie.
+
+Możemy też wprowadzić pojęcie gęstości zdarzeń zachodzących
+w pewnym odcinku (okresie) czasu, czyli odstępie czasu między dwoma zda-
+rzeniami — najlepiej używać do tego jednostki czasu. Gęstość zdarzeń w pew-
+nym okresie czasu może być stała lub zmienna.
+
+Aby przejść od nauk abstrakcyjnych do nauk konkretnych, musimy nie
+tylko wprowadzić wspomniane wyżej pojęcia pierwotne, ale również pewne
+relacje pierwotne zwane związkami przyczynowymi?.
+
+Zarówno pojęcie czasu, jak i pojęcie strzałki czasu mają kluczowe zna-
+czenie dla określania związków przyczynowych w metacybernetyce.
+
+Cytowany wyżej S. Hawking w następujący sposób pisze o przedmiocie
+badań fizyki:
+
+Po pierwsze, szukamy praw, które powiedziałyby nam, jak wszechświat
+zmienia się w czasie. (Jeśli znalibyśmy stan wszechświata w pewnej chwili,
+to prawa te pozwoliłyby nam przewidzieć, jak będzie on wyglądał w dowol-
+nej chwili późniejszej)".
+
+Można to ująć w następujący sposób: fizyka bada związki przyczynowe
+między poprzednimi i następnymi (w czasie) stanami obiektów energomate-
+rialnych.
+
+%  Termin ten wprowadził Marian Mazur w swej książce Cybernetyka i charakter, wydanej po raz pierwszy
+w Warszawie w 1976 roku.
+
+8  Por. J. KOSSECKI, „Porządek ” i „bezład” w ujęciu metacybernetycznym, wyd. cyt., s. 250.
+9 S, HAWKING, Jlusirowana krótka'historia czasu,wyd.icyt.,s. 17.
+
+--- Page 04 ---
+428                                         Józef Kossecki
+
+Inaczej ma się sprawa wówczas, gdy zmiany stanów obiektów energoma-
+terialnych zmierzają do określonego celu - ten cel to pewien stan przyszły —
+zatem w tym wypadku zależą one w pewien sposób od przyszłości. Badaniem
+takich procesów zajmuje się cybernetyka.
+
+Można to ująć w następujący sposób: cybernetyka bada związki przy-
+czynowe między pewnymi stanami następnymi — nazywanymi celami —
+i poprzednimi; inaczej mówiąc, bada procesy sterowania zmierzające do
+określonych celów (w procesach fizykalnych pojęcie celu nie występuje).
+
+Osiąganie określonych celów jest istotą procesów sterowania jako
+specyficznego przedmiotu badań cybernetyki, przy czym przez proces ro-
+zumiemy zbiór stanów pewnego obiektu w czasie.
+
+Podstawowym aksjomatem fizyki jest założenie, że następne w czasie
+stany obiektów energomaterialnych są zależne od poprzednich — czyli od
+przeszłości.
+
+Podstawowym aksjomatem cybernetyki jest założenie, że wcześniejsze
+stany obiektów energomaterialnych są zależne od następnych — zwanych
+celami, czyli od przyszłości.
+
+Metacybernetyka stanowi syntezę fizyki i cybernetyki.
+
+Podstawowym aksjomatem metacybernetyki jest założenie, że stany
+obiektów energomaterialnych są zależne zarówno od poprzednich, jak i na-
+stępnych stanów - czyli zarówno od przeszłości, jak i przyszłości.
+
+3. Parametr czasu w metacybernetycznej teorii związków przyczy-
+nowych'”"
+
+Stan obiektu e, w chwili ź oznaczmy e,(r) , natomiast stan otoczenia O,
+
+obiektu e, w chwili ź oznaczmy O,(t).
+Wprowadźmy oznaczenie:
+
+d                                  S,(0) = e(1) + O,(0),
+
+gdzie S,(r) oznacza stan obiektu e, i jego otoczenia O, w chwili f.
+Zbiór wszystkich stanów S,(r) dla —oo</ <+- nazywamy światem
+obiektu €, i oznaczamy:
+
+(2)...                                         S(e) = (S,Coe,+e)).
+
+10 P raz pierwszy rozważania zawarte w tym i następnym podrozdziale opublikowane były w
+artykule: J. KOSSECKI, Metacybernetyka i jej rola w nowoczesnej nauce, „PHAENOMENA” —
+Zeszyty Naukowe Wydziału Zarządzania i Administracji WSP im. J. Kochanowskiego, Tom
+I, Kielce 1995, s. 55-74.
+
+--- Page 05 ---
+Czas w metacybernetyce                                                        429
+
+Dla dowolnej chwili r'e(-oo,+0o) możemy świat obiektu e, podzielić na
+dwie następujące części:
+
+(3)...                                  S(e|=(S,C-.t'))
+(a)...                                  S,|) =(S,(t'.+02))
+
+Wyrażenie (3) oznacza zbiór wszystkich stanów S,(r) dla wszystkich r<z',
+nazywamy go przeszłością lub historią obiektu e, w chwili ' .Wyrażenie
+(4) oznacza zbiór wszystkich stanów S,(r) dla wszystkich /'<r, nazywamy go
+przyszłością obiektu e, w chwili f'. S(') nazywamy stanem świata
+obiektu e, w chwili /'.
+
+Wśród relacji materialnych zasadnicze znaczenie mają relacje zwane
+związkami przyczynowymi, które oznaczać będziemy w dalszym ciągu
+literą ©. Są to relacje między przyczynami i skutkami.
+
+Tradycyjna - fizykalna - teoria związków przyczynowych zakła-
+da, że stany świata obiektu e, w chwili r' S,(') zależą tylko od jego prze-
+szłości (historii) z dokładnością do stałej £ zależnej od precyzji pomiaru.
+Możemy to wyrazić następującym wzorem:
+
+5)...                            5,)=o[r,s,(r-e]]).
+
+gdzie S,(r') — skutek, S„<t'—8] — przyczyna, © - funkcjonał określający
+związek przyczynowy czyli relację między przyczyną i skutkiem. £ oznacza
+dokładność pomiaru w sensie przestrzennym i czasowym, czyli w sensie
+czasoprzestrzennym. Można ją oznaczyć €, (i=1,2,3,4) lub szczegółowo:
+=8, O= E, =E, , €, =E,, przy czym €, £, £, oznaczają dokładności
+pomiaru w sensie przestrzennym, zaś £, dokładność pomiaru w sensie cza-
+sowym.
+
+Wyrażenie (5) przedstawia funkcjonał zależności między stanem świata
+obiektu e, w chwili f', a jego przeszłością (historią).
+
+Przy rozwiązywaniu poszczególnych konkretnych problemów można
+rzecz jasna brać pod uwagę nie całą przeszłość, lecz pewne wyróżnione jej
+stany, które mają istotny wpływ na badany przez nas stan obiektu. W każ-
+dym jednak razie tradycyjna fizykalna teoria związków przyczynowych za-
+kłada, że tylko stany poprzednie mogą być przyczynami stanów następnych.
+
+Cybernetyczna teoria związków przyczynowych zakłada, że stany
+świata obiektu e, w chwili ' S,(r') zależą od jego przyszłości — która jest
+celem, z dokładnością do stałej £ zależnej od precyzji pomiaru. Możemy to
+wyrazić następującym wzorem:
+
+--- Page 06 ---
+430                                                                                 Józef Kossecki
+
+(©)...                             S,(')=O[r'.s, + e>]
+
+gdzie © — funkcjonał określający relację między przyczyną S+ e> i skut-
+
+kiem S,(r'). Wyrażenie (6) przedstawia funkcjonał zależności między sta-
+nem świata obiektu e, w chwili £', a jego przyszłością.
+
+Przy rozwiązywaniu poszczególnych konkretnych problemów można brać
+pod uwagę nie całą przyszłość, lecz pewne wyróżnione jej stany, które uwa-
+żamy za istotne cele. W każdym razie cybernetyczna teoria związków przy-
+czynowych przyjmuje, że stany z przyszłości — czyli cele — są przyczyną sta-
+nów poprzednich.
+
+Metacybernetyczna teoria związków przyczynowych zakłada, że
+stany świata obiektu e, w chwili 7' S(r') zależą zarówno od jego przeszłości
+jak i przyszłości, z dokładnością do stałej £ zależnej od precyzji pomiaru.
+Możemy to wyrazić następującym wzorem:
+
+(T)...                       8,(r )=O[r".S,(r-e.S,|+e)]
+
+gdzie © - funkcjonał określający relację między przyczynami S„(t'—s] ż
+S,|/'+e) i skutkiem S(r').
+
+Wyrażenie (7) przedstawia funkcjonał zależności między stanem świata
+obiektu e, w chwili f' a jego przeszłością (historią) i przyszłością.
+
+Przy rozwiązywaniu poszczególnych konkretnych problemów można brać
+pod uwagę nie całą przeszłość i przyszłość, lecz pewne wyróżnione stany,
+które uważamy za istotne przyczyny. Rozkład tych stanów może być zarów-
+no dyskretny, jak i ciągły. W każdym razie metacybernetyczna teoria związ-
+ków przyczynowych zakłada, że zarówno stany przeszłe, jak i przyszłe mogą
+być przyczyną stanów aktualnych, jest więc ona syntezą tradycyjnej i cyber-
+netycznej teorii związków przyczynowych.
+
+4. Filozoficzne implikacje metacybernetycznego pojęcia czasu
+
+Metacybernetyczna teoria związków przyczynowych ma swoich prekur-
+sorów w osobach Arystotelesa i św. Tomasza z Akwinu. Św. Tomasz z Akwinu
+— za Arystotelesem — wyróżniał przyczynę sprawczą, którą nazywał causa effi-
+ciens, oraz przyczynę celową, którą nazywał causa finalis. Przyczyna w jego
+rozumieniu to coś, co stanowi przyczynek do sensownego istnienia bytu!'.
+
+Tradycyjna teoria związków przyczynowych to kauzalizm retrospek-
+
+tywny.
+
+A Por. W. TATARKIEWICZ: Historia filozofii, tom I, Warszawa 1959, s. 138-154, 366-381. To-
+MASZ Z AKWINU: Summa teologiczna, Warszawa 1927.
+
+--- Page 07 ---
+Czas w metacybernetyce                                     431
+
+Cybernetyczna teoria związków przyczynowych to kauzalizm prospek-
+tywny.
+
+Metacybernetyczna teoria związków przyczynowych to kauzalizm re-
+trospektywno-prospektywny, czyli pełny.
+
+W zależności od tego, czy wyróżnione przez nas jako istotne stany
+z przeszłości lub przyszłości — przyczyny (cele) stanowią rozkład ciągły czy
+dyskretny, mówimy o kauzalizmie kontynualnym lub kauzalizmie dys-
+kretnym.
+
+Biorąc pod uwagę wspomniane wyżej prostoliniowe lub krzywoliniowe
+ujęcie czasoprzestrzeni, możemy wyróżnić kauzalizm prostoliniowy lub
+kauzalizm krzywoliniowy.
+
+Metacybernetyka może też być rozumiana jako nowoczesna filozofia
+przyczynowości. Możliwe jest przy tym dwojakie podejście do problemu:
+
+1) aktualizm,
+
+2) kontynualizm.
+
+Ad 1) Istnieje tylko chwila (quasi-chwila) obecna r'te , a w obecnym sta-
+nie świata S,('+e) przeszłość jest odwzorowana (zawarta) w postaci rezul-
+
+tatów historii — istniejący w danej chwili zbiór tych rezultatów nazywamy
+pozostałością historii, zaś przyszłość w postaci zalążków (zarodków)
+przyszłości — istniejący w danej chwili zbiór tych zalążków to początek
+przyszłości świata.
+
+Ściśle mówiąc cały aktualny stan świata S,(t'te) jest pozostałością hi-
+storii i zarazem początkiem przyszłości świata.
+
+Można też w danej chwili /'+s badać obrazy przeszłych stanów — które
+nazywamy obrazami historii albo obrazami przeszłości względnie krót-
+ko śladami. Zbiór rezultatów historii — czyli pozostałość historii — można też
+traktować jako zbiór śladów, czyli obrazów przeszłości. Takimi śladami —
+rezultatami historii są źródła historyczne, archeologiczne i geologiczne,
+a także geny. Odczytywanie tych źródeł wymaga znajomości odpowiedniego
+kodu. Gdy kod jest niejednoznaczny, to dany ślad może być rezultatem róż-
+nych wariantów przeszłości.
+
+Stany przyszłe, które zostaną faktycznie osiągnięte (zrealizowane), na-
+zywamy celami, obrazy celów nazywamy planami. Gdy znamy jedno-
+znaczny kod, to na podstawie planów możemy ustalić rzeczywiste cele. Gdy
+kod jest niejednoznaczny, to dany plan może dotyczyć różnych wariantów
+przyszłości.
+
+Zalążki przyszłości można też traktować jako obrazy celów, czyli plany
+(lub prognozy przy podejściu niecybernetycznym). Można też powiedzieć, że
+w aktualnym stanie świata przyszłość jest zawarta w postaci zalążków,
+a odwzorowana w postaci planów, zaś przeszłość jest zawarta w postaci po-
+zostałości historii, a odwzorowana w postaci śladów. Rezultaty historii to
+końcowe stany przeszłych procesów, gdy zaś dany proces trwa — wówczas są
+one zarazem zalążkami przyszłości. Jeżeli tak nie jest, to proces jest zakoń-
+czony.
+
+--- Page 08 ---
+432                                        Józef Kossecki
+
+Dostępna naszemu doświadczeniu jest tylko chwila obecna r'+e , zaś
+
+przeszłość doświadczamy poprzez zawartą w niej pozostałość historii (ślady),
+a przyszłość poprzez zawarte w niej zalążki (plany).
+
+Fałszywe informacje w zbiorach śladów to fałszywy obraz historii, fał.
+szywe informacje w zbiorach planów to fałszywy obraz przyszłości.
+
+Rzeczywistość jest w pewnych granicach zdeterminowana związkami
+przyczynowymi (prawami). Przy podejściu aktualistycznym można uważać,
+że w chwili obecnej istnieją różne warianty przeszłości i przyszłości. Decy-
+dowanie to wybór wariantu. Ten sam rezultat może być skutkiem różnych
+wariantów przeszłości i prowadzić do różnych wariantów przyszłości. Np.
+mniej niż 20% genów jest czynne w budowie organizmu, zaś 80% stanowi
+rezerwę dla różnych wariantów przyszłości (czyli różnych scenariuszy).
+
+Aktualizm to ujęcie buddyjskie — ściśle mówiąc, jest to filozofia buddy-
+zmu chinajama (mały wózek).
+
+Analogiczną do aktualizmu filozofią jest lokalizm, który zakłada, że
+istnieje tylko punkt (quasi-punkt), w którym istnieje obiekt e,:
+
+(8)...                        (x', żejx' e,x te5)
+
+Reszta przestrzeni jest tylko obecna w tym punkcie w postaci skutków
+swego oddziaływania lub obrazów - tylko w tym sensie istnieje dla obiektu e,.
+
+Lokalizm czasoprzestrzenny, czyli pełny albo lokalny aktualizm,
+zakłada, że istnieje tylko „tu i teraz”, tzn. istnieje tylko punkt (quasi-punkt)
+i chwila (quasi-chwila), w których jest obiekt e, :
+
+(9)...                                     (x, tej x 56, xe bi, )
+
+Jest on syntezą aktualizmu i lokalizmu.
+
+Ad 2) Istnieje cały świat obiektu e,  S„(z), zaś zmienia się tylko punkt
+pomiaru związany z chwilą +g dla obiektu e, .
+
+Decydowanie to — w rozumieniu kontynualizmu — tylko wybór chwili
+pomiaru, zaś sterowanie to realizacja ciągu pomiarów, który został wybrany.
+
+Analogiczną do kontynualizmu filozofią jest spacjalizm, który zakłada,
+że istnieje cała przestrzeń 3-wymiarowa S„<x| xz,x3> — można go też nazwać
+kontynualizmem przestrzennym.
+
+Kontynualizm czasoprzestrzenny zakłada, że istnieje cała 4-
+wymiarowa przestrzeń  S„<x„ xz,x;,!),  a zmienia się tylko punkt pomiaru
+
+związany z obiektem e, :
+
+(10)...            (EsfEc7P dpiawo Tedójar sr mo oJ
+
+--- Page 09 ---
+Czas w metacybernetyce                                    433
+
+Kontynualizm retrospektywny przyjmuje, że istnieje (a ściśle mó-
+wiąc istniała) tylko przeszłość, natomiast kontynualizm prospektywny
+zakłada, że istnieje tylko przyszłość. Jeżeli założyć, że istnieje zarówno prze-
+szłość, jak i przyszłość — wówczas mamy do czynienia z kontynualizmem
+pełnym, czyli retrospektywno-prospektywnym.
+
+Syntezą tych kierunków jest pełny kontynualizm czasoprzestrzenny.
+
+Kontynualizm odpowiada filozofii muzułmańskiej.
+
+Można też założyć, że istnieje (istniało) wiele wariantów przeszłości —
+wówczas mamy do czynienia z kontynualizmem retrospektywnym wie-
+lowariantowym. Można też założyć, że istnieje wiele wariantów przyszłości
+wówczas — mamy do czynienia z kontynualizmem prospektywnym wie-
+lowariantowym. Można wreszcie założyć, że istnieje wiele wariantów za-
+równo przeszłości, jak i przyszłości - wówczas mamy do czynienia z konty-
+nualizmem pełnym - retrospektywno-prospektywnym - wielowa-
+riantowym.
+
+Decydowanie w tym wypadku to nic innego jak tylko wybór wariantu,
+a sterowanie to jego realizacja — czyli realizacja ciągu pomiarów rzeczywistości.
+
+Gdy założyć, że istnieje tylko jeden wariant przeszłości (historii) i przy-
+szłości — wówczas mamy do czynienia z kontynualizmem jednowarian-
+towym, który może być retrospektywny, prospektywny lub retrospektywno-
+prospektywny. Odpowiada on pełnemu determinizmowi (muzułmańska wia-
+Ta w przeznaczenie).
+
+W ujęciu antropologicznym A. Wiercińskiego podejście pierwsze — aktu-
+alizm — odpowiada naturze małpiej, która charakteryzuje się życiem w cza-
+sie postrzegawczo—emocyjnej teraźniejszości: psychiczna szczelina teraźniej-
+szości. Natomiast podejście drugie — kontynualizm — odpowiada naturze
+ludzkiej, którą charakteryzuje życie w czasie trójdzielczości introspekcyjnej:
+pojęciowa przeszłość, doznaniowa teraźniejszość i predyktywna przyszłość:
+„psychiczny czas płynący””.
+
+„Introspekcja przerzuca pomost między uświadamianą pamięciowo
+przeszłością, a przewidywaną przyszłością, ponad doznaniową teraźniejszo-
+ścią, dzięki temu żyje się w poczuciu czasu płynącego”!?.
+
+Przeszłość wpływa na ludzką teraźniejszość poprzez informacje zawarte
+w zbiorach śladów, zaś przyszłość wpływa na nią poprzez plany i zalążki,
+które wraz z pozostałością historii wpływają na decyzje podejmowane przez
+człowieka w teraźniejszości.
+
+5. Odczucie czasu według cybernetycznej teorii charakteru
+Mariana Mazura.
+
+Na zakończenie warto przytoczyć odkrytą przez M. Mazura zależność
+między poczuciem czasu, a pewnym parametrem psychocybernetycznym
+
+1 A. WIERCIŃSKI, Magia i religia. Szkice z antropologii religii, Kraków 1994, s. 30.
+15 Tamże, s. 29
+
+--- Page 10 ---
+434                                                             Józef Kossecki
+
+człowieka jako systemu autonomicznego, nazwanym przezeń dynamizmem
+charakteru.
+
+Według definicji M. Mazura dynamizm charakteru to logarytm sto-
+sunku współczynnika rozbudowy do współczynnika starzenia systemu auto-
+nomicznego!*. Przez system autonomiczny rozumie M. Mazur taki, który
+może się sam sterować i przeciwdziałać utracie tej swojej zdolności.
+
+Zależność między poczuciem czasu a dynamizmem charakteru jest we.
+dług M. Mazura następująca: Im mniejszy jest współczynnik dynamizmu,
+tym krótszy wydaje się czas'*.
+
+Egzodynamicy, których cechuje dynamizm dodatni, mają poczucie czasu
+Jjako płynącego o wiele za wolno'*.
+
+Statycy, których cechuje dynamizm zerowy, mają normatywne poczucie cza-
+su, oparte na zegarze i kalendarzu, chcą, żeby zarówno rozrywki, jak i zadania
+trwały tyle czasu, ile zostało zapowiedziane, ustalone w przepisach itp.".
+
+Endodynamicy, których cechuje dynamizm ujemny, mają poczucie czasu
+Jako płynącego zbyt szybko'*.
+
+Dynamizm charakteru jest parametrem, który wskutek działania dru-
+giej zasady termodynamiki, powodującej starzenie się organizmu, zmienia
+się z wiekiem nieuchronnie od wartości dodatnich poprzez zero do ujemnych.
+W związku z tym dzieci są egzodynamikami, ludzie w wieku dojrzałym sta-
+tykami, zaś ludzie w wieku podeszłym endodynamikami. Można też
+w związku z przechodzeniem człowieka przez poszczególne grupy wieku ob-
+serwować u niego odpowiednie zmiany odczuwania czasu wyznaczające psy-
+chologiczną strzałkę czasu.
+
+Jak widać również w cybernetycznej teorii charakteru M. Mazura psy-
+chologiczna strzałka czasu jest wyznaczona przez strzałkę termodynamiczną
+i wykazuje ten sam kierunek.
+
+Adres autora
+
+Doc. dr JÓZEF KOSSECKI
+
+(emerytowany pracownik Akademii Świętokrzyskiej w Kielcach)
+ul. Burgaska 3 m. 24
+
+02-758 Warszawa
+
+= Por. M. MAZUR, Cybernetyka i charakter, Warszawa 1976, s. 290.
+15 Tamże, s. 323.
+
+16 Tamże.
+
+" Tamże, s. 323-324.
+
+18 Tamże, s. 324.
+
+autonom.edu.pl
+
