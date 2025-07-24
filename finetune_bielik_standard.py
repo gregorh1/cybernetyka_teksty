@@ -5,6 +5,9 @@ Używa standardowych bibliotek: transformers + peft + trl
 Optimized dla RTX 3090 (24GB VRAM)
 """
 
+import os
+os.environ["PYTORCH_CUDA_ALLOC_CONF"] = "expandable_segments:True"
+
 import torch
 from datasets import Dataset
 import json
@@ -19,7 +22,6 @@ from transformers import (
     DataCollatorForLanguageModeling
 )
 from peft import LoraConfig, get_peft_model, TaskType
-import os
 
 def check_environment():
     """Sprawdź czy środowisko jest gotowe"""
@@ -142,14 +144,17 @@ def main():
         torch_dtype=torch.bfloat16
     )
     
-    # Konfiguracja LoRA
+    # Clear GPU memory
+    torch.cuda.empty_cache()
+    
+    # Konfiguracja LoRA - smaller for memory efficiency
     lora_config = LoraConfig(
         task_type=TaskType.CAUSAL_LM,
         inference_mode=False,
-        r=16,
-        lora_alpha=32,
+        r=8,  # Reduced from 16
+        lora_alpha=16,  # Reduced from 32
         lora_dropout=0.1,
-        target_modules=["q_proj", "k_proj", "v_proj", "o_proj", "gate_proj", "up_proj", "down_proj"]
+        target_modules=["q_proj", "k_proj", "v_proj", "o_proj"]  # Fewer modules
     )
     
     # Zastosuj LoRA do modelu
@@ -169,7 +174,7 @@ def main():
             examples["text"],
             truncation=True,
             padding=False,
-            max_length=2048,
+            max_length=1024,  # Reduced for memory
             return_tensors=None
         )
     
@@ -185,10 +190,10 @@ def main():
     
     training_args = TrainingArguments(
         output_dir=output_dir,
-        num_train_epochs=3,
+        num_train_epochs=2,
         per_device_train_batch_size=1,
         per_device_eval_batch_size=1,
-        gradient_accumulation_steps=8,
+        gradient_accumulation_steps=16,  # Increased for effective batch size
         optim="paged_adamw_8bit",
         learning_rate=2e-4,
         weight_decay=0.01,
@@ -200,11 +205,17 @@ def main():
         group_by_length=True,
         lr_scheduler_type="constant",
         report_to="none",
-        save_strategy="epoch",
+        save_strategy="steps",
+        save_steps=500,
         logging_steps=10,
-        eval_strategy="epoch",
+        eval_strategy="steps",
+        eval_steps=500,
         save_total_limit=2,
-        load_best_model_at_end=True
+        load_best_model_at_end=True,
+        gradient_checkpointing=True,  # Save memory
+        dataloader_pin_memory=False,  # Save memory
+        remove_unused_columns=False,
+        ddp_find_unused_parameters=False
     )
     
     # Utwórz data collator
