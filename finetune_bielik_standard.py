@@ -21,7 +21,7 @@ from transformers import (
     Trainer,
     DataCollatorForLanguageModeling
 )
-from peft import LoraConfig, get_peft_model, TaskType
+from peft import LoraConfig, get_peft_model, TaskType, prepare_model_for_kbit_training
 
 def check_environment():
     """Sprawdź czy środowisko jest gotowe"""
@@ -144,6 +144,9 @@ def main():
         torch_dtype=torch.bfloat16
     )
     
+    # Przygotuj model do trenowania z kwantyzacją
+    model = prepare_model_for_kbit_training(model)
+    
     # Clear GPU memory
     torch.cuda.empty_cache()
     
@@ -160,6 +163,18 @@ def main():
     # Zastosuj LoRA do modelu
     model = get_peft_model(model, lora_config)
     model.print_trainable_parameters()
+    
+    # Enable gradients for LoRA parameters
+    for name, param in model.named_parameters():
+        if 'lora' in name.lower():
+            param.requires_grad = True
+    
+    print(f"🔍 Checking trainable parameters:")
+    trainable_params = sum(p.numel() for p in model.parameters() if p.requires_grad)
+    print(f"   Trainable parameters: {trainable_params:,}")
+    
+    # Enable training mode
+    model.train()
     
     # Przygotuj dane
     print("\n📚 Przygotowuję dane treningowe...")
