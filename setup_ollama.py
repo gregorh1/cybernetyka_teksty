@@ -114,9 +114,18 @@ def convert_to_gguf(model_path, output_path):
         print(f"❌ Błąd konwersji: {e}")
         return False
 
-def create_modelfile(model_name, gguf_path, output_path):
-    """Create Ollama Modelfile"""
+def create_modelfile(model_name, gguf_path, output_path, params=None):
+    """Create Ollama Modelfile with configurable parameters"""
     print(f"📝 Tworzę Modelfile dla Ollama...")
+    
+    # Default parameters (conservative, anti-hallucination)
+    if params is None:
+        params = {
+            'temperature': 0.3,      # Lower for better quality
+            'top_p': 0.7,           # More focused
+            'repeat_penalty': 1.3,   # Stronger anti-repetition
+            'top_k': 50             # Controlled sampling
+        }
     
     modelfile_content = f"""FROM {gguf_path}
 
@@ -124,18 +133,19 @@ TEMPLATE \"\"\"Użytkownik: {{ .Prompt }}
 
 Asystent cybernetyki: \"\"\"
 
-PARAMETER temperature 0.7
-PARAMETER top_p 0.9
-PARAMETER repeat_penalty 1.1
-PARAMETER top_k 40
+PARAMETER temperature {params['temperature']}
+PARAMETER top_p {params['top_p']}
+PARAMETER repeat_penalty {params['repeat_penalty']}
+PARAMETER top_k {params['top_k']}
 
-SYSTEM \"\"\"Jesteś ekspertem w dziedzinie cybernetyki, szczególnie w teorii opracowanej przez Mariana Mazura i Józefa Kosseckiego. Odpowiadasz szczegółowo na pytania dotyczące cybernetyki społecznej, teorii systemów, sprzężeń zwrotnych, homeostazy i innych zagadnień cybernetycznych. Udzielasz wyczerpujących, akademickich odpowiedzi z przykładami i objaśnieniami.\"\"\"
+SYSTEM \"\"\"Jesteś ekspertem w dziedzinie cybernetyki, szczególnie w teorii opracowanej przez Mariana Mazura i Józefa Kosseckiego. Odpowiadasz szczegółowo na pytania dotyczące cybernetyki społecznej, teorii systemów, sprzężeń zwrotnych, homeostazy i innych zagadnień cybernetycznych. Udzielasz wyczerpujących, akademickich odpowiedzi z przykładami i objaśnieniami. Nie kopiuj dosłownie tekstu z korpusu, lecz wyjaśniaj koncepcje własnymi słowami.\"\"\"
 """
     
     with open(output_path, 'w', encoding='utf-8') as f:
         f.write(modelfile_content)
     
     print(f"✅ Modelfile zapisany: {output_path}")
+    print(f"🎛️  Parametry: temp={params['temperature']}, top_p={params['top_p']}, repeat_penalty={params['repeat_penalty']}")
     return True
 
 def import_to_ollama(modelfile_path, model_name):
@@ -196,11 +206,57 @@ def main():
                        help="Pomiń łączenie LoRA (jeśli już wykonane)")
     parser.add_argument("--skip-convert", action="store_true",
                        help="Pomiń konwersję GGUF (jeśli już wykonana)")
+    parser.add_argument("--temperature", type=float, default=0.3,
+                       help="Temperature dla Ollama (default: 0.3)")
+    parser.add_argument("--top-p", type=float, default=0.7,
+                       help="Top-p dla Ollama (default: 0.7)")
+    parser.add_argument("--repeat-penalty", type=float, default=1.3,
+                       help="Repeat penalty dla Ollama (default: 1.3)")
+    parser.add_argument("--top-k", type=int, default=50,
+                       help="Top-k dla Ollama (default: 50)")
+    parser.add_argument("--preset", choices=["conservative", "balanced", "creative"],
+                       default="conservative", help="Preset parametrów")
     
     args = parser.parse_args()
     
     print("🦙 SETUP MODELU DLA OLLAMA")
     print("=" * 40)
+    
+    # Parameter presets
+    presets = {
+        "conservative": {
+            'temperature': 0.3,
+            'top_p': 0.7,
+            'repeat_penalty': 1.3,
+            'top_k': 50
+        },
+        "balanced": {
+            'temperature': 0.5,
+            'top_p': 0.8,
+            'repeat_penalty': 1.2,
+            'top_k': 40
+        },
+        "creative": {
+            'temperature': 0.7,
+            'top_p': 0.9,
+            'repeat_penalty': 1.1,
+            'top_k': 40
+        }
+    }
+    
+    # Start with preset parameters
+    ollama_params = presets[args.preset].copy()
+    print(f"🎛️  Używam presetu: {args.preset}")
+    
+    # Override with any custom parameters provided
+    ollama_params.update({
+        'temperature': args.temperature,
+        'top_p': args.top_p,  # argparse converts --top-p to args.top_p
+        'repeat_penalty': args.repeat_penalty,
+        'top_k': args.top_k
+    })
+    
+    print(f"📊 Parametry Ollama: {ollama_params}")
     
     # Check prerequisites
     if not check_ollama_installed():
@@ -229,7 +285,7 @@ def main():
         print("⏭️  Pomijam konwersję GGUF")
     
     # Step 3: Create Modelfile
-    if not create_modelfile(args.model_name, gguf_path, modelfile_path):
+    if not create_modelfile(args.model_name, gguf_path, modelfile_path, ollama_params):
         return
     
     # Step 4: Import to Ollama
