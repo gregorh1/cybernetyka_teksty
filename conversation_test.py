@@ -3,9 +3,43 @@
 Testowanie konwersacji z wytrenowanym modelem cybernetyki
 """
 
-from transformers import AutoTokenizer, AutoModelForCausalLM
+from transformers import AutoTokenizer, AutoModelForCausalLM, TextStreamer
 from peft import PeftModel
 import torch
+import threading
+import time
+
+class CustomStreamer:
+    """Custom streamer for real-time token generation"""
+    def __init__(self, tokenizer, skip_prompt=True):
+        self.tokenizer = tokenizer
+        self.skip_prompt = skip_prompt
+        self.prompt_length = 0
+        self.generated_tokens = []
+        
+    def put(self, value):
+        """Called for each generated token"""
+        if len(value.shape) > 1:
+            value = value[0]  # Take first batch
+            
+        # Skip prompt tokens
+        if self.skip_prompt and len(self.generated_tokens) == 0:
+            self.prompt_length = len(value)
+            
+        # Process new tokens
+        if len(value) > self.prompt_length:
+            new_tokens = value[self.prompt_length:]
+            for token in new_tokens:
+                if token not in [self.tokenizer.eos_token_id, self.tokenizer.pad_token_id]:
+                    text = self.tokenizer.decode([token], skip_special_tokens=True)
+                    if text:
+                        print(text, end='', flush=True)
+                        self.generated_tokens.append(token)
+            self.prompt_length = len(value)
+    
+    def end(self):
+        """Called when generation ends"""
+        print()  # New line at the end
 
 def load_model(model_path="./bielik-cybernetyka-lora"):
     """Załaduj model do konwersacji"""
@@ -56,24 +90,37 @@ def chat_with_model(model, tokenizer):
         device = next(model.parameters()).device
         inputs = {k: v.to(device) for k, v in inputs.items()}
         
-        # Generate
+        # Generate with streaming
         print("🔄 Generuję odpowiedź...")
+        print("\n🤖 Model: ", end='', flush=True)
+        
+        # Create streamer for real-time output
+        streamer = CustomStreamer(tokenizer, skip_prompt=True)
+        
         with torch.no_grad():
+            # Check tokenizer tokens
+            if tokenizer.eos_token_id is None:
+                eos_token_id = tokenizer.pad_token_id
+            else:
+                eos_token_id = tokenizer.eos_token_id
+                
             outputs = model.generate(
                 **inputs,
-                max_new_tokens=300,
+                max_new_tokens=1500,  # ~1000 words for educational content
                 temperature=0.7,
                 do_sample=True,
-                pad_token_id=tokenizer.eos_token_id,
+                pad_token_id=eos_token_id,
                 repetition_penalty=1.1,
-                top_p=0.9
+                top_p=0.9,
+                no_repeat_ngram_size=3,
+                early_stopping=False,
+                streamer=streamer
             )
         
-        # Decode
+        # Get final response for word count
         generated_text = tokenizer.decode(outputs[0], skip_special_tokens=True)
         response = generated_text[len(prompt):].strip()
         
-        print(f"\n🤖 Model: {response}")
         print(f"\n📏 Długość odpowiedzi: {len(response.split())} słów")
 
 def test_specific_scenarios(model, tokenizer):
@@ -99,14 +146,22 @@ def test_specific_scenarios(model, tokenizer):
         inputs = {k: v.to(device) for k, v in inputs.items()}
         
         with torch.no_grad():
+            # Check tokenizer tokens
+            if tokenizer.eos_token_id is None:
+                eos_token_id = tokenizer.pad_token_id
+            else:
+                eos_token_id = tokenizer.eos_token_id
+                
             outputs = model.generate(
                 **inputs,
-                max_new_tokens=250,
+                max_new_tokens=1200,  # Educational content
                 temperature=0.7,
                 do_sample=True,
-                pad_token_id=tokenizer.eos_token_id,
+                pad_token_id=eos_token_id,
                 repetition_penalty=1.1,
-                top_p=0.9
+                top_p=0.9,
+                no_repeat_ngram_size=3,
+                early_stopping=False
             )
         
         generated_text = tokenizer.decode(outputs[0], skip_special_tokens=True)
