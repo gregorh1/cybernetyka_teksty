@@ -14,28 +14,35 @@ class CustomStreamer:
     def __init__(self, tokenizer, skip_prompt=True):
         self.tokenizer = tokenizer
         self.skip_prompt = skip_prompt
-        self.prompt_length = 0
-        self.generated_tokens = []
+        self.generated_text = ""
+        self.printed_length = 0
         
     def put(self, value):
         """Called for each generated token"""
         if len(value.shape) > 1:
             value = value[0]  # Take first batch
             
-        # Skip prompt tokens
-        if self.skip_prompt and len(self.generated_tokens) == 0:
-            self.prompt_length = len(value)
+        # Decode full sequence
+        try:
+            full_text = self.tokenizer.decode(value, skip_special_tokens=True)
             
-        # Process new tokens
-        if len(value) > self.prompt_length:
-            new_tokens = value[self.prompt_length:]
-            for token in new_tokens:
-                if token not in [self.tokenizer.eos_token_id, self.tokenizer.pad_token_id]:
-                    text = self.tokenizer.decode([token], skip_special_tokens=True)
-                    if text:
-                        print(text, end='', flush=True)
-                        self.generated_tokens.append(token)
-            self.prompt_length = len(value)
+            # Extract only new text
+            if len(full_text) > self.printed_length:
+                new_text = full_text[self.printed_length:]
+                print(new_text, end='', flush=True)
+                self.printed_length = len(full_text)
+                
+        except Exception as e:
+            # Fallback: try single token decode
+            try:
+                if len(value) > 0:
+                    last_token = value[-1].item()
+                    if last_token not in [self.tokenizer.eos_token_id, self.tokenizer.pad_token_id]:
+                        text = self.tokenizer.decode([last_token], skip_special_tokens=True)
+                        if text and text not in ['\n', '\r', ' ']:
+                            print(text, end='', flush=True)
+            except:
+                pass
     
     def end(self):
         """Called when generation ends"""
@@ -59,7 +66,7 @@ def load_model(model_path="./bielik-cybernetyka-lora"):
     print("✅ Model załadowany do konwersacji")
     return model, tokenizer
 
-def chat_with_model(model, tokenizer):
+def chat_with_model(model, tokenizer, use_streaming=True):
     """Interaktywna konwersacja z modelem"""
     print("\n🤖 KONWERSACJA Z MODELEM CYBERNETYKI")
     print("=" * 50)
@@ -90,32 +97,63 @@ def chat_with_model(model, tokenizer):
         device = next(model.parameters()).device
         inputs = {k: v.to(device) for k, v in inputs.items()}
         
-        # Generate with streaming
+        # Generation with optional streaming
         print("🔄 Generuję odpowiedź...")
-        print("\n🤖 Model: ", end='', flush=True)
         
-        # Create streamer for real-time output
-        streamer = CustomStreamer(tokenizer, skip_prompt=True)
+        # Check tokenizer tokens
+        if tokenizer.eos_token_id is None:
+            eos_token_id = tokenizer.pad_token_id
+        else:
+            eos_token_id = tokenizer.eos_token_id
         
-        with torch.no_grad():
-            # Check tokenizer tokens
-            if tokenizer.eos_token_id is None:
-                eos_token_id = tokenizer.pad_token_id
-            else:
-                eos_token_id = tokenizer.eos_token_id
+        if use_streaming:
+            try:
+                # Method 1: Try with TextStreamer (built-in)
+                from transformers import TextStreamer
+                print("\n🤖 Model: ", end='', flush=True)
                 
-            outputs = model.generate(
-                **inputs,
-                max_new_tokens=1500,  # ~1000 words for educational content
-                temperature=0.7,
-                do_sample=True,
-                pad_token_id=eos_token_id,
-                repetition_penalty=1.1,
-                top_p=0.9,
-                no_repeat_ngram_size=3,
-                early_stopping=False,
-                streamer=streamer
-            )
+                # Use built-in TextStreamer
+                streamer = TextStreamer(tokenizer, skip_prompt=True, skip_special_tokens=True)
+                
+                with torch.no_grad():
+                    outputs = model.generate(
+                        **inputs,
+                        max_new_tokens=1500,  # ~1000 words for educational content
+                        temperature=0.7,
+                        do_sample=True,
+                        pad_token_id=eos_token_id,
+                        repetition_penalty=1.1,
+                        top_p=0.9,
+                        no_repeat_ngram_size=3,
+                        early_stopping=False,
+                        streamer=streamer
+                    )
+                    
+            except Exception as e:
+                print(f"\n⚠️  Streaming error: {e}")
+                use_streaming = False  # Fall back to non-streaming
+        
+        if not use_streaming:
+            # Non-streaming generation
+            print("\n🤖 Model: ", end='', flush=True)
+            
+            with torch.no_grad():
+                outputs = model.generate(
+                    **inputs,
+                    max_new_tokens=1500,
+                    temperature=0.7,
+                    do_sample=True,
+                    pad_token_id=eos_token_id,
+                    repetition_penalty=1.1,
+                    top_p=0.9,
+                    no_repeat_ngram_size=3,
+                    early_stopping=False
+                )
+                
+            # Show result all at once
+            generated_text = tokenizer.decode(outputs[0], skip_special_tokens=True)
+            response = generated_text[len(prompt):].strip()
+            print(response)
         
         # Get final response for word count
         generated_text = tokenizer.decode(outputs[0], skip_special_tokens=True)
@@ -180,17 +218,29 @@ def main():
                        help="Tryb interaktywny")
     parser.add_argument("--test-scenarios", action="store_true",
                        help="Test predefiniowanych scenariuszy")
+    parser.add_argument("--no-streaming", action="store_true",
+                       help="Wyłącz streaming (pokazuj całą odpowiedź na raz)")
+    parser.add_argument("--debug", action="store_true",
+                       help="Tryb debug z dodatkowymi informacjami")
     
     args = parser.parse_args()
     
     # Load model
     model, tokenizer = load_model(args.model_path)
     
+    # Determine streaming mode
+    use_streaming = not args.no_streaming
+    
+    if args.debug:
+        print(f"🔧 Debug mode: streaming={use_streaming}")
+        print(f"   Tokenizer EOS: {tokenizer.eos_token_id}")
+        print(f"   Tokenizer PAD: {tokenizer.pad_token_id}")
+    
     if args.test_scenarios:
         test_specific_scenarios(model, tokenizer)
     
     if args.interactive or not args.test_scenarios:
-        chat_with_model(model, tokenizer)
+        chat_with_model(model, tokenizer, use_streaming)
 
 if __name__ == "__main__":
     main() 
