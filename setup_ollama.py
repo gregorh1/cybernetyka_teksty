@@ -73,9 +73,9 @@ def convert_to_gguf(model_path, output_path):
     
     # Try to find llama.cpp converter
     common_paths = [
-        "./llama.cpp/convert-hf-to-gguf.py",
-        "../llama.cpp/convert-hf-to-gguf.py",
-        f"{os.path.expanduser('~')}/llama.cpp/convert-hf-to-gguf.py"
+        "./llama.cpp/convert_hf_to_gguf.py",
+        "../llama.cpp/convert_hf_to_gguf.py",
+        f"{os.path.expanduser('~')}/llama.cpp/convert_hf_to_gguf.py"
     ]
     
     converter_path = None
