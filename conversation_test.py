@@ -66,8 +66,18 @@ def load_model(model_path="./bielik-cybernetyka-lora"):
     print("✅ Model załadowany do konwersacji")
     return model, tokenizer
 
-def chat_with_model(model, tokenizer, use_streaming=True):
+def chat_with_model(model, tokenizer, use_streaming=True, gen_params=None):
     """Interaktywna konwersacja z modelem"""
+    
+    # Default generation parameters
+    if gen_params is None:
+        gen_params = {
+            'max_new_tokens': 400,
+            'temperature': 0.3,
+            'top_p': 0.7,
+            'repetition_penalty': 1.3
+        }
+    
     print("\n🤖 KONWERSACJA Z MODELEM CYBERNETYKI")
     print("=" * 50)
     print("Wpisz pytania o cybernetykę (lub 'quit' aby zakończyć)")
@@ -75,6 +85,7 @@ def chat_with_model(model, tokenizer, use_streaming=True):
     print("- Wyjaśnij sprzężenie zwrotne")
     print("- Co to jest homeostaza?")
     print("- Jak cybernetyka odnosi się do społeczeństwa?")
+    print(f"\n🎛️  Parametry: temp={gen_params['temperature']}, tokens={gen_params['max_new_tokens']}, top_p={gen_params['top_p']}")
     print()
     
     while True:
@@ -118,14 +129,15 @@ def chat_with_model(model, tokenizer, use_streaming=True):
                 with torch.no_grad():
                     outputs = model.generate(
                         **inputs,
-                        max_new_tokens=1500,  # ~1000 words for educational content
-                        temperature=0.7,
+                        max_new_tokens=gen_params['max_new_tokens'],
+                        temperature=gen_params['temperature'],
                         do_sample=True,
                         pad_token_id=eos_token_id,
-                        repetition_penalty=1.1,
-                        top_p=0.9,
-                        no_repeat_ngram_size=3,
-                        early_stopping=False,
+                        repetition_penalty=gen_params['repetition_penalty'],
+                        top_p=gen_params['top_p'],
+                        top_k=50,            # Add top-k for additional control
+                        no_repeat_ngram_size=4,  # Larger n-gram to prevent repetition
+                        early_stopping=True, # Enable early stopping
                         streamer=streamer
                     )
                     
@@ -140,14 +152,15 @@ def chat_with_model(model, tokenizer, use_streaming=True):
             with torch.no_grad():
                 outputs = model.generate(
                     **inputs,
-                    max_new_tokens=1500,
-                    temperature=0.7,
+                    max_new_tokens=gen_params['max_new_tokens'],
+                    temperature=gen_params['temperature'],
                     do_sample=True,
                     pad_token_id=eos_token_id,
-                    repetition_penalty=1.1,
-                    top_p=0.9,
-                    no_repeat_ngram_size=3,
-                    early_stopping=False
+                    repetition_penalty=gen_params['repetition_penalty'],
+                    top_p=gen_params['top_p'],
+                    top_k=50,            # Add top-k for additional control
+                    no_repeat_ngram_size=4,  # Larger n-gram to prevent repetition
+                    early_stopping=True  # Enable early stopping
                 )
                 
             # Show result all at once
@@ -192,14 +205,15 @@ def test_specific_scenarios(model, tokenizer):
                 
             outputs = model.generate(
                 **inputs,
-                max_new_tokens=1200,  # Educational content
-                temperature=0.7,
+                max_new_tokens=300,   # Conservative for test scenarios
+                temperature=0.3,      # Lower temperature
                 do_sample=True,
                 pad_token_id=eos_token_id,
-                repetition_penalty=1.1,
-                top_p=0.9,
-                no_repeat_ngram_size=3,
-                early_stopping=False
+                repetition_penalty=1.3,  # Stronger repetition penalty
+                top_p=0.7,            # More focused sampling
+                top_k=50,             # Add top-k control
+                no_repeat_ngram_size=4,  # Larger n-gram
+                early_stopping=True   # Enable early stopping
             )
         
         generated_text = tokenizer.decode(outputs[0], skip_special_tokens=True)
@@ -222,6 +236,14 @@ def main():
                        help="Wyłącz streaming (pokazuj całą odpowiedź na raz)")
     parser.add_argument("--debug", action="store_true",
                        help="Tryb debug z dodatkowymi informacjami")
+    parser.add_argument("--temperature", type=float, default=0.3,
+                       help="Temperature dla generacji (default: 0.3)")
+    parser.add_argument("--max-tokens", type=int, default=400,
+                       help="Maksymalna liczba tokenów (default: 400)")
+    parser.add_argument("--top-p", type=float, default=0.7,
+                       help="Top-p sampling (default: 0.7)")
+    parser.add_argument("--repetition-penalty", type=float, default=1.3,
+                       help="Kara za powtarzanie (default: 1.3)")
     
     args = parser.parse_args()
     
@@ -231,16 +253,25 @@ def main():
     # Determine streaming mode
     use_streaming = not args.no_streaming
     
+    # Prepare generation parameters
+    gen_params = {
+        'max_new_tokens': args.max_tokens,
+        'temperature': args.temperature,
+        'top_p': args.top_p,
+        'repetition_penalty': args.repetition_penalty
+    }
+    
     if args.debug:
         print(f"🔧 Debug mode: streaming={use_streaming}")
         print(f"   Tokenizer EOS: {tokenizer.eos_token_id}")
         print(f"   Tokenizer PAD: {tokenizer.pad_token_id}")
+        print(f"   Gen params: {gen_params}")
     
     if args.test_scenarios:
         test_specific_scenarios(model, tokenizer)
     
     if args.interactive or not args.test_scenarios:
-        chat_with_model(model, tokenizer, use_streaming)
+        chat_with_model(model, tokenizer, use_streaming, gen_params)
 
 if __name__ == "__main__":
     main() 
