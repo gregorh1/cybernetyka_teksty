@@ -58,33 +58,33 @@ if [ -n "$1" ]; then
         exit 1
     fi
     
-    pdf_files="$1"
+    # Use array for single file to preserve spaces
+    pdf_files_array=("$1")
 else
     # Process all files containing 'tiff'
     echo "🔍 Looking for PDF files containing 'tiff' in subfolders..."
     
-    # Find all PDF files containing 'tiff' in subfolders
-    pdf_files=$(find . -name "*tiff*.pdf" -type f)
+    # Use array to store files found by find command
+    mapfile -t pdf_files_array < <(find . -name "*tiff*.pdf" -type f)
     
-    if [ -z "$pdf_files" ]; then
+    if [ ${#pdf_files_array[@]} -eq 0 ]; then
         echo "❌ No PDF files containing 'tiff' found in subfolders"
         exit 1
     fi
 fi
 
 # Count total files and set up processing
+total_files=${#pdf_files_array[@]}
 if [ -n "$1" ]; then
-    total_files=1
     echo "📚 Processing 1 specific PDF file"
 else
-    total_files=$(echo "$pdf_files" | wc -l)
     echo "📚 Found $total_files PDF files to process"
 fi
 
 # Process each PDF file
 file_counter=1
 
-for pdf_file in $pdf_files; do
+for pdf_file in "${pdf_files_array[@]}"; do
     echo ""
     echo "📖 Processing file $file_counter/$total_files: $pdf_file"
     
