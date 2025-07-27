@@ -1506,6 +1506,66 @@ którzy dysponując dużymi środkami materialnymi i dzięki temu
 korzystając w pełni z wolności prasy cieszyli się popularnością
 wśród szerokich kręgów burżuazyjne...
 
+## tajniki_sterowania_ludzmi
+**Autor:** Józef Kossecki
+**Tematy:** sterowanie
+
+tajniki_sterowania_ludzmi 
+Generated on: sob 26 lip 17:23:13 2025 CEST
+Original PDF: Kossecki/tajniki_sterowania_ludzmi.pdf
+Total pages: 287
+
+--- Page 001 ---
+P TAJNIKI STEROWANIA LUDŹMI
+
+autonom.edu.pl
+
+--- Page 002 ---
+
+--- Page 003 ---
+Józef
+Kossecki
+
+"TAJNIKI
+STEROWANIA
+LUDŹMI
+
+KRAJOWA
+AGENCJA
+WYDAWNICZA
+
+
+--- Page 004 ---
+
+--- Page 005 ---
+PRZEDMOWA
+
+Młodzi ludzie kończąc szkoły lub studia z reguły od-
+czuwają brak wiedzy dotyczącej procesów sterowania
+zespołami ludzkimi. W trakcie swej nauki i studiów
+uzyskują wiedzę merytoryczną z zakresu swego zawo-
+du, ale nie uzyskują wcale, lub prawie wcale, wiedzy
+o sterowaniu ludźmi. A wiedza ta potrzebna jest im
+zarówno w życiu rodzinnym zwłaszcza gdy mieć bę-
+dą dzieci, jak i w pracy zawodowej. Im wyższe zajmą
+stanowisko, tym mniej mieć będą do czynienia ze
+wszystkim, czego nauczyli się z zakresu swego zawodu,
+a tym więcej właśnie ze sterowaniem ludzkimi ze-
+społami. Muszą się więc uczyć sztuki sterowania ludźmi
+na własnych błędach a błędy te mogą ich drogo ko-
+sztować.
+
+Przez długie wieki sztuka sterowania ludźmi była
+domeną wtajemniczonych, którzy zazdrośnie strzegli
+swego monopolu. Od czasu powstania cybernetyki spo-
+łecznej sytuacja uległa pod tym względem istotnej
+zmianie. Cybernetyka jako nauka o procesach ste-
+rowania zaczęła wyjaśniać pewne ogólne prawidło-
+wości występujące we wszelkich procesach sterowni-
+czych, zaś cybernetyka społeczna ogólne prawa rzą-
+dzące procesami sterowania społecznego. Znajomość
+tych praw moż...
+
 ## wizerunek_polityczny
 **Autor:** Józef Kossecki
 
@@ -1985,6 +2045,77 @@ główny składnik maszyn cybernetycznych.
 Natomiast jeżeli chodzi o zagadnienia cybernetyczne związane z drugim ze
 wspomnianych kierunków, to są one szerszemu ogółowi prawie nie znane. Sprawom tym...
 
+## cybernetyka_a_zarzadzanie-tiff (1)
+**Autor:** Marian Mazur
+**Tematy:** cybernetyka
+
+cybernetyka_a_zarzadzanie-tiff (1) 
+Generated on: sob 26 lip 17:29:53 2025 CEST
+Original PDF: Mazur/cybernetyka_a_zarzadzanie-tiff (1).pdf
+Total pages: 181
+
+--- Page 001 ---
+Do
+użytku
+wewnężtrznego
+
+Prof. dr Marian Mazur
+
+CYBERNETYKA
+1'a
+ZARZĄDZANIE
+
+'wojewódzka i Miejska
+Biblioteka Publiczna w Rzeszowie
+
+AOW
+
+001-0032622--00
+
+MINISTERSTWO SPRAW WEWNĘTRZNYCH
+DEPARTAMENT SZKOLENIA I WYDAWNICTW
+Warszawa 1969
+
+http://autonom.edu.pl
+
+
+--- Page 002 ---
+Redaktor M. STĘPNIAK
+
+KLOTEKUUT A, Ur o 
+
+Wydanie I. Ark. druk. 11,5. Ark. wyd. 12. Oddano do.. składania
+w kwietniu 1968 r. Druk ukończono w lutym 1969 r.
+
+Rzeszowskie Zakłady Graficzne w Rzeszowie, ul. Marchiewskiego 19
+Zam. 2641 z dnia 9. IV. 1968 r, XXX 24 M-3-14
+
+
+--- Page 003 ---
+SPIS TREŚCI
+
+Strona
+OD REDAKCJI . . . . 6 . ee e ee eee... 5
+ROZDZIAŁ PIERWSZY
+O cybernetyce . . . . . . . ... .. 7
+1.1. Zarys historyczny . . , . . 7
+1.2. Definicja cybernetyki. . . . . . . . . . . 9
+ROZDZIAŁ DRUGI
+Sprzężenie . . . . . . . . . .e 11
+2.1. Pojęcie sprzężenia . . . . . . . . -.. li
+2.2. Rodzaje sprzężeń zwrotnych . . ... . . 12
+2.3. Zastosowanie teorii sprzężeń . . ... .. 24
+ROZDZIAŁ TRZECI .
+Tnformacja . . . . . . . . .. ... . 29
+3.1. Zarys historyczny . . . . . . . . - - 29
+3.2. Ilość informacji . . . . . . . . 31
+3.3. Pojęcie informacji . . . . .BS 36
+3.4. Przetwarzanie komunikatów .. ... .. 39
+3.5. Przenoszenie informacji . ... ... . 41
+3.6. Przetwarzanie informacji . . . . ... . 48
+3.7. Rodzaje informacji .. .. ... .. - 51
+3.8. Prz...
+
 ## cybernetyka_i_charakter1976-ocr (1)
 **Autor:** Marian Mazur
 **Tematy:** cybernetyka, charakterologia
@@ -2309,6 +2440,128 @@ sprawom szkolnictwa. Sądzimy, że oceny profesora nie zdezaktualizowały się.
 Stan szkolnictwa jest wprost rozpaczliwy, na co złożyły się co najmniej trzy czynniki.
 Po pierwsze, na całym świecie brakuje racjonalnej koncepcji szkoły. Po drugie, szkoła jest
 tworem niezmiernie trudnym do reformowania, gd...
+
+## jakosciowa_teoria_informacji-tiff (1)
+**Autor:** Marian Mazur
+**Tematy:** informacja, teoria
+
+jakosciowa_teoria_informacji-tiff (1) 
+Generated on: sob 26 lip 16:55:01 2025 CEST
+Original PDF: Mazur/jakosciowa_teoria_informacji-tiff (1).pdf
+Total pages: 223
+
+--- Page 001 ---
+MARIAN MAZUR
+
+Jakościowa teoria informacji
+
+WT
+
+WYDAWNICTWA NAUKOWO-TECHNICZNE WARSZAWA
+
+http://autonom.edu.pl
+
+--- Page 002 ---
+Redaktor WNT
+Zofia Dackiewicz
+
+007
+
+Książka stanowi próbę jakościowego ujęcia informacji. Omówiono
+w niej pojęcie, rodzaje i ilość informacji, przenoszenie i przętwa-
+rzanie, procesy informacyjne, zagadnienie informacji w różnych
+dziedzinach nauki i techniki; podano przykłady zastosowań.
+Książka jest przeznaczona dla tych wszystkich, którzy mają do
+czynienia z zagadnieniami informacyjnymi lub się nimi intere-
+sują dla inżynierów różnych specjalności i pracowników nau- '
+"kowych.
+
+Okładkę projektował
+Bogusław Orliński
+
+Redaktor techniczny
+Anna Napiórkowska
+
+WSZELKIE PRAWA ZASTRZEŻONE
+Printed in Poland
+
+u/"
+
+--- Page 003 ---
+
+--- Page 004 ---
+CONTENTS
+
+Publisher's introduction
+Preface
+
+o9NANAKGDN M
+
+10.
+11.
+12.
+13.
+
+Introduction
+
+. Control
+. Signal
+. Transformation
+
+Code
+
+. Information
+
+. Informing
+
+. Transinforming
+. Pseudoinforming
+
+Disinforming
+Parainforming
+Metainforming
+
+Number of informations
+
+Classification of informing
+Index . .
+
+u
+13
+27
+33
+41
+60
+70
+81
+87
+118
+141
+153
+171
+188
+212
+221
+
+--- Page 005 ---
+OFJIABJIEHHE
+
+Or H3JAaTEJIECTBA . .
+IlpenucioBHe
+
+BsejeHne
+
+YnpaBueHne
+
+. CurHa .
+TpaHchopMamua
+
+Kor .
+MupopmamuA
+MrbopmupoBaHue
+
+. TpaucHrbopmuposanue
+IIceB[oHH;hopMHup...
 
 ## modelowanie_cybernetyczne_i_jego_przydatnosc_w_modelowaniu_procesow_dydaktycznych-ocr
 **Autor:** Marian Mazur
