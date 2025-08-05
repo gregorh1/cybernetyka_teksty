@@ -177,7 +177,7 @@ def main():
     
     # Znajdź wszystkie pliki .doc
     doc_files = []
-    for folder in ['Kossecki', 'Mazur']:
+    for folder in ['TEXTS/autonom/Kossecki', 'TEXTS/autonom/Mazur']:
         if os.path.exists(folder):
             doc_files.extend(list(Path(folder).glob('*.doc')))
     

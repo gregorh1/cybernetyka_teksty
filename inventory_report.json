@@ -1,6 +1,6 @@
 {
   "kossecki_analysis": {
-    "total_files": 90,
+    "total_files": 92,
     "by_extension": {
       ".txt": [
         {
@@ -70,6 +70,13 @@
           "name": "granice_manipulacji-tiff.txt",
           "size_bytes": 487520,
           "size_mb": 0.46,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "tajniki_sterowania_ludzmi.txt",
+          "size_bytes": 519991,
+          "size_mb": 0.5,
           "extension": ".txt",
           "exists": true
         },
@@ -347,6 +354,13 @@
           "name": "metacybernetyka-ocr.pdf",
           "size_bytes": 1415380,
           "size_mb": 1.35,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "cybernetyczna_analiza_mozliwosci_jednoczenia_europy-prog.pdf",
+          "size_bytes": 158436,
+          "size_mb": 0.15,
           "extension": ".pdf",
           "exists": true
         },
@@ -712,6 +726,13 @@
           "exists": true
         },
         {
+          "name": "tajniki_sterowania_ludzmi.txt",
+          "size_bytes": 519991,
+          "size_mb": 0.5,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
           "name": "jak_sterowac_spoleczenstwem-ocr.txt",
           "size_bytes": 126608,
           "size_mb": 0.12,
@@ -985,6 +1006,13 @@
           "name": "metacybernetyka-ocr.pdf",
           "size_bytes": 1415380,
           "size_mb": 1.35,
+          "extension": ".pdf",
+          "exists": true
+        },
+        {
+          "name": "cybernetyczna_analiza_mozliwosci_jednoczenia_europy-prog.pdf",
+          "size_bytes": 158436,
+          "size_mb": 0.15,
           "extension": ".pdf",
           "exists": true
         },
@@ -1277,7 +1305,7 @@
         }
       ]
     },
-    "total_size_mb": 290.2999999999999,
+    "total_size_mb": 290.9499999999999,
     "text_ready": [
       {
         "name": "cybernetyka_spoleczna-wyd2-ocr.txt",
@@ -1346,6 +1374,13 @@
         "name": "granice_manipulacji-tiff.txt",
         "size_bytes": 487520,
         "size_mb": 0.46,
+        "extension": ".txt",
+        "exists": true
+      },
+      {
+        "name": "tajniki_sterowania_ludzmi.txt",
+        "size_bytes": 519991,
+        "size_mb": 0.5,
         "extension": ".txt",
         "exists": true
       },
@@ -1899,7 +1934,7 @@
     "orphaned_files": []
   },
   "mazur_analysis": {
-    "total_files": 61,
+    "total_files": 63,
     "by_extension": {
       ".pdf": [
         {
@@ -2307,6 +2342,20 @@
           "name": "szkola_bez_leku-ocr.txt",
           "size_bytes": 22586,
           "size_mb": 0.02,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "cybernetyka_a_zarzadzanie-tiff (1).txt",
+          "size_bytes": 377202,
+          "size_mb": 0.36,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "jakosciowa_teoria_informacji-tiff (1).txt",
+          "size_bytes": 431006,
+          "size_mb": 0.41,
           "extension": ".txt",
           "exists": true
         },
@@ -2746,6 +2795,20 @@
           "exists": true
         },
         {
+          "name": "cybernetyka_a_zarzadzanie-tiff (1).txt",
+          "size_bytes": 377202,
+          "size_mb": 0.36,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
+          "name": "jakosciowa_teoria_informacji-tiff (1).txt",
+          "size_bytes": 431006,
+          "size_mb": 0.41,
+          "extension": ".txt",
+          "exists": true
+        },
+        {
           "name": "cybernetyka-tiff.txt",
           "size_bytes": 99808,
           "size_mb": 0.1,
@@ -2770,7 +2833,7 @@
         }
       ]
     },
-    "total_size_mb": 62.65000000000002,
+    "total_size_mb": 63.420000000000016,
     "text_ready": [
       {
         "name": "cybernetyka_a_humanitaryzm-ocr.txt",
@@ -2948,6 +3011,20 @@
         "exists": true
       },
       {
+        "name": "cybernetyka_a_zarzadzanie-tiff (1).txt",
+        "size_bytes": 377202,
+        "size_mb": 0.36,
+        "extension": ".txt",
+        "exists": true
+      },
+      {
+        "name": "jakosciowa_teoria_informacji-tiff (1).txt",
+        "size_bytes": 431006,
+        "size_mb": 0.41,
+        "extension": ".txt",
+        "exists": true
+      },
+      {
         "name": "cybernetyka-tiff.txt",
         "size_bytes": 99808,
         "size_mb": 0.1,
@@ -2983,6 +3060,40 @@
       },
       {
         "pdf": {
+          "name": "cybernetyka_a_zarzadzanie-tiff (1).pdf",
+          "size_bytes": 8370434,
+          "size_mb": 7.98,
+          "extension": ".pdf",
+          "exists": true
+        },
+        "txt": {
+          "name": "cybernetyka_a_zarzadzanie-tiff (1).txt",
+          "size_bytes": 377202,
+          "size_mb": 0.36,
+          "extension": ".txt",
+          "exists": true
+        },
+        "base_name": "cybernetyka_a_zarzadzanie-tiff (1)"
+      },
+      {
+        "pdf": {
+          "name": "jakosciowa_teoria_informacji-tiff (1).pdf",
+          "size_bytes": 10951736,
+          "size_mb": 10.44,
+          "extension": ".pdf",
+          "exists": true
+        },
+        "txt": {
+          "name": "jakosciowa_teoria_informacji-tiff (1).txt",
+          "size_bytes": 431006,
+          "size_mb": 0.41,
+          "extension": ".txt",
+          "exists": true
+        },
+        "base_name": "jakosciowa_teoria_informacji-tiff (1)"
+      },
+      {
+        "pdf": {
           "name": "cybernetyka-tiff.pdf",
           "size_bytes": 2634784,
           "size_mb": 2.51,
@@ -3003,10 +3114,10 @@
   },
   "transformation_plan": {
     "summary": {
-      "total_text_ready": 66,
+      "total_text_ready": 69,
       "total_needs_conversion": 12,
       "kossecki_processed_pairs": 15,
-      "mazur_processed_pairs": 2
+      "mazur_processed_pairs": 4
     },
     "ready_for_ai": [
       {
@@ -3067,6 +3178,12 @@
         "author": "Kossecki",
         "file": "granice_manipulacji-tiff.txt",
         "size_mb": 0.46,
+        "status": "ready"
+      },
+      {
+        "author": "Kossecki",
+        "file": "tajniki_sterowania_ludzmi.txt",
+        "size_mb": 0.5,
         "status": "ready"
       },
       {
@@ -3391,6 +3508,18 @@
         "author": "Mazur",
         "file": "szkola_bez_leku-ocr.txt",
         "size_mb": 0.02,
+        "status": "ready"
+      },
+      {
+        "author": "Mazur",
+        "file": "cybernetyka_a_zarzadzanie-tiff (1).txt",
+        "size_mb": 0.36,
+        "status": "ready"
+      },
+      {
+        "author": "Mazur",
+        "file": "jakosciowa_teoria_informacji-tiff (1).txt",
+        "size_mb": 0.41,
         "status": "ready"
       },
       {

@@ -15,7 +15,7 @@ def check_for_duplicates():
     duplicates = []
     txt_files = []
     
-    for folder in ['Kossecki', 'Mazur']:
+    for folder in ['TEXTS/autonom/Kossecki', 'TEXTS/autonom/Mazur']:
         if os.path.exists(folder):
             txt_files.extend(list(Path(folder).glob('*.txt')))
     
@@ -45,7 +45,7 @@ def find_ocr_pdfs_to_process():
     to_process = []
     skipped = []
     
-    for folder in ['Kossecki', 'Mazur']:
+    for folder in ['TEXTS/autonom/Kossecki', 'TEXTS/autonom/Mazur']:
         if not os.path.exists(folder):
             continue
             

@@ -6,25 +6,25 @@
       "Józef Kossecki",
       "Marian Mazur"
     ],
-    "created": "2025-07-26T17:36:52.639937",
+    "created": "2025-08-04T15:32:53.298106",
     "total_files": 69,
     "total_size_kb": 13152.899999999998,
     "total_words": 1720900,
     "total_pages": 2692,
     "topics": [
-      "filozofia",
       "sterowanie",
-      "cywilizacja",
       "nauka",
-      "edukacja",
-      "społeczność",
-      "teoria",
-      "polityka",
-      "historia",
       "charakterologia",
-      "cybernetyka",
+      "edukacja",
+      "polityka",
+      "filozofia",
+      "cywilizacja",
       "system",
-      "informacja"
+      "historia",
+      "informacja",
+      "społeczność",
+      "cybernetyka",
+      "teoria"
     ]
   },
   "documents": [

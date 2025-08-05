@@ -184,8 +184,8 @@ def main():
     print("=" * 60)
     
     # Analyze both folders
-    kossecki_stats = analyze_folder('Kossecki')
-    mazur_stats = analyze_folder('Mazur')
+    kossecki_stats = analyze_folder('TEXTS/autonom/Kossecki')
+    mazur_stats = analyze_folder('TEXTS/autonom/Mazur')
     
     # Print detailed inventory
     print("\n📁 KOSSECKI FOLDER ANALYSIS")

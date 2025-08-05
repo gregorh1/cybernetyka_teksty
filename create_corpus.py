@@ -17,7 +17,7 @@ def extract_metadata_from_txt(txt_path):
     metadata = {
         'filename': txt_path.name,
         'author_folder': txt_path.parent.name,
-        'author': 'Józef Kossecki' if 'Kossecki' in str(txt_path.parent) else 'Marian Mazur',
+        'author': 'Józef Kossecki' if 'Kossecki' in str(txt_path) else 'Marian Mazur',
         'title': '',
         'original_file': '',
         'conversion_method': '',
@@ -123,7 +123,7 @@ def create_unified_corpus():
     
     # Znajdź wszystkie pliki .txt
     txt_files = []
-    for folder in ['Kossecki', 'Mazur']:
+    for folder in ['TEXTS/autonom/Kossecki', 'TEXTS/autonom/Mazur']:
         if os.path.exists(folder):
             txt_files.extend(list(Path(folder).glob('*.txt')))
     
