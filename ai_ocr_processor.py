@@ -131,7 +131,7 @@ Text:"""
             response = requests.post(
                 self.api_url,
                 json=payload,
-                timeout=120  # 2 minute timeout for vision processing
+                timeout=300  # 5 minute timeout for vision processing
             )
             
             if response.status_code == 200:
@@ -150,7 +150,7 @@ Text:"""
                 return ""
                 
         except requests.exceptions.Timeout:
-            print(f"  ⏰ Page {page_num}: Request timeout (2 minutes)")
+            print(f"  ⏰ Page {page_num}: Request timeout (5 minutes)")
             return ""
         except Exception as e:
             print(f"  ❌ Page {page_num}: Error - {e}")
