@@ -1,0 +1,138 @@
+=== procesy_sterowania_spolecznego_w_zakresie_norm_zdrowotnych_-tiff ===
+Original PDF: procesy_sterowania_spolecznego_w_zakresie_norm_zdrowotnych_-tiff.pdf
+Processed with: AI OCR (qwen2.5vl:7b)
+Total pages: 5
+Processing date: 2025-08-06 00:21:20
+================================================================================
+
+--- Page 1 ---
+STUDIA DEMOGRAFICZNE 45, 1976
+
+Józef Kossecki
+
+PROCESY STEROWANIA SPOŁECZNEGO
+W ZAKRESIE NORM ZDROWOTNYCH
+ORAZ ICH WPŁYW NA CAŁKOWITĄ MOC
+SPOŁECZNA*
+
+Dowolny obiekt materialny może być całkowicie określony za pomocą
+trzech najogólniejszych czynników:
+1) materiału, z którego jest ukonstytuowany,
+2) energii, którą przetwarza lub może przetwarzać,
+3) struktury, tj. rozmieszczenia materiału i energii w czasoprzestrzeni.
+
+W przypadku społeczeństwa rozpatrywanego jako układ zorganizowany
+(tj. taki, w którym zachodzą procesy sterownicze), za materiał, z którego
+układ jest ukonstytuowany, należy uważać ludzi, zaś miarą ilości materiału
+jest liczebność danego społeczeństwa, którą można też nazwać masą socjologiczną, albo w skrócie socjomasą.
+
+Za energię nagromadzoną w układzie społecznym należy uważać pracę,
+która dane społeczeństwo może wykonać, a nazywać ją można zdolnością roboczą lub zdolnością wykonawczą społeczeństwa; energią przetwarzaną przez społeczeństwo jako układ zorganizowany jest praca wykonywana przez nie, której wielkość możemy mierzyć, np. wielkością produkcji albo ilością usług wykonywanych przez społeczeństwo. Zdolność roboczą i energią przetwarzaną przez społeczeństwo nazywamy ogólnie energią socjologiczną albo socjoenergią. Stosunek socjoenergii do czasu określa wielkość całkowitej mocy społecznej.
+
+* Referat przygotowany na Konferencję Demograficzną w Kórniku-Blażejewku, wrzesień 1975.
+
+1 M. Mazur, Cybernetyczna teoria układów samodzielnych, Warszawa 1966, s. 47.
+J. Kossecki, Cybernetyka społeczna, Warszawa 1975, s. 5–15.
+
+2 M. Mazur, op. cit., s. 48–49. J. Kossecki, op. cit., s. 20.
+
+--- Page 2 ---
+106
+
+Za strukturę społeczeństwa jako układu zorganizowanego należy uważać wzajemne czasoprzestrzenne relacje członków społeczeństwa oraz grup społecznych, z których składa się społeczeństwo; nazywamy ją w skrócie socjostrukturą.
+
+W cybernetyce społecznej rozpatrujemy społeczeństwo jako układ zorganizowanego, którego reakcje (działania) są wynikiem dwu procesów: procesu energetycznego, polegającego na doprowadzeniu energomaterii w ilości potrzebnej do wykonania danego działania, oraz procesu informacyjnego, polegającego na spowodowaniu określonej reakcji spośród wielu możliwych³. Normy społeczne traktujemy jako zależności między bodźcami działającymi na społeczeństwo, a odpowiednimi wywołanymi przez nie zachowaniami (działaniami) — czyli reakcjami — społeczeństwa⁴.
+
+Jeżeli normy społeczne są związane z działaniami, których skutki są istotne z punktu widzenia materiału układu zorganizowanego, jakim jest społeczeństwo — czyli z punktu widzenia stanu socjomasy — wówczas w cybernetyce społecznej nazywamy je normami zdrowotnymi lub witalnymi⁵.
+
+Nauki medyczne zajmują się programowaniem norm zdrowotnych, których stan w danym społeczeństwie możemy pośrednio mierzyć za pomocą współczynników urodzeń i współczynników umieralności. Jednym z podstawowych mierników stanu norm zdrowotnych społeczeństwa są współczynniki reprodukcji ludności netto, które mierzą dynamikę zmian socjomasy w zakresie procesów jej reprodukcji.
+
+Procesy sterowania społecznego w zakresie norm zdrowotnych będą to procesy sterowania socjomasy, czyli sterowania ilością ludności, przy czym metodą sterowania jest oddziaływanie poprzez normy zdrowotne. Oddziaływanie to może być pośrednie, gdy w grę wchodzi programowanie norm zdrowotnych.
+
+Dowolny proces sterowania może być całkowicie określony za pomocą trzech najogólniejszych czynników:
+
+1) obiektu, który podlega sterowaniu,
+2) celu, który ma być osiągnięty w wyniku procesu sterowania,
+3) sposobu w jaki cel procesu sterowania ma być osiągnięty, czyli metody sterowania.
+
+W przypadku procesów sterowania społecznego w zakresie norm zdrowotnych:
+
+ad 1) obiektem jest socjomasa układu społecznego,
+ad 2) celem jest określony stan socjomasy — np. osiągnięcie określonej liczby ludności,
+
+3 M. Mazur, op. cit., s. 47–59.
+4 J. Kossecki, Cybernetyka, Cybernetyka, Warszawa 1974, s. 88.
+5 J. Kossecki, Integracyjna funkcja cybernetyki społecznej, „Studia Filozoficzne” nr 9/1974, s. 110.
+
+--- Page 3 ---
+ad 3) metodą może być oddziaływanie bezpośrednie lub pośrednie poprzez procesy energetyczne lub poprzez procesy informacyjne, przy czym mogą być stosowane bodźce energetyczne lub informacyjne.
+
+Obiekt procesu sterowania socjomaszy opisywany jest za pomocą odpowiednich mierników demograficznych, takich jak liczba ludności, współczynniki zgonów, współczynniki urodzeń i przyrostu naturalnego, współczynniki reprodukcji ludności itp.
+
+Główne rodzaje celów procesów sterowania socjomaszy to: osiągnięcie określonego stanu ludności, oraz uzyskanie określonej dynamiki zmian tego stanu. Przykładem celu pierwszego rodzaju może być osiągnięcie określonej liczby ludności, przykładem drugiego — osiągnięcie określonego poziomu współczynnika reprodukcji ludności.
+
+Jako przykład można rozpatrzyć procesy sterowania socjomaszy społeczeństwa polskiego.
+
+Stan socjomaszy opisujemy na podstawie odpowiednich danych statystycznych Głównego Urzędu Statystycznego oraz Komisji Planowania przy Radzie Ministrów.
+
+Cel procesu sterowania określamy w oparciu o kryterium efektywności całkowitej.
+
+Wychodzimy z wyrażenia na moc całkowitą układu 6:
+
+P = ν ac
+
+gdzie: P — całkowita moc społeczna,
+
+ν — określa zdolność układu do przetwarzania energii,
+
+a — jakość materiału,
+
+c — ilość materiału.
+
+Traktując zdolność do przetwarzania energii jako stały parametr, oraz oznaczając:
+
+c_p = ac,
+
+przy czym c_p oznacza liczbę ludności w wieku produkcyjnym, wzór (1) można wyrazić:
+
+P = ν c_p.
+
+Jako miarę efektu procesu sterowania socjomaszy możemy przyjąć liczbę ludności w wieku produkcyjnym pomnożoną przez czas, w którym się ona utrzymuje. Traktując poszczególne czynniki w wyrażeniach (1)—(3) jako funkcje czasu, możemy wyrazić miarę efektu procesu sterowania socjomaszy jako:
+
+P = ν c_p t,
+
+gdzie t jest czasem utrzymania się populacji w wieku produkcyjnym.
+
+--- Page 4 ---
+108
+
+rownania socjomasy w okresie [t0, t] — którą w dalszym ciągu oznaczać będziemy E — wyrazić następującym wzorem:
+
+E = ∫t cp(t') dt'
+
+Jako miarę społeczno-sterowniczego kosztu procesu sterowania socjomasy możemy przyjąć stosunek liczby ludności w wieku nieprodukcyjnym do liczby ludności w wieku produkcyjnym pomnożoną przez czas, w którym się ona utrzymuje. Traktując poszczególne czynniki jako funkcje czasu i oznaczając miarę społeczno-sterowniczego kosztu procesu sterowania socjomasy w okresie [t0, t] przez K, otrzymujemy wyrażenie:
+
+K = ∫t cp(t') - cp(t') dt'
+
+Jako miarę efektywności całkowitej procesu sterowania socjomasy możemy uważać stosunek miary społeczno-sterowniczego efektu do miary społeczno-sterowniczego kosztu tego procesu. Oznaczając miarę efektywności całkowitej procesu sterowania socjomasy w okresie [t0, t] przez ε otrzymujemy:
+
+ε = E / K
+
+Funkcję celu procesu sterowania socjomasy wyznaczyć możemy z warunku maksymalizacji efektywności całkowitej — cel procesu sterowania socjomasy społeczeństwa polskiego do roku 2040, opierając się na danych zawartych w pracy K. Dzienio7, wówczas jako optymalny — z punktu widzenia kryterium efektywności całkowitej — cel procesu sterowania socjomasy społeczeństwa polskiego do roku 2040 otrzymamy osiągnięcie dynamiki procesów reprodukcji ludności Polski na poziomie odpowiadającym współczynnikowi dzietności 3,2.
+
+Sposób procesu sterowania socjomasy społeczeństwa polskiego do roku 2040 wyznaczyć możemy metodą socjodynamiczną podaną w pracy autorra8. Z socjodynamicznej analizy procesów demograficznych, „Polska 2000”, nr 3/1971, s. 436—496; Cybernetyka społeczna, op. cit., s. 216—247.
+
+7 K. Dzienio, Modele prognoz demograficznych dla Polski do 2040 roku, „Polska 2000”, nr 3/1971, s. 51—145.
+
+8 J. Kossecki, Socjodynamiczna metoda badania procesów demograficznych, „Polska 2000”, nr 3/1971, s. 436—496; Cybernetyka społeczna, op. cit., s. 216—247.
+
+--- Page 5 ---
+w okresie powojennym (aż do 1970 r.) wynika, że skuteczną metodą sterowania socjomaszy społecznością polskiego do 2040 r. powinny być odpowiednie bodźce propagandowo-wychowawcze, wykazujące konieczność zwiększenia współczynnika dzietności w skali całego kraju oraz odpowiednie bodźce prawne — w postaci zmiany ustawy z 1956 r. o dopuszczalności przerywania ciąży, zmierzającej do radykalnego ograniczenia tych zabiegów; może przy tym wchodzić w grę albo zakaz przerywania ciąży pierwszej, albo zakaz przerywania ciąży bez względu na jej kolejność u danej kobiety (z wyjątkiem pewnych określonych ustawowo szczegółowych przypadków). Pierwsza ewentualność wchodziłaby w grę w przypadku, gdyby zmiana ustawy nastąpiła odpowiednio wcześnie; w przypadku gdyby zmiana ustawy nastąpiła dopiero po pewnym okresie, do osiągnięcia funkcji celu procesu sterowania socjomaszy konieczne byłoby drugie rozwiązanie.
+
+Postulat maksymalizacji efektywności całkowitej procesu sterowania socjomaszy jest równoznaczny z postulatem maksymalizacji całkowitej mocy układu społecznego (przy stałej zdolności układu do przetwarzania energii). W ramach badania procesów sterowania socjoenergii można oczywiście rozpatrzyć problemy optymalizacji procesów sterowania przy założeniu zmiennej zdolności układu do przetwarzania energii, nie jest to jednak przedmiotem niniejszej pracy, gdyż są to problemy wchodzące w zakres ekonomii i dotyczą norm ekonomicznych.
+
+ПРОЦЕССЫ УПРАВЛЕНИЯ ОБЩЕСТВОМ В ОБЛАСТИ ЗДРАВООХРАНИТЕЛЬНЫХ НОРМ И ИХ ВЛИЯНИЕ НА СОВОКУПНУЮ МОЩЬ ОБЩЕСТВА
+
+Предметом работы является исследование процессов управления обществом в области здравоохранительных норм и их влияние на совокупную мощь общества.
+
+На основе общих кибернетических-общественных рассуждений дается определение здравоохранительных норм. Затем был проведен общий анализ процессов управления обществом в области здравоохранительных норм с точки зрения их объекта, цели и метода. Был рассмотрен пример управления процесса развития населения Польши к 2040 году. Цель процесса была определена на основе критерия максимизации совокупной эффективности, метод управления был определен на основе социодинамического анализа развития населения, коэффициент развития населения нетто, которого следует достичь в Польше в результате процессов управления, по данным расчетам равен R = 1,5. В результате анализа методом процесса управления было признано применение информационно-пропагандистских, воспитательных и юридических стимулов.

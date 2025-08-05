@@ -1,0 +1,49 @@
+=== znaczenie_czasu_decyzyjnego_dla_struktury_organizacyjnej_spoleczenstwa-tiff ===
+Original PDF: znaczenie_czasu_decyzyjnego_dla_struktury_organizacyjnej_spoleczenstwa-tiff.pdf
+Processed with: AI OCR (qwen2.5vl:7b)
+Total pages: 4
+Processing date: 2025-08-06 00:23:23
+================================================================================
+
+--- Page 1 ---
+Józef Kossecki
+Znaczenie czasu decyzyjnego dla struktury organizacyjnej społeczeństwa
+
+Problem właściwego doboru schematów organizacyjnych i metod zarządzania społeczeństwem nabiera dziś coraz większego znaczenia. Stan układu kierowniczego społeczeństwa — jak stwierdził J. Szczepański — w znacznej mierze przesądza o możliwościach rozwojowych całego społeczeństwa.
+
+Problem optymalizacji schematu zarządzania może być stawiany w różne sposoby. W niniejszym artykule zajmiemy się optymalizacją z punktu widzenia wydajności wykonawców oraz z punktu widzenia stabilności sprzężenia zwrotnego między kierownictwem a wykonawcami — czyli, inaczej mówiąc, stabilności struktury organizacyjnej. Problem nasz rozpatrzymy w pewien specyficzny sposób — zbadamy mianowicie wpływ czasu decyzyjnego zarówno na wydajność wykonawców, jak na stabilność struktury organizacyjnej społeczeństwa.
+
+Wydajność pracy wykonawców zależy od bardzo wielu czynników, takich jak stan narzędzi, kwalifikacje ludzi, technologia, itp. We współczesnych wysoce rozwiniętych społeczeństwach zaczyna się jednak wywazywać na czoło pewien czynnik, który często jeszcze jest nazywany czasem decyzyjnym.
+
+--- Page 2 ---
+Ośrodki podejmujące decyzje w nowoczesnych społeczeństwach wysoko rozwiniętych zmuszone są przed podjęciem istotnych decyzji — bez względu na to, czy będą to decyzje polityczne, gospodarcze, czy też czysto techniczne — przetwarzając wielkie ilości różnego rodzaju informacji. Chodzi przy tym przede wszystkim o to, że każda istotna decyzja podjęta w jakiejś jednej dziedzinie wywołuje różne skutki nie tylko w tej dziedzinie, której ściśle dotyczy, ale również w wielu innych dziedzinach; uwzględnienie wszystkich możliwych istotnych skutków i uzgodnienie każdej decyzji w jakiejś poszczególnej dziedzinie z szeregiem innych decyzji w innych dziedzinach życia społecznego wymaga coraz więcej czasu i powoduje coraz większe wydłużanie się czasu decyzyjnego przy podejmowaniu większości decyzji.
+
+Zastosowanie komputerów i wykorzystanie elektronicznej techniki przetwarzania danych usprawnia i przyspiesza proces przetwarzania informacji niezbędnych dla podejmowania decyzji, ale jednak przygotowanie danych, które można przetwarzać przy pomocy komputerów wymaga coraz więcej czasu, a poza tym komputer nie może wyręczyć ośrodków kierowniczych w samym podejmowaniu decyzji. Wskutek tego opracowywanie danych koniecznych do podjęcia decyzji oraz samo podejmowanie decyzji, mimo zastosowania komputerów, coraz bardziej się wydłuża i coraz częściej zdarza się, że czas decyzyjny (do którego zaliczamy zarówno czas opracowywania danych koniecznych do podjęcia decyzji, jak i czas samego podejmowania decyzji) staje się dłuższy niż czas realizacji działań, których których zależeć będzie wydajność działań społecznych.
+
+W związku z tym, w dalszym ciągu założymy dla uproszczenia, że czas decyzyjny ośrodka kierowniczego jest podstawowym czynnikiem, od którego zależy wydajność całego
+
+--- Page 3 ---
+układu. Inaczej mówiąc zakładamy, że wykonawcy dysponują odpowiednimi środkami energomaterialnymi, koniecznymi do wykonania określonych działań, a ich wydajność zależy od częstotliwości odpowiednich sygnałów sterowniczych przesyłanych do nich przez kierownictwo, która jest odwrotnie proporcjonalna do długości czasu decyzyjnego kierownictwa. Jeżeli kierownictwo skróci swój czas decyzyjny, wówczas wydajność wykonawców odpowiednio wzrośnie.
+
+Załóżmy, że mamy centralny ośrodek kierowniczy, któremu podlega określona liczba wykonawców — liczbę tę oznaczmy m. Ośrodek nasz może sam podejmować decyzje dla każdego wykonawcy, albo też może wprowadzić pośrednie ośrodki decyzyjne (kierownicze), którym podlegać będą wykonawcy, przy czym w tym drugim przypadku ośrodek centralny będzie podejmował decyzje dla pośrednich ośrodków kierowniczych, a te z kolei podejmować będą decyzje dla podległych sobie wykonawców, będzie to więc struktura organizacyjna dwuszczeblowa.
+
+Jeżeli przyjąć, że przed podjęciem decyzji dla m wykonawców ośrodek kierowniczy musi wziąć pod uwagę wszystkie możliwe kombinacje stosunków i oddziaływań między tymi wykonawcami, wówczas możemy założyć, że czas decyzyjny będzie wprost proporcjonalny do ilości tych kombinacji tzn. do m! Jeżeli więc centralny ośrodek kierowniczy będzie sam bezpośrednio podejmował decyzje dla wszystkich m wykonawców, wówczas czas decyzyjny tego ośrodka możemy wyrazić następującym wzorem:
+
+\[
+t_d = C \cdot m!
+\]
+
+gdzie \( t_d \) oznacza czas decyzyjny centralnego ośrodka kierowniczego, natomiast \( C \) jest współczynnikiem proporcjonalności.
+
+--- Page 4 ---
+Jak widać ze wzoru (1), w przypadku gdy liczba wykonawców jest duża, czas decyzyjny jest bardzo duży, rośnie on bowiem o wiele szybciej niż liczba wykonawców. W związku z tym przy dużej liczbie wykonawców opłaca się częściowo zdecentralizować decyzje, wprowadzając pośrednie ogniwa kierownicze.
+
+Przyjmijmy, że centralny ośrodek kierowniczy decentralizuje decyzje wprowadzając n pośrednich ośrodków kierowniczych, przy czym każdemu z nich podlega określona ilość wykonawców. Będzie to struktura organizacyjna posiadająca dwa szczeble kierownicze — centralny i pośredni oraz szczebel wykonawczy.
+
+W ogólnym przypadku można rozpatrywać wiele szczebli pośrednich ośrodków kierowniczych, przy czym każdemu ośrodkowi podlegać może różna ilość ośrodków niższego szczebla. W dalszym ciągu dla uproszczenia naszych rozważań założymy, że między centralnym ośrodkiem kierowniczym a wykonawcami wprowadzony został jeden szczebel pośredni ośrodków kierowniczych, który składa się z n ośrodków, a ponadto każdemu pośredniemu ośrodkowi kierownicznemu podlega taka sama liczba wykonawców — którą oznaczymy k. Jeżeli liczba ośrodków wykonawczych wynosi m, wówczas każdemu pośredniemu ośrodkowi kierownicznemu podlegać będzie k = m/n ośrodków wykonawczych. Przy tych założeniach czas decyzyjny pośredniego ośrodka kierownicznego możemy wyrazić następującym wzorem analogicznym do wzoru (1):
+
+t'd = C·k! = C·(m/n)!
+
+gdzie t'd oznacza czas decyzyjny pośredniego ośrodka kierownicznego, który jest jednakoowy dla wszystkich ośrodków, a C oznacza odpowiedni współczynnik proporcjonalności.
+
+autonom.edu.pl

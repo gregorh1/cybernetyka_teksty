@@ -1,0 +1,75 @@
+=== spoleczno-sterownicze_znaczenie_programowania_ideologicznego-tiff ===
+Original PDF: spoleczno-sterownicze_znaczenie_programowania_ideologicznego-tiff.pdf
+Processed with: AI OCR (qwen2.5vl:7b)
+Total pages: 3
+Processing date: 2025-08-06 00:22:03
+================================================================================
+
+--- Page 1 ---
+Józef Kossecki
+Wyższa Szkoła Pedagogiczna, Kielce
+
+SPOŁECZNO-STEROWNICZE ZNACZENIE PROGRAMOWANIA
+IDEOLoGICZNEGO
+
+Jeżeli społeczeństwo rozpatrywać będziemy jako cybernetyczny układ samodzielny - tzn. taki układ, który może się sam sterować zgodnie z własnym interesem - wówczas sterowanie tym układem można podzielić na: a/ sterowanie za pomocą środków energetycznych /środki represyjne, środki ekonomiczne/, b/ sterowanie za pomocą środków informacyjnych /programowanie etyczne i ideologiczne/. W przypadku sterowania za pomocą środków energetycznych, na sterowanie musimy zużywać więcej energii niż w przypadku sterowania za pomocą środków informacyjnych. Np. ludzie, którzy pracują z pobudek etycznych lub ideologicznych, nie muszą być do pracy ani zmuszeni, ani kontrolowani, ani nawet tak wysoce opłacani, jak ludzie, którzy pracują pod wpływem represji czy też z chęci zysku.
+
+Procesami dyfuzji wszelkich norm społecznych - w tym również norm etycznych czy ideologicznych - rządzą analogiczne prawa jak procesami powstawania rejestratorów w korelatorach układów samodzielnych. Równania opisujące procesy rejestracji w korelatorze układu samodzielnego podał M. Mazur1, natomiast równania opisujące procesy dyfuzji norm społecznych wyprowadzone zostały w ramach socjologii matematycznej, a ponadto zostały one zweryfikowane empirycznie2.
+
+Na tej analogii oparte jest teoretyczne uzasadnienie stosowania modelu korelacji w pamięci cybernetycznego układu samodzielnego do badania procesów dyfuzji norm społecznych oraz ich wpływ na działanie społeczne. Cybernetyczna teoria procesów dyfuzji norm społecznych znalazła już praktyczne zastosowanie w analizie procesów reprodukcji ludności Polski oraz przy opracowywaniu prognoz demograficznych3.
+
+Programowanie ideologiczne zaliczamy w cybernetyce społecznej do metod sterowania społecznego pośredniego, w którym dominują bodźce informacyjne. Sterowanie tego rodzaju nie wywołuje
+
+--- Page 2 ---
+112
+efektów natychmiastowych, gdyż - po pierwsze nie od razu można
+wytworzyć w społeczeństwie odpowiednie rejestratory normatywne, a
+po drugie nawet gdy uda się je wytworzyć, bardzo często na bez-
+pośredni efekt trzeba czekać aż do zaistnienia odpowiedniej
+sytuacji, w której podziałają na społeczeństwo odpowiednie u-
+kłady bodźców. Dlatego to niektórym wydaje się, że metoda ta ta
+jest mało efektywna, mało sprawna.
+
+Jeżeli w społeczeństwie uda się wytworzyć odpowiednie ideo-
+logiczne rejestratory normatywne, wówczas wzrastają zdolności au-
+tosterownicze społeczeństwa, a w związku z tym społeczeństwo,
+nawet bez każdorazowego udziału energii sterowniczej organizatora /kierownictwa/, w odpowiednich sytuacjach podejmować będzie odpowiednie działania. Doskonale wyraził to Karol Marks stwierdzając, że: "Teoria staje się potęgą materialną, kiedy po-
+rywa za sobą masy"4.
+
+Można powiedzieć, że programowanie ideologiczne społeczeń-
+stwa stanowi inwestycję informacyjną umożliwiającą sterowanie
+informacyjne bezpośrednie. Efekty programowania ideologicznego
+kumulują się stopniowo i doprowadzają w końcu do określonych
+działan - co oznacza przechodzenie ilości w jakość. Stosunek cał-
+kowitej mocy społecznej wydatkowanej przez układ sterowany w
+czasie t0,T do całkowitej mocy społecznej wydatkowanej przez
+organizatora na cele sterownicze w tym samym czasie nazywamy w
+cybernetyce efektywnością sterowania w okresie t0,T i oznaczamy
+ηT
+
+Przy sterowaniu informacyjnym pośrednim:
+
+Przy czym chwila t = t0 oznacza początek okresu programowania
+danych rejestrów normatywnych w społeczeństwie, a T jest wystarczająco duża.
+
+Oczywiście efektywność programowania początków okresu programowania
+ideologicznego /które jest sterowaniem informacyjnym pośrednim/ zależy również w de-
+cydującym sposób od tego, w jakim stopniu jest ono zgodne z in-
+teresem społeczeństwa na danym etapie jego rozwoju społecznego.
+
+--- Page 3 ---
+Od zgodności programowania ideologicznego z interesem społeczeństwa zależy możliwość uruchomienia odpowiednich społecznych potencjałów refleksyjnych.
+
+W społeczeństwie socjalistycznym programowanie ideologiczne jest bardzo efektywną metodą sterowania społecznego, a w miarę postępów budowy socjalizmu w epoce rewolucji informacyjnej jego efektywność powinna wzrastać.
+
+Przypisy
+
+1 M. MAZUR, Cybernetyczna teoria układów samodzielnych, Warszawa 1966.
+
+2 J.S. COLEMAN, Wstęp do socjologii matematycznej, Warszawa 1968.
+
+3 J. KOSSECKI, Cybernetyka społeczna, Warszawa 1975.
+
+4 K. MARKS, Przyczynek do krytyki heglowskiej filozofii prawa /Wstęp/, W: K. MARKS i F. ENGELS, Dzieła t. 1, Warszawa 1962, s. 466.
+
+autonom.edu.pl
