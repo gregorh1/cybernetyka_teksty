@@ -1,0 +1,6 @@
+# AI OCR Processor Requirements
+# Install with: pip install -r requirements_ai_ocr.txt
+
+PyMuPDF>=1.23.0      # PDF processing
+Pillow>=9.0.0        # Image processing  
+requests>=2.28.0     # HTTP requests for Ollama API
