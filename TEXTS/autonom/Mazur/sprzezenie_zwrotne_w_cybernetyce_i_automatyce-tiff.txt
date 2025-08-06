@@ -1,0 +1,49 @@
+=== sprzezenie_zwrotne_w_cybernetyce_i_automatyce-tiff ===
+Original PDF: sprzezenie_zwrotne_w_cybernetyce_i_automatyce-tiff.pdf
+Processed with: AI OCR (qwen2.5vl:7b)
+Total pages: 3
+Processing date: 2025-08-06 00:58:52
+Failed pages: 2, 3
+================================================================================
+
+--- Page 1 ---
+PRZEGLĄD ELEKTROTECHNICZNY
+R XLII 2
+
+Prof. dr M. MAZUR Sprzężenie zwrotne w cybernetyce i automatyce
+
+007:621-52
+
+Treść: Omówiono pojęcie sprzężenia jako związku między obiektami polegającym na oddziaływaniach. Podano najpóźniejsze wzory na sprzężenie zwrotne dodatnie i ujemne. Wprowadzono rozróżnienie sprzężeń zwrotnych zbliżonych i rozbieżnych.
+
+Teoretycznie każda zmiana zachodząca w jakimkolwiek punkcie przestrzeni wywołuje zmiany we wszystkich innych punktach. Praktycznie wpływ ten jest w wielu punktach znakomo mały i może być pominięty. Dzięki temu, bez szkody dla ściśłości rozważań, można wyodrębnić pewne obiekty, które mają na siebie oddziaływaniem tylko na określone obiekty, z pominięciem pozostałych. W najprostszym przypadku obiekty będą wchodzić w grę tylko oddziaływaniem między dwoma określonymi obiektami.
+
+Związek między obiektami polegający na oddziaływaniach nazywa się sprzężeniem.
+
+Sprzężenie, w którym jeden obiekt oddziałuje na drugi, jest sprzężeniem prostym. Na rys. 1 występuje więc tylko oddziaływanie obiektu B na obiekt C, a więc sprzężenie proste.
+
+Sprzężenie, w którym jeden obiekt oddziałuje na drugi, a drugi obiekt oddziałuje na pierwszy, jest sprzężeniem zwrotnym. Sprzężenie zwrotne składa się więc z dwóch sprzężeń prostych przeciwnie skierowanych. Na rys. 2 występuje sprzężenie zwrotne między obiektami B i C, gdyż obiekt B oddziałuje na obiekt C, a obiekt C oddziałuje na obiekt B.
+
+Jak widać na rys. 2, sprzężenie zwrotne stanowi zamknięty obiekt oddziaływania. W taki najbardziej ogólny sposób ujmuję się sprzężenie zwrotne w cybernetyce.
+
+Każde oddziaływanie można określić za pomocą rys. wielkości fizycznych. Postępując się oznaczeniami z rys. 2 można powiedzieć, że pewna wielkość y jest wielkością wyjściową obiektu B, a zarazem wielkością wejściową układu C. Podobnie można powiedzieć, że oddziaływanie obiektu B C na tym, że polega na wielkości
+
+Rys. 1. Sprzężenie proste
+Rys. 2. Sprzężenie zwrotne
+
+Eliminując x z równań (1) i (2) otrzymuje się zależność
+
+(3)
+y = f(y)
+
+z której wielkość y jest zależna od siebie samej.
+
+Podobnie, eliminując y z równań (1) i (2), otrzymuje się zależność
+
+autonom.edu.pl
+
+--- Page 2 ---
+[OCR FAILED]
+
+--- Page 3 ---
+[OCR FAILED]
