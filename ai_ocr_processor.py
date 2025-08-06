@@ -263,10 +263,10 @@ def find_image_pdfs(directory: Path) -> List[Path]:
     return image_pdfs
 
 
-def show_menu():
+def show_menu(processor: AIORProcessor, dpi: int = 200):
     """Display interactive menu"""
     print("\n" + "=" * 70)
-    print("🤖 AI OCR PROCESSOR - qwen2.5vl:7b")
+    print(f"🤖 AI OCR PROCESSOR - {processor.model_name}")
     print("=" * 70)
     print("📄 PROCESSING OPTIONS:")
     print("1. 📄 Process specific PDF file")
@@ -277,21 +277,25 @@ def show_menu():
     print("4. ℹ️  Show script information & usage")
     print("5. 🔧 Check dependencies & model status")
     print("6. 📚 Show examples & tips")
-    print("7. 📋 List all processing scripts")
     print("")
-    print("8. ❌ Exit")
+    print("⚙️  CURRENT SETTINGS:")
+    print(f"   📊 Model: {processor.model_name}")
+    print(f"   🖼️  DPI: {dpi} (use --dpi option to change)")
+    print(f"   🌐 Server: {processor.ollama_url}")
+    print("")
+    print("7. ❌ Exit")
     print("=" * 70)
     
     while True:
         try:
-            choice = input("Select option (1-8): ").strip()
-            if choice in ['1', '2', '3', '4', '5', '6', '7', '8']:
+            choice = input("Select option (1-7): ").strip()
+            if choice in ['1', '2', '3', '4', '5', '6', '7']:
                 return choice
             else:
-                print("❌ Invalid choice. Please enter 1-8.")
+                print("❌ Invalid choice. Please enter 1-7.")
         except KeyboardInterrupt:
             print("\n👋 Goodbye!")
-            return '8'
+            return '7'
 
 
 def scan_texts_folder() -> List[Path]:
@@ -437,33 +441,8 @@ def show_examples():
     print("   • Connection errors → Check 'ollama serve' is running")
 
 
-def list_processing_scripts():
-    """List all available processing scripts in the project"""
-    print("\n" + "=" * 70)
-    print("📋 ALL PROCESSING SCRIPTS")
-    print("=" * 70)
-    
-    scripts = [
-        ("ai_ocr_processor.py", "🤖 AI-powered OCR using vision models", "Current script"),
-        ("tesseract_pdf_ocr.sh", "🔤 Traditional OCR using Tesseract", "Shell script"),
-        ("doc_to_txt_converter.py", "📄 Convert .doc files to .txt", "Python script"),
-        ("ocr_pdf_processor.py", "📑 Process remaining OCR PDFs", "Python script"),
-        ("corpus_builder.py", "📚 Build unified text corpus", "Python script")
-    ]
-    
-    for script, description, type_info in scripts:
-        if Path(script).exists():
-            print(f"   ✅ {script}")
-            print(f"      {description}")
-            print(f"      Type: {type_info}")
-            print()
-        else:
-            print(f"   ❓ {script} (not found)")
-            print(f"      {description}")
-            print()
 
-
-def process_specific_file(processor: AIORProcessor) -> bool:
+def process_specific_file(processor: AIORProcessor, dpi: int = 200) -> bool:
     """Process a specific PDF file provided by user"""
     while True:
         file_path = input("\n📄 Enter PDF file path (or 'back' to return to menu): ").strip()
@@ -482,7 +461,7 @@ def process_specific_file(processor: AIORProcessor) -> bool:
             continue
         
         print(f"🚀 Processing: {pdf_path}")
-        success = processor.process_pdf(pdf_path)
+        success = processor.process_pdf(pdf_path, dpi=dpi)
         
         if success:
             print(f"✅ Successfully processed: {pdf_path}")
@@ -492,14 +471,14 @@ def process_specific_file(processor: AIORProcessor) -> bool:
         return True
 
 
-def interactive_mode(processor: AIORProcessor):
+def interactive_mode(processor: AIORProcessor, dpi: int = 200):
     """Run in interactive menu mode"""
     while True:
-        choice = show_menu()
+        choice = show_menu(processor, dpi)
         
         if choice == '1':
             # Process specific file
-            process_specific_file(processor)
+            process_specific_file(processor, dpi)
             
         elif choice == '2':
             # Scan TEXTS folder
@@ -524,7 +503,7 @@ def interactive_mode(processor: AIORProcessor):
                 for i, pdf_file in enumerate(pdf_files, 1):
                     print(f"\n📄 Processing file {i}/{len(pdf_files)}: {pdf_file.name}")
                     
-                    if processor.process_pdf(pdf_file):
+                    if processor.process_pdf(pdf_file, dpi=dpi):
                         success_count += 1
                     
                     # Add delay between files
@@ -554,11 +533,6 @@ def interactive_mode(processor: AIORProcessor):
             input("\nPress Enter to continue...")
             
         elif choice == '7':
-            # List all processing scripts
-            list_processing_scripts()
-            input("\nPress Enter to continue...")
-            
-        elif choice == '8':
             # Exit
             print("👋 Goodbye!")
             break
@@ -594,12 +568,12 @@ def main():
             return 1
         
         print(f"🚀 Processing: {pdf_path}")
-        success = processor.process_pdf(pdf_path)
+        success = processor.process_pdf(pdf_path, dpi=args.dpi)
         
         return 0 if success else 1
     
     # Otherwise, run interactive menu
-    interactive_mode(processor)
+    interactive_mode(processor, args.dpi)
     return 0
 
 
