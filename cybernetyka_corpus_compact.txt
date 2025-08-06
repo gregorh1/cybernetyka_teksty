@@ -73,6 +73,31 @@ omawiać nie będziemy.
 W każdym społeczeństwie występują różne rodzaje bodźców, niektóre z
 ni...
 
+## cybernetyczna_analiza_mozliwosci_jednoczenia_europy-tiff.txt
+**Autor:** Józef Kossecki
+
+Cybernetyczna analiza możliwości jednocienia Europy
+
+Józef Kossecki
+
+1. Uwagi wstępne
+
+W niniejszej pracy zastosujemy metody polskiej szkoły cybernetyki ogólnej i cybernetyki społecznej do analizy możliwości jednocienia Europy.
+
+Zastosujemy wzorzec systemu autonomicznego (nazywanego dawniej układem samodzielnym), stworzony przez Mariana Mazury. System autonomiczny według jego definicji, to taki system, który:
+
+może się sam sterować,
+może przeciwdziałać utracie powyższej zdolności.
+W systemie autonomicznym muszą zachodzić procesy pobierania, przetwarzania i wydalania energii które w skrócie, za M. Mazurem, nazywać będziemy przebiegami energetycznymi i analogiczne procesy pobierania, przetwarzania i wydalania informacji, które M. Mazur nazwał przebiegami informacyjnymi.
+
+Unia Europejska staje się właśnie systemem autonomicznym, składającym się z podsystemów państw narodowych. W związku z tym możemy do naszych analiz zastosować Mazurowski wzorzec takiego systemu.
+
+Praca ta przeznaczona jest dla humanistów, zatem pomijam w niej całą sformalizowaną matematyczną stronę dowodową, którą zainteresowani czytelnicy mogą znaleźć w cytowanych książkach Mariana Mazury Cybernetyczna teoria układów samodzielnych (Warszawa 1975), Cybernetyka i charakter (Warszawa 1976) oraz moich książkach Cybernetyka społeczna (Warszawa 1981) i Cybernetyczna analiza systemów i procesów społecznych (Kielce 1996).
+
+2. Analiza przebiegów energetycznych
+
+Procesy sterowania w systemie autonomicznym wymagają przet...
+
 ## cybernetyka_kultury-ocr
 **Autor:** Józef Kossecki
 **Tematy:** cybernetyka
@@ -281,6 +306,30 @@ okres czasowy, trzeba najpierw wiedzieć co to jest czas.
 
 W przytoczonym wyżej tekście określającym pojęcie czasu jedynie defini-
 cja zaczerpnięta...
+
+## czy_swiat_zmierza_do_jednosci_czy_roznorodnosci-tiff
+**Autor:** Józef Kossecki
+
+czy_swiat_zmierza_do_jednosci_czy_roznorodnosci-tiff 
+Original PDF: czy_swiat_zmierza_do_jednosci_czy_roznorodnosci-tiff.pdf
+Processed with: AI OCR (qwen2.5vl:7b)
+Total pages: 6
+Processing date: 2025-08-06 00:16:10
+
+
+--- Page 1 ---
+the peculiarity of man 2(12)
+JEDNOŚĆ I RÓŻNORODNOŚĆ - WYZWANIE GLOBALIZACJI
+Czy świat zmierza do jedności czy różnorodności?
+Analiza cybernetyczna procesów globalizacji
+Józef Kossecki
+
+Wybitny polski cybernetyk Marian Mazur jest twórcą cybernetycznej teorii systemów autonomicznych, zdefiniowanych przez niego jako systemy mające:
+1) zdolność do samosterowania,
+2) możliwość przeciwdziałania utracie tej swojej zdolności.
+Stany systemu autonomicznego możemy opisywać jako funkcję czasu. Zbiór stanów systemu autonomicznego w określonym przedziale czasu nazywamy procesem autonomicznym.
+Suwerenne państwo możemy rozpatrywać jako system autonomiczny, zaś jego rozwój jako proces autonomiczny. W tym ujęciu stosunki międzynarodowe polegają na wzajemnym oddziaływaniu sterowniczym państw jako systemów lub procesów autonomicznych, którego celem jest uzyskanie jak największego udziału w procesach sterowania międzynarodowego.
+Jak wynika z cybernetycznej teorii systemów autonomicznych, o możliwościach sterowania przez dowolny tego rodzaju system jego otoczeniem decyduje wielkość jego mocy swobodnej i energii swobodnej, zaś w przypadku konfliktu interesów między nim a innymi takimi systemami stosunek wielkości energii swobodnej, którą może on użyć do sterowania swym o...
 
 ## dotychczasowy_rozwoj_a_perspektywy_demograficzne_polski_i_ue-ocr (1)
 **Autor:** Józef Kossecki
@@ -1150,6 +1199,41 @@ ków masowego przekazu informacji oraz nowoczesnych urządzeń
 przemysłowych przetwarzających duże ilości zarówno energom8ate-
 rii, jak i informacji, współczes...
 
+## procesy_sterowania_spolecznego_w_zakresie_norm_zdrowotnych_-tiff
+**Autor:** Józef Kossecki
+**Tematy:** sterowanie, społeczność
+
+procesy_sterowania_spolecznego_w_zakresie_norm_zdrowotnych_-tiff 
+Original PDF: procesy_sterowania_spolecznego_w_zakresie_norm_zdrowotnych_-tiff.pdf
+Processed with: AI OCR (qwen2.5vl:7b)
+Total pages: 5
+Processing date: 2025-08-06 00:21:20
+
+
+--- Page 1 ---
+STUDIA DEMOGRAFICZNE 45, 1976
+
+Józef Kossecki
+
+PROCESY STEROWANIA SPOŁECZNEGO
+W ZAKRESIE NORM ZDROWOTNYCH
+ORAZ ICH WPŁYW NA CAŁKOWITĄ MOC
+SPOŁECZNA 
+
+Dowolny obiekt materialny może być całkowicie określony za pomocą
+trzech najogólniejszych czynników:
+1) materiału, z którego jest ukonstytuowany,
+2) energii, którą przetwarza lub może przetwarzać,
+3) struktury, tj. rozmieszczenia materiału i energii w czasoprzestrzeni.
+
+W przypadku społeczeństwa rozpatrywanego jako układ zorganizowany
+(tj. taki, w którym zachodzą procesy sterownicze), za materiał, z którego
+układ jest ukonstytuowany, należy uważać ludzi, zaś miarą ilości materiału
+jest liczebność danego społeczeństwa, którą można też nazwać masą socjologiczną, albo w skrócie socjomasą.
+
+Za energię nagromadzoną w układzie społecznym należy uważać pracę,
+która dane społeczeństwo może wykonać, a nazywać ją można zdolnością roboczą lub zdolnością wykonawczą społeczeństwa; energią przetwarzaną przez społeczeństwo jako układ zorganizowany jest praca wykonywana przez nie, której wielkość możemy mierzyć, np. wielkością produkcji albo ilością usług wykonywanych przez społeczeństwo. Zdolność roboczą i energią przetwarzaną przez społeczeństwo nazywamy ogólnie energią socjologiczną albo so...
+
 ## relacja_prawda_falsz_w_ilosciowej_i_jakosciowej_teorii_informacji-ocr
 **Autor:** Józef Kossecki
 **Tematy:** informacja, teoria
@@ -1225,6 +1309,22 @@ czynienia w układach (systemach) statycznych,
 b) czynne czyli sprzęŜenia - które występują wówczas, gdy między
 obiektami ma miejsce przepływ masy i energii (energomaterii), z relacjami tego
 r...
+
+## rzymski_czy_bizantyjski-tiff
+**Autor:** Józef Kossecki
+
+rzymski_czy_bizantyjski-tiff 
+Original PDF: rzymski_czy_bizantyjski-tiff.pdf
+Processed with: AI OCR (qwen2.5vl:7b)
+Total pages: 3
+Processing date: 2025-08-06 00:19:38
+
+
+--- Page 1 ---
+M
+o da na Raport Rzymski prawdopodobnie przeminęłaby równie szybko jak inne gdyby nie to, że podstawowe tezy Raportu nadal są propagowane przez nie były jakie ośrodki ludnościowym w Bukareszcie delegacja "Światowy Plan Akcji", który ustalał zadania ograniczania przyrostu ludności dla określonych obszarów geograficznych i państw. Jeden z głównych autorów Raportu, profesor Dennis L. Meadows z Dartmouth College (USA), w wywiadzie udzielonym przedstawicielowi tygodnika "Kultura" stwierdził, że "zeroowa stopa wzrostu", która jest podstawowym postulatem Raportu, nie utraciła do dziś aktualności. "Dalszy przyrost ludności, wzrost produkcji przemysłowej oraz większe zużycie energii i zasobów naturalnych, zanieczyszczenia środowiska i coraz większy niedobór żywności wszystko to jest niestety faktem. Należy zmienić politykę wzrostu. Obecnie już ludność i zużycie w najszerszym sensie znaczenia tego słowa przewyższają zapasy. Grozi nam zawal. I stąd państwa powinny prowadzić taką politykę, która by gwarantowała stan stary równowagi ludności, zużycia materiałów i surowców, energii i żywności (...) Więc nie zmieniłem swoich poglądów myślę, że tylko "wzrost zerowy" może nas prowadzić do stanu równowagi światowej." ("Kultura" z 12 stycznia 1975).
+
+W odniesieniu do Polski stwierdza on we wspomnianym wywiadzie dl...
 
 ## socjo-cybernetyczna_analiza_nauki-tiff
 **Autor:** Józef Kossecki
@@ -1356,6 +1456,28 @@ tycznych. Podstawowym środkiem, przy pomocy którego ruchy poli-
 tyczne oddziaływały na szerokie masy społeczeństwa, była propagan-
 daą polityczna, której znaczenie i zasięg w nowoczesnych narodach
 stale wzrasta....
+
+## spoleczno-sterownicze_znaczenie_programowania_ideologicznego-tiff
+**Autor:** Józef Kossecki
+**Tematy:** społeczność
+
+spoleczno-sterownicze_znaczenie_programowania_ideologicznego-tiff 
+Original PDF: spoleczno-sterownicze_znaczenie_programowania_ideologicznego-tiff.pdf
+Processed with: AI OCR (qwen2.5vl:7b)
+Total pages: 3
+Processing date: 2025-08-06 00:22:03
+
+
+--- Page 1 ---
+Józef Kossecki
+Wyższa Szkoła Pedagogiczna, Kielce
+
+SPOŁECZNO-STEROWNICZE ZNACZENIE PROGRAMOWANIA
+IDEOLoGICZNEGO
+
+Jeżeli społeczeństwo rozpatrywać będziemy jako cybernetyczny układ samodzielny - tzn. taki układ, który może się sam sterować zgodnie z własnym interesem - wówczas sterowanie tym układem można podzielić na: a/ sterowanie za pomocą środków energetycznych /środki represyjne, środki ekonomiczne/, b/ sterowanie za pomocą środków informacyjnych /programowanie etyczne i ideologiczne/. W przypadku sterowania za pomocą środków energetycznych, na sterowanie musimy zużywać więcej energii niż w przypadku sterowania za pomocą środków informacyjnych. Np. ludzie, którzy pracują z pobudek etycznych lub ideologicznych, nie muszą być do pracy ani zmuszeni, ani kontrolowani, ani nawet tak wysoce opłacani, jak ludzie, którzy pracują pod wpływem represji czy też z chęci zysku.
+
+Procesami dyfuzji wszelkich norm społecznych - w tym również norm etycznych czy ideologicznych - rządzą analogiczne prawa jak procesami powstawania rejestratorów w korelatorach układów samodzielnych. Równania opisujące procesy rejestracji w korelatorze układu samodzielnego podał M. Mazur1, natomiast równania opisujące procesy dyfuzji norm społecznych wyprowa...
 
 ## subiektywne_i_obiektywne_metody_oceny_prawdziwosci_informacji_w_ujeciu_cybernetycznym-ocr
 **Autor:** Józef Kossecki
@@ -1841,6 +1963,29 @@ preferował rozwój tych dziedzin, które miały zastosowania praktyczne.
 Dopiero cywilizacja łacińska połączyła wszechstronny rozwój kategorii
 prawdy - rozumiany jako metodyczne dochodzenie do poznania prawdy
 obiektywnej - i kateg...
+
+## znaczenie_czasu_decyzyjnego_dla_struktury_organizacyjnej_spoleczenstwa-tiff
+**Autor:** Józef Kossecki
+
+znaczenie_czasu_decyzyjnego_dla_struktury_organizacyjnej_spoleczenstwa-tiff 
+Original PDF: znaczenie_czasu_decyzyjnego_dla_struktury_organizacyjnej_spoleczenstwa-tiff.pdf
+Processed with: AI OCR (qwen2.5vl:7b)
+Total pages: 4
+Processing date: 2025-08-06 00:23:23
+
+
+--- Page 1 ---
+Józef Kossecki
+Znaczenie czasu decyzyjnego dla struktury organizacyjnej społeczeństwa
+
+Problem właściwego doboru schematów organizacyjnych i metod zarządzania społeczeństwem nabiera dziś coraz większego znaczenia. Stan układu kierowniczego społeczeństwa jak stwierdził J. Szczepański w znacznej mierze przesądza o możliwościach rozwojowych całego społeczeństwa.
+
+Problem optymalizacji schematu zarządzania może być stawiany w różne sposoby. W niniejszym artykule zajmiemy się optymalizacją z punktu widzenia wydajności wykonawców oraz z punktu widzenia stabilności sprzężenia zwrotnego między kierownictwem a wykonawcami czyli, inaczej mówiąc, stabilności struktury organizacyjnej. Problem nasz rozpatrzymy w pewien specyficzny sposób zbadamy mianowicie wpływ czasu decyzyjnego zarówno na wydajność wykonawców, jak na stabilność struktury organizacyjnej społeczeństwa.
+
+Wydajność pracy wykonawców zależy od bardzo wielu czynników, takich jak stan narzędzi, kwalifikacje ludzi, technologia, itp. We współczesnych wysoce rozwiniętych społeczeństwach zaczyna się jednak wywazywać na czoło pewien czynnik, który często jeszcze jest nazywany czasem decyzyjnym.
+
+--- Page 2 ---
+Ośrodki podejmujące decyzje w nowoczesnych społecz...
 
 ## znaczenie_relacji_prawdy_do_ideologii_dla_spolecznych_procesow_poznawczych-ocr
 **Autor:** Józef Kossecki
@@ -2764,6 +2909,35 @@ polityki, która zajmuje się metodami rządzenia. W tym samym znaczeniu używa�
 Trentowski w pracy Stosunek filozofii do cybernetyki.
 Te historyczne ciekawostki mogą być interesujące o tyle, że wyjaśniają pochodzenie
 nazwy cybernetyka , a poza tym ...
+
+## sprzezenie_zwrotne_w_cybernetyce_i_automatyce-tiff
+**Autor:** Marian Mazur
+
+sprzezenie_zwrotne_w_cybernetyce_i_automatyce-tiff 
+Original PDF: sprzezenie_zwrotne_w_cybernetyce_i_automatyce-tiff.pdf
+Processed with: AI OCR (qwen2.5vl:32b)
+Total pages: 3
+Processing date: 2025-08-06 07:43:54
+
+
+--- Page 1 ---
+plaintext
+PRZEGLĄD ELEKTROTECHNICZNY
+R XL I z. 2
+
+Prof. dr M. MAZUR Sprzężenie zwrotne w cybernetyce i automatyce
+
+007:621-52
+
+Traktat. Omówiono pojęcie sprzężenia jako związku między obiektami polegającym na oddziaływaniach. Podano najogólniejsze wzory na sprzężenie zwrotne dodatnie i ujemne. Wprowadzono rozróżnienie sprzężeń zwrotnych zbieżnych i rozbieżnych.
+
+Teoretycznie każda zmiana zachodząca w jakimkolwiek punkcie przestrzeni wywołuje zmiany we wszystkich innych punktach. Znikomo małe i może być pomijana. Dzięki temu, bez szkody dla ścisłości rozważań, można wyodrębnić od siebie obiekty, które oddziaływania na określonych obiektach, z pominięciem pozostałych. W najprostszym przypadku będą wchodzić w grę tylko dwoma określonymi obiektami.
+
+Związek między obiektami dwoma polegający na oddziaływaniach nosi nazwę sprzężenia.
+
+Sprzężenie, w którym jeden obiekt oddziaływa na drugi, jest sprzężeniem prostym. Na rys. 1 występuje tylko oddziaływanie obiektu B na obiekt C, jest to sprzężenie proste.
+
+Sprzężenie, w którym jeden obiekt oddziaływa na drugi, a drugi obiekt oddziaływa na pierwszy, jest sprzężeniem zwrotnym. Sprzężenie zwrotne składa się więc z sprzężeń prostych przeciwnie skierowanych. Na rys. 2 występuje sprzężenie zwrotne między obiektami B...
 
 ## swiadome_dzialanie_jako_rozwiazanie_problemu_optymalizacyjnego-ocr
 **Autor:** Marian Mazur
