@@ -1,41 +1,38 @@
 === Franek_dok_medyczne_24_wrze_2025 ===
-Generated on: Tue Sep 30 18:25:46 CEST 2025
-Original PDF: TOPICS/padaczka/Franek_dok_medyczne_24_wrze_2025.pdf
-Total pages:       38
+Original PDF: Franek_dok_medyczne_24_wrze_2025.pdf
+Processed with: AI OCR (qwen2.5vl:7b)
+Total pages: 38
+Processing date: 2025-09-30 19:32:42
+Failed pages: 4, 5, 13, 14, 15, 23, 25, 31
+================================================================================
 
---- Page 01 ---
-rszae im. prof. K. Gibiń
-1ytelu Modycznego w Katowi:
-ga Rojostrowa nr 00
-Żakład I ecenict
-Ambulatoriim Coglana - 04
-PRZYKUNICZNA. PORADNIA OKULISTYCZNA. DLA-DZEGY:
-sko  mą«›mx        .ncglana 35
+--- Page 1 ---
+PRZYKLINICZNA PORADNIA OKULISTYCZNA DLA DZIECI
+Nazwisko i imię pacjenta: Kowalski Jakub
+Adres pacjenta: ul. Cegłana 35
+Data urodzenia: 2005-01-01
+Miejsce urodzenia: Uniowa z N/Z 121/101004
+Pielęgniarka: Kowalska Anna
+Ambulatorium Cegłana - 04
+Data uroczystości: 2022-11-23
+Rozpoznanie: V
+Cel wydania zaświadczenia: Wizyta w celu otrzymania dowodu tożsamości
+Zamieszkały(a): Kowalski Franciszek
+Pielęgniarka: Kowalska Anna
+Pielęgniarka: Kowalska Anna
+Wypełniać tylko w przypadkach uzasadnionych.
+W zaświadczeniu nie należy zamieszczać rozpoznania choroby, jeżeli z uwagi na cel wydania zaświadczenia nie jest to konieczne, bądź też zamieszczanie rozpoznania stanowiłoby naruszenie tajemnicy zawodowej.
+MZ-L1
 
-(  E Ę:›c&                                                           wydania zaświadczenia nic jest
-. Wypdn.ummwmw                    i z uwagi.na CA
+--- Page 2 ---
+Skierowanie
+Skierowanie do szpitala
+Oddział neurologiczny dla dzieci (4221)
 
-jeszczać rozpoznania.                               zenie tajemnicy zawodowej.
-+* W zaświadczeniu nie należy zami                      m«-›wy narus
-" ooniczne,pdź e zamieszczni ozpozania
+Kod dostępu 2533
+Wystawiono 10.03.2025
 
-Leowoao OP
-MZ-1    *leM*?/Q'QW WWMV
-
---- Page 02 ---
-Qskierowanie
-
-Skierowanie do szpitala                                                            &(f
-Oddział neurologiczny dla dzieci (4221)                                                -
-
-MATW LRLR
-
-10032193105853336471006501187732757989313740
-Prefiks ID 2.16.840.1.113883,3.4424.2.7.73268
-
-Kod dostępu 2533                    Wystawiono 10.03.2025
-
-Pacjent      Franciszek Hul
+Pacjent Franciszek Hul
 mężczyzna, ur. 12.01.2018
 41-218 Sosnowiec, ul. 11go Listopada 82
 
@@ -43,1878 +40,1163 @@ Wystawca Centrum Medyczne SENSEMED
 Poradnia Neurologiczna
 41-500 Chorzów, ul. Katowicka 21
 tel: +48797021021
+tel: +48797021021
 Kod res. I - 000000206315
-V-O1; VI -001:;VIl - 1220;
+V - 01, VII - 001-VIII - 1220.
 Regon 24084317800048
 
 Rozpoznania
-
-Główne: Padaczka samoisina (ogniskowa) (częściowa) i zespoły padaczkowe
-z napadami o złokalizowanym początku (G40.0)
+Główne: Padaczka samostna (ogniskowa) (częściowa) i zespoły padaczkowe
+z napadami o zlokalizowanym początku (G40.0)
 
 Inne informacje
 Proszę o przyjęcie na oddział Oddział neurologiczny dla dzieci (4221)
-Cel wydania: Dgn.: Padaczka z napadami ogniskowymi, wtórne uogólnionymi.
-
+Cel wydania: Dign. Padaczka z napadami ogniskowymi, wtórze uogólnionymi.
 Proszę o przyjęcie i badania kontrolne.
+
 Osoba wystawiająca
 Teresa Kleist
-
 PWZ lekarza 9624110
-Specjalizacje: Lekarz — specjalista neurologii dziecięcej
+Specjalizacja: Lekarz - specjalista neurologii dziecięcej
 
 Wszystkie e-skierowania znajdziesz na Internetowym Koncie Pacjenta.
 Zaloguj się na pacjent.gov.pl
 
 mMedica wersja 10.7.0.20404
 
-sp 7 k
-płnejarkot” — 30 / 34 90             MX /mww
-e li NAMO ZYBYSOOFS 4
+relaksator 32/3490/50 → tu pedejs kod
+dyslexia 12-1430 32/3490085
+tu wyzne cen
+teramin me
+teramin me
+pojros unesnie
+podc. 75. Choroba Trzchene
+labe Panie, me caco nie padawski nawa
+lektuv. zdroai cois dokumentacji
 
-W'LMM
-
-)-Mm„im  m
-
-19       ot, -1G               m Po ui
-%fw« % $,   ?1.  Uom)%' ]m«l«u@,  'u ueksku
-ĘDQ/ Pm  Ć u›xq dn'óung
-
-o-h       %)o
-
---- Page 03 ---
-Sosnowiec,10.12.2024 r.
-Franciszek Hul                          in paannaT ??
+--- Page 3 ---
+PORADNIA
+PSYCHOLOGII I PEDAGOGICZNA NR 2
+ul. Białołęcka 17
+41-218 SOSNOWIEC
+Franciszek Hul
 PESEL:18211204559
 ur. 12.01.2018 Pyskowice
-
 zam. 41-218 Sosnowiec, ul. 11-ego Listopada 82
 Przedszkole Miejskie nr 14
-
 41-200 Sosnowiec ul. Maliny 25
+Sosnowiec, 10.12.2024 r.
 
 Informacja o wynikach badań nr PPP 440/701/2024
 
-Wydana na podstawie: $ 6ust. 3 Rozporządzenie MEN z dnia ] lutego 2013r. w sprawie szczegółowych zasad działania
-publicznych poradni psychologiczno-pedagogicznych, w tym poradni specjalistycznych (Dz.U. z 2013 poz. 199)
+Wydana na podstawie: § 6 ust. 3 Rozporządzenie MEN z dnia 1 lutego 2013 r. w sprawie szczegółowych zasad działania publicznych poradnich psychologiczno-pedagogicznych, w tym poradni specjalistycznych (Dz.U. z 2013 poz.199)
 
-Aktualna ogólna sprawność intelektualna badanego mierzona Skalą Inteligencji Stanford-Binet 5
-plasuje się na poziomie inteligencji powyżej przeciętnej. Wyniki szczegółowe uzyskane przez osobę
-badaną wskazują, że rozwój jej funkcji intelektualnych przebiega nieharmonijnie w obszarze
-niewerbalnym.
+Aktualna ogólna sprawność intelektualna badanego mierzona Skalą Inteligencji Stanford-Binet 5 plasuje się na poziomie inteligencji powyżej przeciętnej. Wyniki szczegółowe uzyskane przez osobę badaną wskazują, że rozwój jej funkcji intelektualnych przebiega nieharmonijnie w obszarze niewerbalnym.
 
-Analiza psychogramu wskazuje, że Franciszek na poziomie adekwatnym do wieku opanował
-* umiejętność sprawnego rozwiązywania zadań logicznych, polegających na odkrywaniu relacji, w jakich
-
-pozostają względem siebie różne obiekty.
+Analiza psychogramu wskazuje, że Franciszek na poziomie adekwatnym do wieku opanował umiejętność sprawnego rozwiązywania zadań logicznych, polegających na odkrywaniu relacji, w jakich pozostają względem siebie różne obiekty.
 
 Potrafi wykrywać zmiany, którym podlegają kolejne elementy ciągu.
+Dobrze radzi sobie z rozpoznawaniem relacji pomiędzy elementami układu. Rozpoznaje reguły względem wzorca w zadaniu, dostrzega istotne elementy bądź niescisłości określonych sytuacji. Badany opisany czynnik lepiej rozwinął w obszarze werbalnym, czyli tym, który wymaga większego udziału języka.
 
-Dobrze radzi sobie z rozpoznawaniem relacji pomiędzy elementami układu. Rozpoznaje reguły
+Prezentowany przez badanego poziom wiedzy ogólnej świadczy o właściwej stymulacji rozwoju.
+Ocena rozumowania ilościowego rozumianego jako umiejętność rozwiązywania problemów i zadań matematycznych rozwija się na poziomie podobnym do reprezentowanego przez większość rówieśników chłopca.
 
-względem wzorca w zadaniu, dostrzega istotne elementy bądź nieścisłości określonych sytuacji. Badany
+Franciszek dobrze radzi sobie z zadaniami wzrokowo-przestrzennymi. Lepiej niż większość rówieśników dostrzega wzory, zależności w materiale wizualnym. Uzyskany wynik wskazuje również na dobrą orientację przestrzenną i rozumienie pojęć związanych z tym obszarem.
 
-opisany czynnik lepiej rozwinął w obszarze werbalnym, czyli tym, który wymaga większego udziału
+Na poziomie przeciętnym plasuje się zakres pamięci roboczej. Świadczy to o prawidłowym rozwoju tej kategorii procesów pamięciowych, w których różnorodne informacje umieszczone w pamięci krótkotrwałej są sprawdzane, grupowane i przekształcane. Dobra sprawność pamięci roboczej stanowi warunek efektywnej pracy umysłowej nad różnorodnymi zadaniami.
 
-języka.
-
-Prezentowany przez badanego poziom wiedzy ogólnej świadczy o właściwej stymulacji rozwoju. .
-
-Ocena rozumowania ilościowego rozumianego jako umiejętność rozwiązywania problemów i zadań
-
-matematycznych rozwija się na poziomie podobnym do reprezentowanego przez większość
-
-rówieśników chłopca.
-
-Franciszek dobrze radzi sobie z zadaniami wzrokowo-przestrzennymi. Lepiej niż większość
-
-rówieśników dostrzega wzory, zależności w materiale wizualnym. Uzyskany wynik wskazuje również
-
-na dobrą orientację przestrzenną i rozumienie pojęć związanych z tym obszarem.
-
-Na poziomie przeciętnym plasuje się zakres pamięci roboczej. Świadczy to o prawidłowym rozwoju tej
-
-kategorii procesów pamięciowych, w których różnorodne informacje umieszczone w pamięci
-
-krótkotrwałej są sprawdzane, grupowane i przekształcane. Dobra sprawność pamięci roboczej stanowi
-
-warunek efektywnej pracy umysłowej nad różnorodnymi zadaniami.
-
-W trakcie badanie chłopiec nieco wycofany i nieśmiały, badanie w obecności mamy.
+W trakcie badanie chłopiec umysłowej nieco wycofany ani nieśmiały, badanie w obecności mamy.
 
 Wyniki liczbowe z badania Stanford Binet z dnia 10.12.2024 r. przedstawiają się następująco:
-IQ=110 NW IQ=105, WIQ=113
+
+IQ= 110 NW IQ=105, W IQ = 113
+
 Wyniki przeliczeniowe w poszczególnych podtestach przedstawiają się następująco:
 
 Obszar Niewerbalny (NW)
-
-Rozumowanie płynne -9
-
-Wiedza — 10
-
-Rozumowanie Ilościowe — 9
-
-Przetwarzanie Wzrokowo Przestrzenne — 15
-Pamięć Robocza — 11
+Rozumowanie płynne - 10
+Wiedza – 10
+Rozumowanie Ilościowe – 9
+Rozumowanie Ilościowe – 9
+Przetwarzanie Wzrokowo Przestrzenne – 15
+Przekształca – 15
+Pamięć Robocza – 11
 
 Obszar Werbalny (W)
-Rozumowanie Płynne — 15
-Wiedza — 11
+Rozumowanie Płynne – 15
+Rozumowanie Ilościowe – 12
 
-Rozumowanie Ilościowe — 12
+--- Page 4 ---
+[OCR FAILED]
 
---- Page 04 ---
-Przetwarzanie wzrokowo Przestrzenne -13
-Pamięć Robocza — 9
+--- Page 5 ---
+[OCR FAILED]
 
-Badaniem pedagogicznym stwierdza się, iż sprawności dziecka w zakresie funkcji słuchowo-
-językowych rozwijają się prawidłowo, przekraczając niekiedy normy przewidziane dla wieku dziecka.
-Chłopiec potrafi sprawnie identyfikować słowa rymujące się. Umiejętność abstrahowania głoski w
-wygłosie (na końcu słowa) rozwija się na poziomie powyżej przeciętnej. Badany bardzo sprawnie dzieli
-słowa na głoski. Umiejętność syntezy głoskowej kształtuje się na poziomie wysokim. Funkcje
-wzrokowo-przestrzenne istotne dla procesu czytania i pisania rozwijają się na poziomie adekwatnym do
-wieku ucznia. Do mocnych stron badanego chłopca zaliczyć należy z całą pewnością sprawność w
-zakresie analizy i syntezy wzrokowej w pracy z materiałem przestrzennym. Uczeń bardzo umiejętnie
-odtwarza konstrukcje przestrzenne na podstawie schematów. Chłopiec jest dzieckiem bardzo
-spostrzegawczym. Jego percepcja wzrokowa, rozumiana jako zdolność identyfikowania istotnych
-braków w polu percepcyjnym, rozwija się na poziomie istotnie przekraczającym normy wiekowe. Uczeń
-bardzo sprawnie analizuje prezentowany materiał wizualny. Chłopiec dobrze radzi sobie z zadaniami
-wymagającymi sprawnej koordynacji wzrokowo-ruchowej. Dobrze, jak na swój wiek, odtwarza
-podstawowe figury geometryczne według wzoru. Przeprowadzone badanie wykazało prawidłowy
-rozwój pamięci wzrokowej. Chłopiec nie ma trudności z utrzymaniem w pamięci krótkotrwałej
-materiału prezentowanego wzrokowo. Rozwój poznawczy chłopca nie budzi zastrzeżeń. Chłopiec
-dysponuje bogatym zasobem słownictwa. Bardzo sprawnie porządkuje elementy w obrębie prostych
-kategorii. Zdolność wyłączania obiektów niepasujących do danej kategorii rozwija się w stopniu
-przekraczającym normy wiekowe. Badanie podstawowych umiejętności matematycznych - takich jak
-przeliczanie obiektów, dodawanie i odejmowanie w zakresie dwunastu - wskazuje, że chłopiec w
-obszarze tym istotnie przewyższa większość swoich rówieśników. Chłopiec dysponuje dość ograniczoną
-wiedzą o swoim bliższym i dalszym otoczeniu społecznym. Znajomość zasad i konwencjonalnych
-standardów zachowania wymaga dalszego utrwalenia. Chłopiec zdaje się stosować mało dojrzałe
-strategie w sytuacjach społecznych postrzeganych jako trudne. Rzadko podejmuje próbę samodzielnego
-rozwiązania problemu - najczęściej uciekając się do pomocy dorosłych. Uczeń nie ma trudność z
-interpretowaniem stanów emocjonalnych u innych osób. Zna nazwy emocji podstawowych i prawidłowo
-przyporządkowuje je do odpowiedniej ekspresji mimicznej. Chłopiec ma jeszcze kłopot z poprawnym
-rozróżnianiem strony lewej od prawej w otaczającej go przestrzeni. Nie ma trudności w prawidłowym
-rozumieniu określeń odnoszących się do relacji między przedmiotami (między, przed, za itp.).
-Przeprowadzone próby diagnostyczne wykazały prawidłowy rozwój motoryki małej. W niektórych
-obszarach sprawność motoryczna chłopca przekracza normy wiekowe. Sprawność grafomotoryczna
-rozumiana jako umiejętność posługiwania się narzędziami graficznymi (kredka, ołówek itp.) kształtuje
-się na poziomie wysokim. Chłopiec bardzo sprawnie wykonuje próby grafomotoryczne, wymagające
-płynności i precyzji ruchów ręki dominującej, a będące podstawą pisania. Chłopiec bardzo sprawnie
-wykonuje zadania wymagające koordynacji wzrokowo-ruchowej i sprawnej współpracy palców obu
-dłoni przy manipulowaniu drobnymi elementami (nawlekanie koralików). Rozwój motoryki dużej
-przebiega prawidłowo.
-
-( informację wydaje się na prośbę rodzica celem przedłożenia lekarzowi)
-
-Informację sporządził                                       PEDAGOG, SURDOPEDAGOG
-mgr J. Kuciński - psycholog
-
-mgr K. Borys- Piotrowska - pedagog              WW«:
-
-PSYCHOLOG
-
-mgr Jan Kuciński                                                             mo
-
---- Page 05 ---
-Centrum Medyczne SENSEMED                                                                                                       Data wydruku: 2025-03-10
+--- Page 6 ---
 Centrum Medyczne SENSEMED
-
+Centrum Medyczne SENSEMED
 41-500 Chorzów, ul. Katowicka 21
-
 Tel.: +48797021021
-
 REGON: 24084317800048
-
+REGON: 24084317800048
 Kod res. cz. I: 000000206315
-
-Kod res. cz. V: 01 — Poradnia Neurologiczna
-
-Kod res. cz.       01 — Poradnia Neurologiczna
-
-Kod res. cz. VIII: 1220 — Poradnia neurologiczna
-
+Kod res. cz. V: 01 - Poradnia Neurologiczna
+Kod res. cz. VII: 001 - Poradnia Neurologiczna
+Kod res. cz. VIII: 1220 - Poradnia neurologiczna
 Płatnik: świadczenie nierefundowane przez NFZ
-
-Historia zdrowia i choroby w części dotyczącej
-porad ambulatoryjnych lub wizyt domowych
-
-Pacjent: Hul Franciszek                      PESEL: 18211204559       Płeć: M   Data ur.: 2018-01-12
-Adres: 41-218 Sosnowiec, ul. 11go Listopada 82                                                OWNEFZ: 12
+Data wydruku: 2024-11-04
+Historia zdrowia i choroby w części dotyczącej porad ambulatoryjnych lub wizyt domowych
+Pacjent: Hul Franciszek
+PESEL: 18211204559
+Płeć: M
+Data ur.: 2018-01-12
+Adres: 41-218 Sosnowiec, ul. 11go Listopada 82
+OW NFZ: 12
 Przedstawiciel ustawowy: Hul Katarzyna, 41-218 Sosnowiec, ul. 11go Listopada 82
-
-Data:        2025-03-10 godz. 17:58
-
-Rodzaj:      Porada ambulatoryjna, Specjalistyczna -
-
-Realizujący: Kleist Teresa; Lekarz — specjalista neurologii dziecięcej; NPWZ: 9624110
+Data: 2024-11-04 godz. 18:45
+Rodzaj: Porad ambulatoryjna, Specjalistyczna
+Realizujący: Kleist Teresa; Lekarz - specjalista neurologii dziecięcej; NPWZ: 9624110
 Przyjęcie: Bez skierowania
-
-Pod opieką Rodziców,
-Lat 7
-
-—  Poprzednia wizyta 4.11.2024.
-Kontynuowany w leczeniu Cezarius 2 x 2 ml
-
-Pozostaje bez napadów padaczkowych od 5.09.2024.
-
-Rozpoczęto terapię biofeedback.
-
-Wg Rodziców w trakcie terapii zmniejszenie nasilenia zmian w trakcie QFEG.
-
-Nie zgłasza dolegliwości
-
-Uczęszcza do przedszkola, radzi sobie dobrze.
-
-'W opinii psychologiczno- pedagogicznej (10.12.2024) - rozój intelektualny na poziomie przeciętnym IQ= 110, NW IQ= 105, W
-IQ= 113.
-
-ni
-W badaniu neurologicznym: bez cech zespołu neyrologicznego.
-
-Dgn.: Padaczka z napadami ogniskowymi, wtórnie uogólniającymi się.
-
-Zalecenia:
-
-1. Podawać lek p/padaczkowy: Cezarius 2 x 2 ml.
-
-2. Prowadzenie kalendarzyka napadów padaczkowych.
-
-3. W razie nasilenie niepokoju włączyć Vit B6 0,05 1 x 1 tabl.
-
-4. W razie wystąpienia napadu uogólnionego, drgawkowego ułożyć pacjenta w pozycji bezpiecznej na boku; w razie
-przedłużania się napadu powyżej 5 min podać na śluzówkę policzka Buccolam 7,5 mg, wezwać pogotowie.
-
-5. Dalsza opieka pediatryczna. Odroczenie od szczepień ochronnych do odwołania.
-
-6. Kontrolne badania w Oddziale Neurologii Dziecięcej - wydano e-skierowanie.
-
-7. Kontrola w Poradni Neurologicznej dla Dzieci za ok. 4m-ce.
-
-wi
-G40.0 - Padaczka samoistna (ogniskowa) (częściowa) i zespoły padaczkowe z napadami o zlokalizowanym początku  RA
-w@e@(a
-* Skierowanie do szpitala                             *                                                                                    WJA
-Oddział neurologiczny dla dzieci; Rozp.: G40.0 — Padaczka samoistna (ogniskowa) (częściowa) i zespoły padaczkowe z nópadami
-o zlokalizowanym początku
-Kod dostępu: 2533
-
-Przepisane leki
-* Cezarius; roztw. doustny 100 mg/ml; 1 op. x but. 300 ml; Dawkowanie: 2 x 2 ml; podanie: doustnie; Odpł.: R
-Kod dostępu: 1991
-
-Wizyta 2 | Strona 1
-mMedica wersja 10.7.0.20404
-
---- Page 06 ---
-Centrum Medyczne SENSEMED                                                                                                                    Data wydruku: 2024-11-04
-Centrum Medyczne SENSEMED
-
-41-500 Chorzów, ul. Katowicka 21
-
-Tel.: +48797021021
-
-REGON: 24084317800048
-
-Kod res. cz. I: 000000206315
-
-Kod res. cz. V: 01 — Poradnia Neurologiczna
-
-Kod res, cz. VII: 001 — Poradnia Neurologiczna
-
-Kod res. cz. VIII: 1220 — Poradnia neurologiczna
-
-Płatnik: świadczenie nierefundowane przez NFZ
-
-Historia zdrowia i choroby w części dotyczącej
-porad ambulatoryjnych lub wizyt domowych
-
-Pacjent: Hul Franciszek                       PESEL: 18211204559       Płeć: M    Data ur.: 2018-01-12
-Adres: 41-218 Sosnowiec, ul. 11go Listopada 82                                                OWNEZ: 12
-Przedstawicie/ ustawowy: Hul Katarzyna, 41-218 Sosnowiec, ul. 11go Listopada 82
-
-Data:        2024-11-04 godz. 18:45
-
-Rodzaj:      Porada ambulatoryjna, Specjalistyczna
-
-Realizujący: Kleist Teresa; Lekarz — specjalista neurologii dziecięcej; NPWZ: 9624110
-Przyjęcie:  Bez skierowania
-
+Wywiad
 Pod opieką Rodziców.
 Lat 6,5
 Wywiad rodzinny: nieobciążony.
-Wywiad ciążowo-porodowy: C VII, prawidłowa, P VI, o czasie, SN, Apgar 10pkt, m.ur. 4850g. Przesiewowe badanie słuchu w
-normie.
+Wywiad ciążowo-porodowy: C VII, prawidłowa, P VI, o czasie, SN, Apgar 10pkt, m.ur. 4850g. Przesiewowe badanie słuchu w normie.
 Rozwój psychoruchowy w granicach normy.
-Uczęszcza do przedszkola od 3 r.ż., radzi sobie dobrze.
-W dniu 19.05.2021r po południu, w czasie snu, znaleziony w trakcie drgawek z przewagą kończyn górnych i strony prawej,
-oraz lewej strony twarzy, ślinotok, oczy zamknięte, bezwiedne oddanie moczu. Przewieziony do szpitała., hospitalizowany 19-
-21.05.2021: TK głowy bez zmian, EEG zapis nieprawidłowy.
-MR głowy (3.08.2021) - obraz mózgowia w granicach normy dla wieku. Zalecono obserwację.
+Uczęszcza do przedszkola od 3 r.z., radzi sobie dobrze.
+W dniu 19.05.2021r po południu, w czasie snu, znaleziony w trakcie drgawek z przewagą kończyn górnych i strony prawej, oraz lewej strony twarzy, slinotok, oczy zamknięte, bezwiedne oddanie moczu. Przewleczony do szpitala., hospitalizowany 19-21.05.2021. TK głowy bez zmian, EEG zapis nieprawidłowy.
+MR głowy (3.08.2021) - obraż móżgowia w granicach normy dla wieku. Zalecono obserwację.
 Kontrolowane zapisy EEG nieprawidłowe.
-W dniu 5.09.2024 w czasie snu zauważono obserwowany napad o morfologii toniczno-klonicznego, podano Relsed. Napad
-trwał ok. 15 min.
-Hospitalizowany w KNWR w Katowicach 5-11.09.2024 - MR głowy obraz mózgowia w granicach normy. W EEG czuwania,
-senności i snu zapis nieprawidłowy ze zmianami zlokalizowanymi w lewej okolicy tylnoskroniowo-centralno-ciemieniowej,
-narastające we śnie, z propagacją do strony prawej.
-Zalecono włączenie do leczenia Vetiry do dawki 2 x 100mg.
+W dniu 5.09.2024 w czasie snu zauważono obserwowany napad o morfologii toniczno-klonicznego, podano Relsed. Napad trwał ok. 15 min.
+Hospitalizowany w KNWR w Katowicach 5-11.09.2024 - MR głowy obraz móżgowia w granicach normy. W EEG czuwania, senności i sen zapis nieprawidłowy ze zmianami lokalizowanymi w lewej okolicy tylnoskroniowo-centralno-ciemienniowej, narastające we śnie, z propagacją do strony prawej.
+Zalecono włączenie do leczenia Vetrixy do dawki 2 x 100mg.
 Od tego czasu nie obserwowano napadów padaczkowych.
-Kontrolowane EEG w czuwaniu (28.10.2024) - zapis nieprawidłowy ze zmianami zlokalizowanymi i złateralizowanymi
-lewostronnie, nasilającymi się w trakcie FS i HW.
-Zaplanowana terapia biofeedback.
-%           fizykaln
-
-Aktualnie w badaniu neurologicznym:
-
-- głowa kształtna, obw. 51cm, niebolesna,
-
-- nn czaszkowe symetryczne, prawidłowe,
-
-- siła i napięcie mięśniowe symetryczne, w granicach normy,
-
-- odr ścięgnisto-okostnowe symetryczne, prawidłowe,
-
-- odr patologiczne nieobecne,
-
-- zborność prawidłowa, próba Romberga ujemna,
-
-- chód prawidłowy, czucie zachowane,
-
-WNIOSKI: W badaniu neurologicznym: bez cech zespołu neurologicznego.
-
-Waga ok. 21,7 kg.
-
-Dgn.: Padaczka z napadami ogniskowymi, wtórnie uogólniającymi się.
-
-Zalecenia:
-
-1. Podawać lek p/padaczkowy: Cezarius zwiększyć do dawki 2 x 2 ml.
-2. Prowadzenie kalendarzyka napadów padaczkowych.
-
-3. W razie nasilenie niepokoju włączyć Vit B6 0,05 1 x 1 tabl.
-
-4. W razie wystąpienia napadu uogólnionego, drgawkowego ułożyć pacjenta w pozycji bezpiecznej na boku; w razie
-przedłużania się napadu powyżej 5 min podać na śluzówkę policzka Buccolam 7,5 mg, wezwać pogotowie.
-
-5. Dalsza opieka pediatryczna. Odroczenie od szczepień ochronnych do odwołania.
-6. Kontrolne badania laboratoryjne: morfologia, AspAt, AlAt, jonogram, TSH.
-7. Kontrola w Poradni Neurologicznej dla Dzieci za ok. 4m-ce.
-
 Wizyta 1 | Strona 1
+Badanie fizykalne
+Aktualnie w badaniu neurologicznym:
+- głowa kształtna, obw. 51cm, nieboleśna,
+- nn czaszkowe symetryczne, prawidłowe,
+- siła i napięcie mięśniowe symetryczne, w granicach normy,
+- odr ścieżnico-okostnowe symetryczne, w granicach normy,
+- odr patologiczne nieobecne,
+- odr Romberga, prawidłowe,
+- chód prawidłowy, czucie zachowane,
+- zborność prawidłowa, próba Romberga ujemna,
+- chód prawidłowy, czucie zachowane,
+- W badaniu neurologicznym: bez cech zespołu neurologicznego.
+Wnioski:
+Wnioski:
+W badaniu neurologicznym: bez cech zespołu neurologicznego.
+Waga ok. 21,7 kg.
+Dgn.: Padaczka z napadami ogniskowymi, wtórnie uogólniającymi się.
+Zalecenia:
+1. Podawać lek p/padaczkowy: Cezarius zwiększyć do dawki 2 x 2 ml.
+2. Prowadzenie kalendarzka napadów padaczkowych.
+3. W razie nasilenie niepokoju włączyć Vit B6 0,05 1 x tabl.
+4. W razie wystąpienia napadu uogólnionego, drgawkowego ułożyć pacjenta w pozycji bezpiecznej na boku; w razie przedłużania się napadu powyżej 5 min podać na ślużówkę policzka Buccolam 7,5 mg, wezwać pogotowie.
+5. Dalsza opieka pediatryczna.
+6. Kontrolne badania laboratoryjne: morfologia, AspAt, AAT, jonogram, TSH.
+7. Kontrola w Poradni Neurologicznej dla Dzieci za ok. 4m-ce.
 mMedica wersja 10.7.0.20404
+neurologia
 
---- Page 07 ---
-www.SENSEMED.pl                Centrum Medyczne SENSEMED ' EEG2/32 opis zapisu
-
-ó    Katowicka 21
-dr Paweł Dobrakowski          41-500 Chorzów, ul
-tel. +48 797 021 021 www.sensemed.pl    [ Em    :
-5                842174-00068-——            "
-
-m                                "=" 954-T65:20-6T
-
-Pacjent      Hul Franciszek                      NFZ                    Vek pri natśceni : -       Adres
-| PESEL      18211204559          Lekarz kierujacy
-i  oZp.
-3 Leczenie
-Ę Zarejestrowa2024-10-28 11:02:06      Dlugosc 0:20:00               ID Systómu :
-: Archiwizacja                        Zapis  r1.18211204559
+--- Page 7 ---
+www.SENSEMED.pl
+Centrum Medyczne SENSEMED EEG2/32 opis zapisu
+dr Paweł Dobrakowski
+41-500 Chorzów, ul. Katowicka 21
+tel. +48 797 021 021 www.sensemed.pl
+Degmed
+Pacjent Hul Franciszek
+NFZ
+tel. +48 797 021 021 www.sensemed.pl
+PESEL 18211204559
+Lekarz kierujący
+Rozp.
+Leczenie
+Zarejestrowa 2024-10-28 11:02:06
+Długosc 0:20:00
+ID Systemu :
+Archiwizacja
+Zapis r1.18211204559
 Badanie EEG
-
 Badanie wykonano w czuwaniu. Lewetiracetam 2 x 100 mg
 Zapis wysokonapięciowy, dobrze zróżnicowany przestrzennie.
-W okolicach przednich rejestruje się rytmy szybkie beta.
-Znad okolic tylnoskroniowo-ciemieniowo-potylicznych rejestruje się rytm alfa ok. 8 Hz o amplitudzie do
-120 pVoraz fale theta 7-8 Hz. Widoczne obszerne uogólniające się fragmenty czynności theta 6-7 Hz o
-amplitudzie do 250 uV- przewaga lewostronna.
-Znad lewej półkuli rejestruje się również zespoły fala ostra-wolna, iglica fala wolna.
-Reakcja zatrzymania rytmu alfa zaznaczona, symetryczna.
-"stostymulacja nieco aktywuje zapis.
->iperwentylacja zwiększa udział fal theta w zapisie.
+W okolicach przednich rejestruje się ryty szybkie beta.
+Znad okolic tylnoskroniowo-ciemieniowo-potylicznych rejestruje się rytm alfa ok. 8 Hz o amplitudzie do 120 µVoraz fale theta 7-8 Hz. Widoczne obszerne uogólniające się fragmenty czynności theta 6-7 Hz o amplitudzie do 250 µV - przewaga lewostronna.
+Znad lewej półkuli rejestruje się rytm alfa zaznaczona, symetryczna.
+Reakcja zatrzymania rytmu alfa zaznaczona.
+Rotostymulacja nie aktywuje zapis.
+Hipertymulacja nie aktywuje zapis.
 Grafoelementów padaczkokształtnych nie zarejestrowano.
-
-Analizowany zapis nieprawidłowy- zmiany napadowe z tendencją do lateralizacji.
+Analizowany zapis nieprawidłowy - zmiany napadowe z tendencją do lateralizacji.
 Zakres zmian porównywalny do badania z 06.09.2024
-
 PAWEŁ DOBRAKOWSKI
-UICENCJA EEG 571
+LICENCJA EEG 571
 
+--- Page 8 ---
+Hul: 02:39/0:2000 25mm/s
+Franciszek Vek: -- Dg: datum: 2024-10-28 11:02:06
+Medication:
 
---- Page 08 ---
-Franciszek Vśk: - Dg: datum: 2024-10-28 11:02:06,                                  ,                  ]1,150uV 0.5 - 40Hz
-0:00 25mm/s Medication :                   (                                       (                =]
-
-p               E
-
-Fp1-F7  /NĄ W 4 WNWWWĄV m   ”VĄ/ĄN»X   /””W*/  r M”WĄI/ X   R ZW A y A MZ e
-
-T3-T5    ”M/”Mm
-
- TTTTT
-
- FFFFF
-
- CCCCC
-
-m „A/w»wwfv WMKWĄ  mwwwwv AI WWMWWMM
-
-|                ner ARN p
-y  WWW%%MWWM»WW
-
-MAWĄNWMWV*—WWWWWWW M NJr A o y A,/X/W
-
- zzzzzz
-
-Fp2-F4  'WTĄĄ/”WWWMWWMMMW W% /J/WNWWWVM
-
-RRA A Y W A e
-
-W
-
-AWA UWr WJWWWWMWMWŁMW mew
-b,  MWMW_MWWAWĄV MWW_Ą/ NN N YY WN r
-T4-T6  ~M%J”*'~VWWWWMVMW~›/JW ee wr BA Ar Rr R AA o WWW
-T6-02 ~WMNWW/X/VWWVWWAMWW—%W   s      r y r Nn j AA WNA
-
---- Page 09 ---
-YA A rr ł W p M Mr wwaifeemo z,
-WWWWWWW»_MWWW
-PY NN A
-YD AN RN yyy y UN h PAr
-
-AA AA
-
-ZWA b rWr Y ANA
-rrrr WWMWWVMX W/ĄL„%M%M%
-
-_A            7             ź
-nn         PA s
-
-u
+--- Page 9 ---
+Hull: 03:11/0.2000 25mm/s
+Fp1-F7
+F7-T3
+T3-T5
+T5-O1
+Fp1-F3
+F3-C3
+C3-P3
+P3-O1
+Fz-Cz
+Cz-Pz
+Fp2-F4
+F4-C4
+C4-R4
+P4-O2
+Fp2-F8
+F8-T4
+T4-T6
+T6-O2
+Franceszek Vak -- Dg: datum: 2024-10-28 11:02:06
+Hull: 03:11/0.2000 25mm/s
+Fp1-F7
+F7-T3
+T3-T5
+T5-O1
+Fp1-F3
+F3-C3
+C3-P3
+P3-O1
+Fz-Cz
+Cz-Pz
+Fp2-F4
+F4-C4
+C4-R4
+P4-O2
+Fp2-F8
+F8-T4
+T4-T6
+T6-O2
+Franceszek Vak -- Dg: datum: 2024-10-28 11:02:06
 
 --- Page 10 ---
-vVWWWWWWW"”VW%WWVNWWMWWWWM Wr e ZHOZ- O04 n ggoyd qo'SLq/Ww”wwWW,Jw'    zo-91
-
-WWWWMWWWMNWMWWW W—/”›w—fuv—/;wv eG AAA A 9LPL
-
-k              :   WWMMNWWWWM  ZĘCE]
-
-WWMMMWWMMMWMWW%W   WWWWM 8a4-zda
-
-BAAr UN AA j or y AN AĄ PAN RAA J C     N@WWĄĄA„W zO-vd
-
-VVW/WWWWWVWVWWWMĄWWWWWW@W y rY A AA | PO
-|                                                              x
-
-ADA AAA N r / łr i p A n N
-
-er AA WJ er Pr TNA e AAAr NI ł pr , MĄ' AAAr N eri r yr N e y Ł d" p d
-
-— z
-zHO7 - S'O MMOSLY
+Franciszek Wąk -- Dg: datum: 2024-10-28 11:02:06
+Hul: 09:30/0:20:00 25mm/s Medication:
+Fp1-F7
+F7-T3
+T3-T5
+T5-O1
+Fp1-F3
+F3-C3
+C3-P3
+P3-O1
+Fz-Cz
+Cz-Pz
+Fp2-F4
+F4-C4
+C4-P4
+P4-O2
+Fp2-F8
+F8-T4
+T4-T6
+T6-O2
+150µV 0.5 - 40Hz
+photo 20Hz
+Stop photo
 
 --- Page 11 ---
-AH
-M mawmaaMnąMww WX/MMW/XMNWW/VV      yyy vfo/VW M     z0-91
-
-MMWWWWMWWWWWW@WMWN& nyomh 84Zd
-AM /VVVW/X/WW           ee NAA AAAr W r    Wn zOrbd
-WK/W/'WWWW ns-        PAANA o
-
-Am pr e A Ą AU                          vO-va
-
-|     AAA A A WA AAA
-U      WWMWWW MMHJ MW”W W WVWVW*W „WWWWMWW WA A tosu
-WWWW%NW%WWWWWWW  sui
-%/W ”/WWV raeybryyA yyr wm N y ąy M rr Pr GLri
-
-eee SRAAN   x_/vwww Paynya YNN ONJ Syear Y NĄ  WWMMW MW 44-)d4
-
-B m
+Hul 14/52/0:2000 25mm/s
+HV Usta START
+Franciszek Vák. -- Dg. datum: 2024-10-28 11:02:06
+150µV 0.5 - 40Hz
 
 --- Page 12 ---
-,                        ,         „      v1'84
-
-„         „    %ŚĘĘĘŚ E 84-Zd4
-ź%śśś%%śś%%źśłśźś%%źź zorbd
-ż%%ź%ł<£ź€%&f%%źżś%ź?% td:bO
-
-f                                                                                                                                                                                                                                                               A
-RAA W W rr y                <;%ŚŚĘŚ%%Ś   v4-Zd4
-
-Z(Ś%%Śźźśźź%%%ź ZYZJĄN                      8>>>x,      zoza
-
-€d'£O
-Śę/>>/    €o-t4
-4-|da
-
-;i/)%ąłz??xf ĄE%ŚŚŚŚŚ?Ś_?JĘŚŁ/%?%    LO-SL
-
-j
-Y
-YA U R e WNA X%sf«l(/lśg?x R yy ąy p WNA eer tem r, ÓGTN TNW X>„,.?; D L d
-
- mmmmm
-
+Hul:1943/0.2000 25mm/s
+Fp1-F7
+F7-T3
+T3-T5
+T5-O1
+Fp1-F3
+F3-C3
+C3-P3
+P3-O1
+F2-Cz
+Cz-Pz
+Fp2-F4
+F4-C4
+C4-P4
+P4-O2
+Fp2-F8
+F8-T4
+T4-T6
+T6-O2
+Franciszek Vák. -- Dg: datum: 2024-10-28 11:02:06
+Medication:
 
 --- Page 13 ---
-Górnośląskie Centrum Zdrowia Dziecka im. św Jana Pawła II
-Samodzielny Publiczny Szpital Kliniczny Nr 6 Śląskiego Uniwersytetu Medycznego w Katowicach
-+                                40-752 Katowice, ul. Medyków 16 tel. 32 207 18 00 fax. 32 207 15 46
-
-www.gczd.katowice.pl adres e-mail: sekretariat(bgczd.katowice.pl
-REGON: 001415000, NIP: 6342346590 cz. kodu resortowego: 000000018596, Przedsiębiorstwo: Szpital Jednostka: Szpital V cz. kodu resortowego: 01
-
-ODDZIAŁ PEDIATRII I NEUROLOGII WIEKU ROZWOJOWEGO
-
-MIl cz. kodu resortowego: 003 VIII cz. kodu resortowego: 4221
-
-KARTA WYPISOWA
-Nazwisko i imię: HUL FRANCISZEK                                    Płeć: M Wiek: 6lat 7 mies.                 Nrks. gł.: 32130/24
-PESEL: 18211204559                                                     Data urodzenia: 12.01.2018             Nr ks. oddz.: 01407/24
-
-Adres zamieszkania: 41-200 SOSNOWIEC, ul. UL. 11 LISTOPADA 82
-
-1   SZPITALNY ODDZIM. RATUNKOWY w dnlach                                                        05.09.2024 - 06.09.2024
-2. ODDZIAŁ PEDIATRII I NEUROLOGII WIEKU ROZWOJOWEGO w dniach:                      06.09.2024 - 11.09.2024
-Trvb wypisu: Wypisany ze szpitala
-
-Wypisany ze szpitala : Kontynuacja leczenia w lecznictwie ambulatoryjnym
-
-'OCZĄTKU
-
-1. Dieta adekwatna do wieku dziecka. Odpowiednia podaż płynów. Kontrola przyrostu masy dziecka.
-
-2. Kontrola TSH, morfologii krwi, badanie w kierunku pasożytów oraz badanie ogólne moczu w ramach lekarza rodzinnego.
-
-3. Stała kontrola w Poradni Neurologicznej dla dzieci (wystawiono skierowanie).
-
-4. Leczenie przeciwpadaczkowe Vetira 100mg/ml 1ml-0-1ml p.o. (wystawiono receptę).
-
-5. W razie przedłużającego się napadu drgawkowego podać Buccolam 7,5 mg 1x1 dopoliczkowo
-
-6. Proszę o prowadzenie dzienniczka incydentów napadowych - zapisywanie informacji odnosnie wystąpienia, charakteru, czasie
-trwania i okolicznościach wystąpienia incydentów napadowych.
-
-7. Zaleca się wykonanie pełnej diagnozy psvchologlcznej w poradni psycholog  zno—pedagoglcznej
-
-6.5 letni chłopiec został przyjęty do tutejszego oddziału celem dlagnostykl z powodu drugiego w życiu incydentu napadowego.
-Dziecko z C? P 6 (w wywiadzie poronienia, ojciec dziecka pamięta dokładnie) urodzony w 41 hbd SN, o masie ciała 4840g, Apgar 10.
-Okres noworodkowy i niemowlęcy bez powikłań. Wg ojca rozwój dziecka przebiegał prawidłowo. Ostatnia hospitalizacja z powodu
-pierwszorazowego incydentu napadowego o charakterze napadu uogólnionego klonicznego (bez świadków początku napadu) od
-19.05.2021- 21.05.2021 w centrum Pediatrii w Sosnowcu, gdzie wykonano TK głowy- obraz mózgowia w granicach normy. W
-badaniu EEG z 19.05.2021- zapis nieprawidłowy - fale ostre z wolna iglice fała wolna z przewagą zmian po stronie lewej. Bez
-„rzypadku padaczki w rodzinie. Konsultowany kardiologicznie- szmer niewinny do obserwacji. W MR głowy (4 r.ż.) prawidłowe
-
-"struktury mózgowia. W wywiadzie 3 krotne badanie EEG - zapisy nieprawidłowe. W grudniu 2021 EEG - prawa skroń fale wolne,
-tendencja do uogólnienia. Kolejny napad o charakterze uogólnionego napadu klonicznego (ponownie bez świadków początku
-napadu) w godzinach nocnych dnia 05.09.2024, konsultowany na Izbie Przyjęć tutejszego Szpitala. W badaniu neurologicznym, bez
-odchyleń od normy. Nery czaszkowe prawidłowe, siła i napięcie mm symetryczne, odruchy ścięgniste żywe, oj, Babińskiego ujemny,
-czucie zachowane, o. brzuszne obecne, chód prawidłowy-pięta,palce, pełna stopa. Romberg bez zmian. Pacjenta przyjęto na Oddział
-neurologii, do dalszej diagnostyki. wykonano badanie EEG w czuwaniu - zmiany napadowe zlokalizowane z tendencją do
-lateralizacji, narastające w senności i śnie. Rozpoznano padaczkę oraz wdrożono leczenie preparatem lewetiracetamu w dawce 10
-mg/kgmc. Przeprowadzono konsultację psychologiczną, w której zalecono wykonanie pełnej diagnozy psychologicznej w poradni
-psychologiczno-pedagogicznej. Podczas pobytu na Oddziale nie doszło do kolejnych napadów, pacjent dobrze tolerował leczenie.
-Dnia 11.09.2024 wykonano kontrolny MRT głowy, który wykazał struktury mózgowia w granicach normy. Po okresie obserwacji
-wypisano pacjenta do domu w stanie ogólnym dobrym pod opieką ojca.
-
-@  f:_*g  Numer dokumentu: F.84-DMP  Wydrukowany przez: MONIKA BUŁAWA Data: 11.09.2024 godzina : 12:57:38            Strona: 1/5
-
-NI
+[OCR FAILED]
 
 --- Page 14 ---
-Nazwisko i imię: HUL FRANCISZEK                                    Płeć: M Wiek: 6 lat 7 mies.                 Nr ks. gł.: 32130/24
-PESEL: 18211204559                                            Data urodzenia: 12.01.2018           Nr ks. oddz.: 01407/24
-Adres zamieszkania: 41-200 SOSNOWIEC, ul. UL. 11 LISTOPADA 82
-
-Owpw _ |Nieobecne |Pojedyncze | Pojedyncze
-
-112  2.05  0.46  0.36
-10*3/ul | 10*3/ul | 10*3/ui_|10*3/ul       10*3/ul
-
-09.09.2024
-17.68 ng/ml
-
-09.09.2024
-105 mmol/l
-
-09.09.2024
-1.59 mmol/l
-
-Glukoza_(ICD-9:L43) norma: 60-100 mg/dl |
-09.09.2024
-
-81 mg/dl
-
-09.09.2024
-0.91 mmo//l                                                                                                                                                                                                                =
-
-4.31 mmol/l
-
-Sód (ICD-5:035) norm
-09.09.2024
-139 mmol/l
-
-09.09.2024
-2.47 mmoi/l
-Anion gap (K+): 9 mmo!/I -); Baro: 731 mmHg[-); FCOHb: 1.1 % (0.5-1.5) N; FHHB: 53.3 % (-); FMetHb: 0.2 % (0-1.5)N; FOZHb: 45.4 %
-(90-95) V; Hct,c: 46.2 % (34-51)N; Luka anionową,c: 4.9 mmo!/I (8-16) V; Temp: 37 Cel (-); cBase(B),c: 0.6 mmol/I (-2-3) N; cBase(Ecf),c:
-1.5 mmol/l (-1.5-3)N; cCa++: 1.16 mmol/l (1.15-1.29)N; cCl-: 106 mmo!/l 103-111) N; cGlu: 92 mg/dl (70-105)N; cH-T)c: 45.7 nmol/l
-09.09.2024              €);cH+,c:45.7 nmol/l £); cHCO3+P),c: 27.3 mmo/l (22-26) P; cHCO3-(P,st),c: 23.6 mmol/l (22.5-26.9) N; ck+: 4.1 mmol/l (3.4-4.5)N;
-cLac: 1.1 mmol/I (0.5-1.6) N; cNa+: 138 mmol/l (136-145)N; ctBil: O mg/dl (-); ctHb: 15.1 g/dl (13.5-17.5)N; ctO2: 9.6 vol% (15.9-19.9)
-% ; mOsm,c: 281.9 mmol/kg (285-295) V; p50,e: 32.16 mmHg424-28) $; pCO2: 50.6 mmHg (35-48) ; pCO2(T): 50.6 mmHg (35-48) ;
-PH: 7.34 (7.35-7.45) V; pH(T): 7.34 (7.35-7.45) V; pO2: 30.3 mmHg (83-108) ; pO2(T): 30.3 mmHg (83-108) V; s02: 46 % (94-98) V
-
-z                                   I
-
-Y f""'Q.
-smmm Numerdokumentu: F.84-DMP  Wydrukowany przez: MONIKA BUŁAWA Data: 11.09.2024 godzina : 12:57:38       Strona: 2/5
-
-NZZ
+[OCR FAILED]
 
 --- Page 15 ---
-Nazwisko i imię: HUL FRANCISZEK                        Płeć: M Wiek: 6lat 7 mies.           Nrks. gł.: 32130/24
-
-PESEL: 18211204559                                            Data urodzenia: 12.01.2018           Nr ks. oddz.: 01407/24
-Adres zamieszkania: 41-200 SOSNOWIEC, ul. UL. 11 LISTOPADA 82
-
-11.09.2024        Badanie MR głowy wykonano w płaszczyznach poprzecznych w sekwencjach T1, T2, FLAIR, DWI, SWI, w
-09:20             płaszczyznach strzałkowych w sekwencjach 3D T2 CUBE, 3D T1 MP RAGE, ASL oraz po dożylnym podaniu 2ml
-środka kontrastowego Gadovist w płaszczyznach poprzecznych w sekwencjach T1 i 3D BRAVO.
-
-Dane ze skierowania: PADACZKA ZE ZMIANAMI ZLOKALIZOWANYMI W EEG, PO 2 PRZEDŁUŻAJĄCYCH SIĘ
-NAPADACH PADACZKOWYCH - POCZĄTEK NAPADU NIEZNANY
-MR 3 LATA TEMU POZA TUTEJSZĄ PRACOWNIĄ - PRAWIDŁOWE
-
-Intensywność sygnałów w obrębie istoty biatej i szarej mózgowia w obrazach MR w granicach normy.
-Układ komorowy nadnamiotowy nieposzerzony, nieprzemieszczony, symetryczny.
-
-Komora IV prawidłowa.
-
-Przestrzenie płynowe podpajęczynówkowe prawidłowe.
-
-Nie uwidoczniono patologicznego wzmocnienia po podaniu kontrastu dożylnie.
-
-Wnioski:
-Struktury mózgowia w obrazach MR w granicach normy.
-
-Pracownik Opisujący: LATACZ PRZEMYSŁAW npwz: 6569928
-
-spec: RADIOLOGIA I DIAGNOSTYKA OBRAZOWA,
-
-06.09.2024        Badanie EEG wykonano w czuwaniu, senności i śnie.
-12:59            W czuwaniu zapis zróżnicowany przestrzennie.
-
-Czynność podstawowa w odprowadzeniach tylnoskroniowo-ciemieniowo-potylicznych jest regularna,
-symetryczna, utworzona z fal alfa o częstotliwości Hz i amplitudzie do — uV, a w odprowadzeniach
-przedczołowo-czołowo-przednioskroniowych dominuje niskonapięciowa czynność szybka beta.
-Reakcja zatrzymania obecna.
-Na tym tle rejestrują się wyładowania zlokalizowane w lewej okolicy tylnoskroniowej oraz
-centralno-ciemieniowej pod postacią zespołów fala ostra-fala wolna, iglica-fala wolna o częstotliwości 6-7 Hz i
-amplitudzie do 270 uv, z tendencją do lateralizacji.
-Hiperwentylacja i fotostymulacja bez istotnego wpływu na zapis.
-Cechy bioelektryczne senności i snu są wyrażone pod postacią rozpadu czynności podstawowej, zmniejszenia
-amplitudy zapisu, zwiększenia odsetka fal wolnych theta, fal ostrych wierzchołkowych, K kompleksów,
-wrzecion        częstotliwości 12-13 Hz i amplitudzie do 180 uV.
-
-=                              W sennośt         e ilość wyładowań jak w czuwaniu narasta, rejestrują się pojedynczo, grupami i w seriach do 10
-s. Dodatkowo asynchronicznie rejestrują się pojedyncze wyładowania zlokalizowane w prawej okolicy
-tylnoskroniowej i centralno-ciemieniowej pod postacią fal ostrych i zespołów fala ostra-fala wolna o
-amplitudzie do 100 uV.
-
-Wnioski: Zapis w czuwaniu, senności i śnie nieprawidłowy - zmiany napadowe zlokalizowane z tendencją do
-lateralizacji, narastające w senności i śnie.
-
-Pracownik Rejestruja:
-
-r n. med HANKUS MAGDALENA npwz: 2894531
-
-s
-
-12:59     Badanie wideoEEG wykonano w czuwaniu, senności i śnie. Podczas wideorejestracji nie obserwowano
-incydentów napadowych.
-
-06.09.2024
-
-Pracownik Rejestrujacy: dr n. med HANKUS MAGDALENA npwz: 2894531
-
-06.09.2024 08:29
-54 centyl
-
-[        ]    —
-@ [f:—-x  Numer dokumentu: F.84-DMP_ _ Wydrukowany przez : MONIKA BUŁAWA Dota: 11.09.2024 godzina : 12:57:38            Strona: 3/5
-
-sz
+[OCR FAILED]
 
 --- Page 16 ---
-Nazwisko i imię: HUL FRANCISZEK                                          Płeć: M Wiek: 6lat 7 mies.                    Nr ks. gł.: 32130/24
-PESEL: 18211204559                                                     Data urodzenia: 12.01.2018             Nr ks. oddz.: 01407/24
+Nazwisko i imię: HUL FRANCISZEK
+Płeć: M Wiek: 6 lat 7 mies.
+Nr ks.gl.: 32130/24
+PESEL: 18211204559
 Adres zamieszkania: 41-200 SOSNOWIEC, ul. UL. 11 LISTOPADA 82
+Data urodzenia: 12.01.2018
+Nr ks. oddz.: 01407/24
 
 06.09.2024 08:29
-39 centyl
-
-06.09.2024 03:29
 29 centyl
 
+Centyle wzrostu
 06.09.2024 08:29
 101 mmHg na 68 mmHg
-06.09.2024 08:29
-21.3kg
 
+Cisnienie
+06.09.2024 08:29
+21.3 kg
+
+Masa ciała
 06.09.2024 08:29
 0.8325 m2 15.56
 
+Powierzchnia ciała, Wskaźnik masy ciała
+
+Saturacja
 06.09.2024 08:29
-96%
-11.09.2024 06:09             10.09.2024 16:59             10.09.2024 06:39             09.09.2024 17:06             09.09.2024 05:45             08.09.2024 17:35
-36.5*C                               36.3'C                               36.6*C                                36.5*C                               36.8 'C                               36.5*C
+96 %
 
-08.09.2024 05:37                07.09.2024 05:38                06.09.2024 16:55                06.09.2024 08:29
-36.3 'C                                36.6 *C                               36.5*C                                36.4*C
+Temperatura
+06.09.2024 08:29
+36.5 °C
 
-:                                   k kor       b-        '        z       "
-09.09.2024      Przeprowadzono rozmowę z pacjentem oraz jego tatą. Chłopiec wycofany, niechętnie odpowiadał na pytania
-12:27           psychologa, nawiązywał zwiewny kontakt wzrokowy. Przeprowadzono próbę badania dziecka skróconą baterią
-testu Stanford Binet V, jednak chłopiec nie podjął współpracy z psychologiem. Franciszek uczęszcza do
-przedszkola, wła:    rozpoczął zerówkę. Z relacji taty wynika, że od września dziecku zmieniła się grupa
-przedszkolna oraz jej opiekun co mogło mieć wpływ na stan psychofizyczny dziecka. Tata neguje trudności
-chłopca w funkcjonowaniu w przedszkolu. Nie zaobserwował również u niego trudności z koncentracją,
-zapamiętywaniem czy w obszarze społeczno-emocjonalnym. Chłopiec wychowuje się w pełnej rodzinie, ma 7
-rodzeństwa. Wywiad wskazuje na stabilną sytuację rodzinną.
+Tętno
+06.09.2024 08:29
+85 /min
+
+Wartości
+06.09.2024 08:29
+117 cm
+
+WYKONANE KONSULTACJE PSYCHOLOGICZNE
+
+Data wykonania
+Wynik konsultacji
+09.09.2024
+Przeprawodzono rozmowę z pacjentem oraz jego tąt. Chłopiec wycofany, niechętnie odpowiadał na pytania psychologa, nawiązywał zwiewny kontakt wzrokowy. Przeprowadzono próbę badania dziecka skróconą baterią testu Stanford Binet V, jednak chłopiec nie podjął współpracy z psychologiem. Franciszek uczęszcza do przedszkola, właśnie rozpoczął zerówkę. Z relacji taty wynika, że od września dziecku zmieniła się grupa przedszkolna oraz jej opiekun co mogło wpływ na stan psychofizyczny dziecka. Tata neguje trudności chłopca w funkcjonowaniu czy w obszarze społeczno-emocjonalnym. Chłopiec wychowuje się w pełnej rodzinie, ma 7 rodzeństwa. Wywiad wskazuje na stabilną sytuację rodzinną.
 Zaleca się wykonanie pełnej diagnozy psychologicznej w poradni psychologiczno-pedagogicznej.
 
-Pracownik Konsultujący: mgr psychołogii OCIEPKA-KOSTYRA ZUZANNA  Npwz:
+Pracownik Konsultujący: mgr psychologii OCIEPKA-KOSTYRA ZUZANNA npwz:
 
-pwerszoszze — MRRTRNRN MATR AMARWRNIWNNNOMĄĄ — <oścoserowse
-
-e-Recepta                        10502251365347525741146681542329086737597450
-VETIRA Postać: roztwór doustny Dawka: 100 mg/ml I/ość: 1 opak. Opis: Iml-0-1ml doustnie niezależnie od posiłków
-
+.RECEPTY
+Data: 11.09.2024
+Kod dostępowy: 1944
 Recepta Rp
+e-Recepta
+10502251365347525741146681542329086737597450
 
-pata:1.08.2024 — RR KTARIANIANAARANIANTRKRINNWJĄ — <o<costerow: sczo                  Recepta Rp
+VETIRA Postać: roztwór doustny
+Dawka: 100 mg/ml
+Ilość: 1 opak.
+Opis: 1ml-0-1ml doustnie niezależnie od posiłków
 
-e-Recepta                               10502084352749412782419189658555789163458420
+Data: 11.09.2024
+Kod dostępowy: 9620
+Recepta Rp
+e-Recepta
+10502084352749412782419189658558789163458420
 
-BUCCOLAM Postać: roztwór do stosowania w jamie ustnej Dawka: 7,5 mg/1,5ml l/ość: 1 opak. Opis: w razie nierpzerwanego
-napadu po 5 minutach przyjać 1 ampułkostrzkawke na wewnętrzna strone policzka
+BUCCOLAM Postać: roztwór do stosowania w jamie
+Dawka: 7,5 mg/1,5ml
+Ilość: 1 opak.
+Opis: w razie nierzperwanego napadu po 5 minutach przyjąć 1 ampulkostrzawkawke na wewnętrzną stronę policzka
 
-ą_ 1
+WYSTAWIONE E-SKIEROWANIA
+Nr. Data wystawienia Realizator
+1. 11.09.2024 12:26
+PORADNIA NEUROLOGICZNA DLA DZIECI
+9642 964218211204559
 
-1.  11.09.2024 12:26
-
-PORADNIA NEUROLOGICZNA DLA DZIECI                                               9642  964218211204559
-
-z
-@ I;/='3  Numer dokumentu: F.84-DMP _ Wydrukowany przez : MONIKA BUŁAWA Data: 11.09.2024 godzina : 12:57:38            Strona: 4/5
-IZ
+Numer dokumentu: F.84-DMP
+Wydrukowany przez: MONIKA BULAWA
+Data: 11.09.2024 godzina: 12:57:38
+Strona: 4/5
 
 --- Page 17 ---
-Nazwisko i imię: HUL FRANCISZEK                                    Płeć: M Wiek: 6lat 7 mies.                 Nr ks. gł.: 32130/24
-PESEL: 18211204559                                                     Data urodzenia: 12.01.2018             Nrks. oddz.: 01407/24
+Nazwisko i imię: HUL FRANCISZEK
+Płeć: M Wiek: 6 lat 7 mies.
+Nr ks.: 32130/24
+PESEL: 18211204559
+Data urodzenia: 12.01.2018
+Nr ks. oddz.: 01407/24
 Adres zamieszkania: 41-200 SOSNOWIEC, ul. UL. 11 LISTOPADA 82
-
-WAŻNE
-
-Informujemy iż, przy zapisach do poradni specjalistycznych we wszystkich placówkach NFZ obowiązują kolejki oczekujących. W celu
-ustalenia terminu wizyty w poradni specjalistycznej, należy niezwłocznie skontaktować się z rejestracją wybranej placówki oraz
-dokonać rezerwacji wizyty na podstawie wystawionego przez lekarza skierowania.
-
+Ważne
+Informujemy iż, przy zapisach do poradni specjalistycznych we wszystkich placówkach NFZ obowiązują kolejki oczekujących. W celu ustalenia terminu wizyty w poradni specjalistycznej, należy niezwłocznie skontaktować się z rejestracją wybranej placówki oraz dokonać rezerwacji wizyty na podstawie wystawionego przez lekarza skierowania.
 Wykaz placówek oraz dostępność terminów: https://terminyleczenia.nfz.gov.pl
-
 Telefoniczna Informacja Pacjenta NFZ: 800 190 590
-
-W celu umówienia terminu wizyty w poradni specjalistycznej w GCZD w Katowicach, należy niezwłocznie skontaktować się z
-rejestracją pod numerem: 32 207 17 77 Call Center
-
-w                edury ICDS "                E
+W celu umówienia terminu wizyty w poradni specjalistycznej w GCZD w Katowicach, należy niezwłocznie skontaktować się z rejestracją pod numerem: 32 207 17 77 Call Center
+Wykonane procedury ICD9
 CEWNIKOWANIE ŻYŁ - INNE
+38.93
 NAKŁUCIE ŻYŁY - INNE
-
-RM MÓZGU I PNIA MÓZGU BEZ I ZE WZMOCNIENIEM KONTRASTOWYM                                                              88.912
-PORADA LEKARSKA, KONSULTACJA, ASYSTA                                                                                                            89.00
-PROFILAKTYKA I PROMOCJA ZDROWIA                                                                                                                                                     89.01
-ELEKTROENCEFALOGRAFIA (EEG)                                                                                                                                                            89.141
-VIDEO EEG                                                                                                                                                                                                  89.192
-BADANIE FIZYKALNE - INNE                                                                                                                                 89.79
-INNE POMIARY ANTROPOMETRYCZNE                                                                                                                                    93.0709
-
-ESTY/OCENA PSYCHOLOGICZNA - INNA                                                                                                                                     94.08
-
+38.99
+RM MÓZGU I PNIA MÓZGU BEZ I ZE WZMOCNIENIEM KONTRASTOWYM
+88.912
+PORADA LEKARSKA, KONSULTACJA, ASYSTA
+89.00
+PROFILAKTYKA I PROMOCJA ZDROWIA
+89.00
+ELEKTROENCEFALOGRAFIA (EEG)
+89.01
+VIDEO EEG
+89.141
+VIDEO EEG
+89.192
+BADANIE FIZYKALNE - INNE
+89.79
+INNE POMIARY ANTROPOMETRYCZNE
+93.0709
+ESTY/OCENA PSYCHOLOGICZNA - INNA
+94.08
 lek. Monika Buława
-
-Specjalistka
-dr n. med. PIETRUSZEWSKI JERZY                      otorynoląryngologii                    dr n. med. PIETRÓSZEWSKI JERZY
-specj: PEDIATRIA                                      25!                                             specj: PEDIATRIA
-NEUROLOGIA DZIECIĘCA                      BUŁAWA MONIKA                    NEUROLOGIĄ DZIEGIĘCA
-nr prawa: 3475841                              specj: nr prawa: 2595347                            nr prawa: 3475841
-Podpis Lekarza Prowadzącego                            Podpis Lekarza Wypisującego                          Podpis Kierown       Aślału
-Potwierdzam odbiór własnego dziecka:              HUL FRANCISZEK
+specj: nr prawa: 3475841
+dr n. med. PIETRUSZEWSKI JERZY
+specj: nr prawa: 2595347
+dr n. med. PIETRUSZEWSKI JERZY
+specj: PEDIATRIA
+2595347
+BULAWA MONIKA
+specj: nr prawa: 3475841
+Podpis Lekarza Prowadzącego
+Podpis Lekarza Wypisującego
+Podpis Kierownika Oddziału
+Potwierdzam odbiór własnego dziecka:
+HUL FRANCISZEK
+Dnia:
+Potwierdzam odbiór:
 Dnia:
 (Podpis rodzica / przedstawiciela ustawowego)
-
-Potwierdzam odbiór:
-
 Karty Informacyjnej w 2 egzemplarzach
 Książeczki Zdrowia Dziecka
-
-(Podpis rodzica / przedstawiciela ustawowego)
-
-z
-i';a'h  Numer dokumentu: F.84-DMP_ Wydrukowany przez : MONIKA BUŁAWA Data: 11.09.2024 godzina : 12:57:38           Strona: 5/5
-
-NEEY
-
+Numer dokumentu: F.84-DMP
+Wydrukowany przez: MONIKA BUŁAWA
+Data: 11.09.2024 godzina: 12:57:38
+Strona: 5/5
 
 --- Page 18 ---
 Górnośląskie Centrum Zdrowia Dziecka im. Św. Jana Pawła II
 Samodzielny Publiczny Szpital Kliniczny Nr 6 Śląskiego Uniwersytetu Medycznego w Katowicach
 40-752 Katowice, ul. Medyków 16 tel. 32 207 18 00 fax. 32 207 15 46
-www.gczd.katowice.pl adres e-mail: sekretariat(bqczd.katowice.pl
-+                                                              REGON: 001415000, NIP: 634-23-46-590
-I cz. kodu resortowego: 0000018596, Przedsiębiorstwo: Szpital Jednostka: Szpital V cz. kodu resortowego: 01
+www.gczd.katowice.pl adres e-mail: sekretariat@gczd.katowice.pl
+REGON: 001415000, NIP: 834-23-46-590
+I cz. kodu resortowego: 000000018596, Przedsiębiorstwo: Szpital Jednostka: Szpital V cz. kodu resortowego: 01
 ODDZIAŁ PEDIATRII I NEUROLOGII WIEKU ROZWOJOWEGO
-VII cz. kodu resortowego: 003 VI cz. kodu resortowego: 4221
+VII cz. kodu resortowego: 003 VIII cz. kodu resortowego: 4221
 
 ZALECENIA PIELĘGNACYJNE
 
 Imię i Nazwisko pacjenta : HUL FRANCISZEK
-
-Nr ks.gł.: 32130/24
+Nr ks.gl.: 32130/24
 Nr ks. oddz.: 01407/24
 
 ZALECENIA :
 
 - Ograniczenie użytkowania sprzętów elektronicznych
-
 - Zachęcanie do aktywności fizycznej
-
 - Zapewnienie odpoczynku, w tym snu w ilości odpowiedniej do wieku oraz ciszy i spokoju
-
 - Prowadzenie aktywnego i higienicznego trybu życia
-
 - Dokładna obserwacja zachowań dziecka
-
-- Stosowanie odpowiedniej diety                                                   '
-
+- Stosowanie odpowiedniej diety
 - Bezpieczeństwo i higiena otoczenia (zapobieganie upadkom, urazom, spacery, wietrzenie pokoju)
 - Systematyczne kontrola w poradni specjalistycznej
-
 - Nauka radzenia sobie ze stresem
-
 - Wyedukowano opiekuna w kierunku zdiagnozowanej jednostki chorobowej.
 
-(Oświadczam, że zalecenia które odebrałem/am
-są dla mnie zrozumiałe)
+(Oświadczam, że zalecenia które odebrałem/am są dla mnie zrozumiałe)
 
-u
-
-DATA PIECZĄTKA I PODPIS OSOBY WY!
-DATA I PODPIS RODZICA/OPIEKUNA                                            (pielęgniarki/położnej/ratownika mezQ%
-
-U14.04, 2014      M                                                                                ..................
-
-Data, Pieczątka i podpis Pielęgniarki Oddziałowej
+DATA PIECZAŁKA I PODPIS OSOBY WYDANIE ZALECENIA
+(pieczętnik/położne/ratownika medycznego)
+Data, Pieczętka i podpis Pielęgniarki Oddziałowej
 (lub osoby upoważnionej)
 
-OSF-02                                     "Wydnukowane przez: PAULINA GANSINIEC                                  Data i godzina * 11.09.2024 13:13:42                                                Strona : F
+OS.F-02
+Wydrukowane przez: PAULINA GANSINIEC
+Data i godzina : 11.09.2024 13:13:42
+Strona : 1/1
 
 --- Page 19 ---
-(miko EEG DiiTrack s:
-Elmko EEG DigiTrach system         == € EDEDDZEEE
-
-Centrum Pediatrii im. Jana Pawła Il Sp. z o.o.
-ul. G. Zapolskiej 3
-
-. Sosnowiec
-
-| Pracownia EEG
-
-|  Zakup aparatu współfinansowany
-
-| przez Unię Europejską z Europejskiego
-x  Funduszu Rozwoju Regionalnego
-|
-
-Wynik badania elektroencefalograficznego
-
-- Imięi nazwisko: FRANCISZEK HUL
-
-  Wiek pacjenta w dniu badania: 4 lata 8 miesięcy
-PESEL: 18211204559
-
-Nr badania: 29804/C
-
-Data badania: 2022-09-26
-Skierowany przez: Leszek Strój
-Leczenie:
-
-| Opis badania :
--|         Badanie wykonano w senności i śnie spontanicznym cechy bioelektryczne snu wyrażone
-dobrze pod postacią symetrycznych wrzecion snu 12 Hz fal wolnych i fal ostrych
-wierzchołkowych .W okolicach czołowo skroniowych i skroniowo centralnych
-wyładoawnia fali ostrej z wolną zespołu iglicy fali wolnej o morfologii rolandycznej
-
-Orzeczenie :
-Zapis nieprawidłowy zmiany zlokalizowane w okolicach Skroniowo-centralnych
-
-
---- Page 20 ---
-CENTRUM PEDIATRII im. Jana Pawła I! w Sosnowiec Sp. z 0.0.                                                                                                             :
-ul. G. Zapolskiej 3, 41-218 Sosnowiec, tei. 032/720-77-00                                                                                                          Data: 7.04.2022
-
-NIP 644-35-08-924, REGON 276240724                                                                KSG: 0/0
-PORADNIA KARDIOLOGICZNA DLA DZIECI                                                      -
-Nr umowy 125/100567/ Nr ks. rej.: O00000013912                                     Kartoteka: 16311115
-
-Kody res. czV:03 czVII:007 czVIIł:1101
-Kod chor.:
-
-Nazwisko Imie: HUL FRANCISZEK
-Data urodz.: 12.01.2018      PESEL: 18211204559
-Data przyjęcia: 7.04.2022 Data wypisu:
-
-'Mediqus by GaBoS Soffware
-
-Wywiad i badanie lekarskie
-Szmer nad sercem. Jeden epizod stanów napadowych.
-
-Stan ogólny dobry
-
-Płuca-bez cech zastoju
-
-Serce-rytm miarowy92/min, tony serca czyste
-Wątroba niepowiększona
-
-Bez obrzęków obwodowych
-
-EKG
-Normogram, rytm zatokowy miarowy 100/min, PQ 0,12s, QT 0,32s, QTc 0,40s. Zapis w normie.
-
-ECHO
-
-Situs solitus
-
-Aorta brzuszna po stronie lewej kręgosłupa. Przepływ krwi w aorcie brzusznej prawidłowy.
-Spływy żylne płucny i systemowy prawidłowe
-
-Przegroda międzyprzedsionkowa ciągła
-
-Budowa przedsionków prawidłowa
-
-Połączenia przedsionkowo-komorowe zgodne, prawidłowe
-
-Komory o prawidłowej lokalizacji i morfologii
-
-Przegroda międzykomorowa ciągła
-
-Połączenia komorowo- naczyniowe zgodne, prawidłowe.
-
-Przepływ krwi w aorcie i tętnicy płucnej prawidłowy.
-
-Łuk aorty lewostronny. Przepływ krwi w aorcie zstępującej prawidłowy.
-Nie stwierdzono płynu w worku osierdziowym i jamach opłucnowych
-Struna w lewej komorze
-
-Obs. szmeru niewinnego.
-
-Opisywał: MAZUREK BOGUSŁAW
-nr PWZ 5044974
-
-HUL FRANCISZEK KSG. 0/0          7                15750                     Wydruk Historii Choroby strona 1/1
-
-
---- Page 21 ---
-Elmiko EFG DigiTrack system___
+Elmiko EEG DigiTrack system
 
 Centrum Pediatrii im. Jana Pawła II Sp. z o.o.
 ul. G. Zapolskiej 3
 Sosnowiec
-* Pracownia EEG                                                                      i
+Sosnowiec
+Pracownia EEG
 Zakup aparatu współfinansowany
-. przez Unię Europejską z Europejskiego
-' Funduszu Rozwoju Regionalnego
+przez Unię Europejską z Europejskiego
+Funduszu Rozwoju Regionalnego
 
 Wynik badania elektroencefalograficznego
 
-| Imię i nazwisko: FRANCISZEK HUL
+Imię i nazwisko: FRANCISZEK HUL
 
+Wiek pacjenta w dniu badania: 4 lata 8 miesięcy
+PESEL: 18211204559
+
+Nr badania: 29804/C
+Data badania: 2022-09-26
+Skierowany przez: Leszek Strój
+
+Leczenie:
+
+Opis badania:
+Badanie wykonano w senności i śnie spontanicznym cechy bioelektryczne snu wyrażone dobrze pod postacią symetrycznych wrzecion snu 12 Hz fal wolnych i fal ostrych wierzchołkowych. W okolicach czołowo skroniowych i skroniowo centralnych wylądowania fal ostrych z wolną zespołu iglicy fal wolnej o morfologii rolandycznej
+
+Orzeczenie:
+Zapis nieprawidłowy zmiany zlokalizowane w okolicach skroniowo-centralnych
+
+2022-09-28
+Data i podpis: mgr Leszek Strój
+Specjalista chorób dziecięcych
+neonatolog i neurológ dziecięcy
+ID 7778000
+tel. 602 728 678
+
+--- Page 20 ---
+CENTRUM PEDIATRII im. Jana Pawła II w Sosnowiec Sp. z o.o.
+ul. G. Ząbolskiej 3, 41-218 Sosnowiec, tel. 032/720-77-00
+NIP 644-35-08-924, REGON 276240724
+FORADNIA KARDIOLOGICZNA DLA DZIECI
+Nr umowy 125/100567/ Nr ks. rej.: 000000013912
+Kody res. czV.03 czVII.007 czVII.1101
+KSG: 0/0
+Kartoteka: 16311115
+Nazwisko Imie: HUL FRANCISZEK
+Data: 7.04.2022
+Data urodz.: 12.01.2018 PESEL: 18211204559
+Data przyjęcia: 7.04.2022 Data wypisu: .
+Medicus by GaBoS Software
+WYWIAD I BADANIE LEKARSKIE
+Szmier nad sercem. Jeden epizod stanów napadowych.
+Stan ogólny dobry
+Płuca-bez cech zastoju
+Serce-rytm miarowy92/min, tony serca czyste
+Wątroba niepowiększona
+Bez obrzęków obwodowych
+EKG
+Normogram, rytm zatokowy miarowy 100/min, PQ 0,12s, QT 0,32s, QTc 0,40s. Zapis w normie.
+ECHO
+Situs solitus
+Aorta brzuszna po stronie lewej kręgosłupa. Przepływ krwi w aorcie brzusznej prawidłowy.
+Sptywy żylne płucny i systemowy prawidłowe
+Przegroda międzyprzedsionkowa ciągła
+Budowa przedsionków prawidłowa
+Połączenia przedsionkowo-komorowe zgodne, prawidłowe
+Komory o prawidłowej lokalizacji i morfologii
+Przegroda międzykomorowa ciągła
+Połączenia komorowo- naczyniowe zgodne, prawidłowe.
+Przepływ krwi w aorcie i tętnicy płucnej prawidłowy
+Łuk aorty lewostronny. Przepływ krwi w aorcie zstępującej prawidłowy.
+Nie stwierdzono płynu w worku osierdziowym i jamach oplućnowych
+Struna w lewej komorze
+Obs. szmieru niewinnego.
+Opisywał: MAZUREK BOGUSŁAW
+nr PWZ 5044974
+5044974
+HUL FRANCISZEK KSG: 0/0
+13.30
+Wydruk Historii Choroby strona 1/1
+
+--- Page 21 ---
+Elmiko EEG DigiTrack system
+
+Centrum Pediatrii im. Jana Pawła II Sp. z o.o.
+ul. G. Zapolskiej 3
+Sosnowiec
+Prawcownia EEG
+Pracownia EEG
+Zakup aparatu współfinansowany
+przez Unię Europejską z Europejskiego
+Funduszu Rozwoju Regionalnego
+
+Wynik badania elektroencefalograficznego
+
+Imię i nazwisko: FRANCISZEK HUL
 Wiek pacjenta w dniu badania: 3 lata 9 miesięcy
 PESEL: 18211204559
 
 Nr badania: 28735/B
-
-Data badania: 2021-11-09                                                                                       i
-Skierowany przez: Leszek Strój                                                                            |
+Data badania: 2021-11-09
+Skierowany przez: Leszek Strój
 Leczenie:
 
-Opis badania :                                                    .                                      i
-Badanie wykonano w czuwaniu u dziecka . Zapis zróżnicowany przestrzennie . Czynność |
-podstawowa obustronnie widoczna pod postacią fal alia Hz o ampl. do — uV
-symetryczny i synchroniczny w homologicznych okolicach, odpowiedna dla wieku .W
-okolicy czołowo-centralnej fale szybkie beta . HW ,FS bez wpływu na zapis . RZ obecna.
-W okolicy skroniowoekj prawej wyładowania zespołu iglicy fali wolnej do 200 uV . W         l
-dalszej części zapisu pojawiają sioę fale theta 4-6 Hz fale wolne 3 H z tendencja do
-uogólnionych wwyłaqdowwń artefakty nie pozwalają interpretować dakszą część zapisu  |
+Opis badania:
+Badanie wykonano w czuwaniu u dziecka. Zapis zróżnicowany przestrzennie. Czynność podstawowa obustronnie widoczna pod postacią fal alfa Hz o ampl. do uV symetryczny i synchroniczny w homologicznych okolicach, odpowiednia dla wieku. W okolicy czołowo-centralnej fale szybkie beta. HW, FS bez wpływu na zapis. RZ obecna. W okolicy skroniowej prawej wyładowania zespołu iglicy fal wolne 3 Hz z tendencją do uogólnionych wyładowań artefakty nie pozwalają interpretować dalszą część zapisu
 
-ee uu . e   j
+Orzeczenie:
 Zapis nieprawidłowy zmiany zlokalizowana
 
 2021-12-15
-
+Data i podpis
 
 --- Page 22 ---
-CENTRUM PEDIATRII im. Jana Pawła Il w
-Sosnowiec Sp. Z 0.0.
+KARTA INFORMACYJNA LECZENIA SZPITALNEGO
+
+CENTRUM PEDIATRII im. Jana Pawła II w
+Sosnowiec Sp. z o.o.
 ul. G. Zapolskiej 3, 41-218 Sosnowiec tel. 032/720-
-NIP 644.35.08.924 REGON 276240724,                              KARTA INFORMACYJNA LECZENIA SZPITALNEGO
-ODDZIAŁ PEDIATRICZNY
+77-09
+NIP 644-35-08-944 REGON 275240724,
+ODDEJ PEDIATRICZNY
 Nr umowy 125/100567/ Nr ks. rej.: 000000013912
-Kody res. czV:01 czVII:001 czVIII:4401
+Kody res. czV01 czVII.001 czVIII.4401
+01/4401 Oddział Pediatriczny.
+Załącznik nr 3 do historii choroby
 
-01/4401 Oddział Pediatryczny.                                                                                                                                                               Załącznik nr 3 do historii choroby
-
-Nazwisko:                                    Imiona:                                       PESEL:                       Data urodzenia:
-HUL                         FRANCISZEK                18211204559        12.01.2018
+Nazwisko: HUL
+Imiona: FRANCISZEK
+PESEL: 18211204559
+Data urodzenia: 12.01.2018
 Płeć: M
 
 Adresy pacjenta:
-Zamieszkania: 11 LISTOPADA 82 ; 41-200 SOSNOWIEC
-
+Zamieszkania: 11 LISTOPADA 82; 41-200 SOSNOWIEC
 Zameldowania:
 
-Data przyjęcia           i                                       Data wypisu
-2.08.2021 g. 9:32                               4.08.2021 g. 10:52
-Tryb wy'pisu
+Data przyjęcia
+2.08.2021 g. 9:32
 
+Data wypisu
+4.08.2021 g. 10:52
+
+Tryb wypisu
 Zak. procesu terapeutycznego lub diagnostycznego
 
 Procedury: ICD9, ICD10
-
-G40.0 - Padaczka samoistna (ogniskowa) (częściowa) i zespoły padaczkowe z napadami o
-zlokalizowanym początku
-
-A21 - Pasożyty/ jaja pasożytów w kale, 99.18 - Wstrzyknięcie/ infuzja elektrolitów, 88.912 - RM mózgu i
-pnia mózgu bez i ze wzmocnieniem kontrastowym, 89.540 - Monitorowanie podstawowych funkcji
-życiowych, 89.79 - Badanie fizykalne - inne, 89.04 - Opieka pielęgniarki lub położnej, 89.02 - Porada
-lekarska, inne, 89.01 - Profilaktyka i promocja zdrowia, 93.0701 - Pomiar obwodów części ciala, 181 -
-Białko C-reaktywne (CRP)), A19 - Osad moczu, M37 - Kreatynina, N45 - Potas (K), O35 - Sód (Na), L43 -
-Glukoza z krwi żylnej, C55 - Morfologia krwi, z pełnym różnicowaniem granulocytów, A01 - Badanie
-ogólne moczu (profil)
+G40.0 - Padaczka samoistna (ogniskowa) (częściowa) i zespoły padaczkowe z napadami o zlokalizowanym początku
+A21 - Pasożyty/ jaja pasożytów w kale, 99.18 - Wstrzyknienie/ infuzja elektrolitów, 88.912 - RM mózgu i pnia mózgu bez i ze wzmocnieniem kontrastowym, 89.540 - Monitorowanie podstawowych funkcji życiowych, 89.79 - Badanie fizykalne - inne, 89.04 - Opieka pielęgniarki lub położnej, 89.02 - Porada lekarska, inne, 89.01 - Profilaktyka i promocja zdrowia, 93.0701 - Pomiar obwodów części ciała, I81 - Białko C-reaktywne (CRP), A19 - Osad moczpu, M37 - Kreatynina, N45 - Potas (K), O35 - Sód (Na), L43 - Glukoza z krwi żylnej, C55 - Morfologia krwi, z pełnym różnicowaniem granulocytów, A01 - Badanie ogólne moczpu (profil)
 
 Rozpoznanie
-
 ostateczne
 
-Obserwacja w kierunku stanów napadowych (G40)
-Podejrzenie alergii (L20.0)
-
-Zez zbieżny obuoczny (H50.0)
-
 Leczenie
-
 Pobyt diagnostyczny.
-
 Nawodnienie pozajelitowe.
 
 Epikryza
+3,5-letni chłopiec został przyjęty w stanie ogólnym dobrym z celem poszerzenia diagnostyki epizodów napadowych. W maju 2021 r. hospitalizowany w tut. oddziale ze powodu epizodu napadowego. Wykonano TK głowy - bez nieprawidłowości, badanie EEG - zapis nieprawidłowy. W czasie hospitalizacji chłopiec nie prezentował epizodów napadowych ani objawów niepokojących. W wywiadzie podejrzanie ABMK. Przy przyjęciu w badaniu fizykalnym stwierdzono delikatny zez bieżny obuoczny. Chłopiec konsultowany w por. Neurologicznej. W trakcie hospitalizacji nie obserwowano niepokojących objawów. Chłopiec został wypisany do domu w stanie ogólnym dobrym z zaleceniemi.
 
-3,5-letni chłopiec został przyjęty w stanie ogólnym dobrym celem poszerzenia diagnostyki epizodów
-napadowych. W maju 2021r. hospitalizowany w tut. oddziale z powodu epizodu napadowego. Wykonano
-TK głowy - bez nieprawidłowości, badanie EEG - zapis nieprawidłowy. Od czasu hospitalizacji chłopiec
-nie prezentował epizodów napadowych ani objawów niepokojących. W wywiadzie podejrzenie ABMK.
-Przy przyjęciu w badaniu fizykalnym stwierdzono delikatny zez zbieżny OL, cichy szmer skurczowy nad
-sercem, poza tym bez odchyleń. W wykonanych badaniach laboratoryjnych niskie parametry stanu
-zapalnego, w morfologii nieco obniżony poziom leukocytów, w rozmazie krwi obwodowej eozynofilia. Kał
-w kierunku pasożytów ujemny. IgG glista oraz kał w kierunku Lamblii w opracowaniu. Wykonano badanie
-MR głowy - opis w opracowaniu. Chłopiec konsultowany okulistycznie - stwierdzono zez zbieżny
-obuoczny z przewagą oka lewego, wymagana kontrola refrakcji i leczenie ambulatoryjnie. W trakcie
-hospitalizacji nie obserwowano niepokojących objawów. Chłopiec został wypisany do domu w stanie
-ogólnym dobrym z zaleceniami.
 Zalecenia
-
-- W razie napadu nieustępujących drgawek zastosować wlewkę doodbytniczą Relsed 5mg. Można
-powtórzyć po 15 minutach jeśli drgawki nie ustąpią, wówczas wezwać Zespół Ratownictwa Medycznego.
-
+- W razie napadu nieustępujących drgawek zastosować wlewkę doodbytniczą Relsed 5mg. Można powtórzyć po 15 minutach przez po 15 minutą, jeśli drgawki nie ustąpią wezwać Zespół Ratownictwa Medycznego.
 - Dalsza opieka w Por. Neurologicznej.
 
-"Dokumontacja prowadzona w systomie Modiqus                  Nrks. gl. 4459 / 2021                          Strona 122
-Wydrukowano 04.08.2021, 10.53                                                                  HUL FRANCISZEK
+Dokumentacja
+Dokumentacja prowadzona w systemie Medicus
+Nr ks. gl. 4459 / 2021
+Strona 1 z 2
+Wydrukowano 04.08.2021, 10:53
+HUL FRANCISZEK
 
 --- Page 23 ---
-CENTRUM PEDIATRII im. Jana Pawła ll w
-Sosnowiec Sp. Z 0.0.
-
-ul. G. Zapolskiej 3, 41-218 Sosnowiec tel. 032/720-
-
-77-00
-
-KARTA INFORMACYJNA LECZENIA SZPITALNEGO
-
-NIP 644-35-08-924, REGON 276240724,
-ODDZIAŁ PEDIATRICZNY
-Nrumowy 125/100567/ Nr ks. rej.: 000000013912
-Kody res. czV:01 czVII:001 czViI:4401
-01/4401 Oddział Pediatryczny.                                                                                                      Załącznik nr 3 do historii choroby
-- Wizyta w Por. Kardiologicznej (kod e-skierowania 6060)                                  .          . 156O
-- Konieczna kontrola w Por. Okulistycznej celem oceny refrakcji i leczenia. -7łoq_SŁe'osae *
-- Okresowa kontrola w Poradni Lekarza Rodzinnego. Kontrola morfologii z rozmazem ręcznym za około
-2 tygodnie.
-- Zalecenia żywieniowe - dieta zróżnicowana, dostosowana do wieku dziecka.
-- Zalecenia odnośnie ekspozycji na monitory: w wieku 2-7 lat czas spędzany przed monitorami
-(komputera, tabletu, telefonu komórkowego, TV) nie powinien przekraczać 1 godziny dziennie (im krócej
-tym lepiej), nigdy przed snem. Treści powinny być zawsze sprawdzane przez rodziców- dostosowane do
-wieku dziecka.
-- Proszę zgłosić się po odbiór wyników brakujących badań (MR głowy, kał w kierunku Lamblii, IgG glista
-ludzka) po kontakcie telefonicznym - nr tel: Centrala 32 720 77 00, proszę łączyć się z dyżurką lekarską
-Oddziału Pediatrii.
-
-Lekarz prowadzący/wypisujący: Kierownik oddziału:
-
-NaiajałPawelczyk      cr i.ned. Maigorzaia Szkierczyx
-ŚŚ”QCZ)K       specjalista chorób dzięcięcych
-3                    'hzó 34Ę
-3245663             Nr Umówy G 25600
-Konsultacjel
-
-Konsultacja okulistyczna (04.08.21)
-
-Trudne warunki badania.
-
-Ruchomość wydaje się prawidłowa. Zez zbieżny z przewaga OL. Wgląd dobry. Ośrodki optyczne
-przezierne. Tarcze n II w poziomie dna o prawidłowych obrysach. Naczynia w normie. Siatkówka
-dostępna badaniem bez zmian ogniskowych.
-
-Konieczna kontrola w Por. Okulistycznej celem oceny refrakcji i leczenia.
-
-Bogna Teodorowicz -Rachuba
-
-Badania
-
-antropometryczne
-
-Ciężar ciała: 15,500 kg (50-75 pc) Wzrost: 95 cm (10 pc) RR: 100/60 mmHg
-Badania opisowe
-
-* MR głowy - w opracowaniu
-
-* IgG glista - w opracowaniu
-
-* kał w kierunku Lamblii - w opracowaniu
-
-Wydano skierowanie
-
-do specjalisty/poradni
-
-Nazwa poradni: Poradnia kardiologiczna dla dzieci
-
-Rozpoznanie: R01 - Szmery serca i inne zjawiska osłuchowe w okolicy serca
-Opis: Okresowo słyszalny szmer skurczowy nad sercem.
-
-Proszę o diagnostykę i ew. leczenie w/w pacjenta.
-
-Kod dostępu: 6060
-
-Dokumentacja prowadzona w systemie Mediqus                                                     Nr ks. gł. 4459 / 2021                                                                           Strona2z2
-Wydrukowano 04.08.2021, 10.53                                                                          HUL FRANCISZEK
-
+[OCR FAILED]
 
 --- Page 24 ---
-CENTRUM PEDIATRII im. Jana Pawła Il w Sosnowiec Sp. z
-0.0.
-ul. G. Zapolskiej 3, 41-218 Sosnowiec tel. 032/720-77-00
-
-Nazwisko i imię: HUL FRANCISZEK
-
 Wyniki badania
 
-NIP 543›354:&92& %IIEĘON 53540724'                Numer KG:          4459/2021
-DDZI          TRI
-Nr umowy125/1WŚ7/ Nrks. rej.: 000000013912       Data urodz.:      12.01.2018
-Kody res. czV:01 czVII:001 c
-Opis                                   Wynik                  Jednostka                     Norma
-Koronawirus SARS-CoV-2, antygen test immunochromat     2.08.2021               9:42
-SARS-CoV-2, antygen                NEGATYWNY                                            -
-Morfologia krwi (pełna , 25 parametrów)                          2.08.2021              12:51
-Leukocyty                                 45                       tys/pl                      5,5-15,5
-Erytrocyty                                441                       min/ul                      46 -6,2
-Hemoglobina                            12,0                      g/dl                      11-13,8
-Hematokryt                                 34                          %                          32 - 40
-MCV                                     78                           fi                          80 - 99
-MCH                                        27                            p9                         25,5 -29,5
-MCHC                                   35,1                        g/dl                      32,2 - 36,2
-Płytki krwi                                 321                        tys/pl                      150 - 450
-RDW-SD                             35,5                      fl                     35,1 - 43,9
-RDW-CV                                   12,7                           %                            11-16
-PDW                                          111                              f                                9-17
-MPV                                              10,3                                 f                                   9-13
-P-LCR                      26,7                %                 13-43
-PCT                                       0,33                           %                         0,17 -0,35
-Neutrofile                                 25,6                         %                          25 -60
-Limfocyty                                 46,0                         %                          25-50
-Monocyty                       93                  %                   1-6
-Eozynofile                           18,2                     %                       1-5
-Bazofile                                   0,9                          %                           0-2
-CRP,ilościowo                                                                2.08.2021               13:31
-CRP                                    <0,6                       mg/l                          0-5
-Kreatynina                                                                      2.08.2021               12:51
-Kreatynina                                0,32                       mg/dl                     0,24 - 0,47
-Sód                                                                               2.08.2021               12:51
-Sód                                             139,02                          mmol/l                           135 - 145
-Potas                                                                             2.08.2021               12:51
-Potas                                   4,37                      mmol/l                      3,5-5,3
-Glukoza                                                                         2.08.2021               12:51
-Glukoza                                   86,01                        mgidl                         70-99
-2.08.2021               12:51
+CENTRUM PEDIATRII im. Jana Pawła II w Sosnowiec Sp. z o.o.
+ul. G. Zapolskiej 3, 41-218 Sosnowiec tel. 032/720-77-00
+NIP 644-35-08-924, REGON 276240724,
+ODDZIAŁ PEDIATRICZNY
+Nr umowy 125/100567/ Nr ks.: 000000013912
+Kody res. czV/01 czVII/001 c
+
+Nazwisko i imię: HUL FRANCISZEK
+Numer KG: 4459/2021
+Data urodz.: 12.01.2018 Sala:
+
+Opis Wynik Jednostka Norma
+Koronawirus SARS-CoV-2, antigen test immunochromat 2.08.2021 9:42
+SARS-CoV-2, antigen NEGATYWNY
+
+Morfologia krwi (pełna, 25 parametrów)
+2.08.2021 12:51
+Leukocyty 4,5 tys/µl 5,5 - 15,5
+Erytrocyty 4,41 mln/µl 4,6 - 6,2
+Hemoglobina 12,0 g/dl 11 - 13,8
+Hematokryt 34 % 32 - 40
+Hematokryt MCV 78 fl 80 - 99
+MCV 27 pg 25,5 - 29,5
+MCHC 35,1 g/dl 32,2 - 36,2
+Płytki krwi 321 tys/µl 150 - 450
+RDW-SD 35,5 fl 35,1 - 43,9
+RDW-CV 12,7 % 11 - 16
+PDW 11,1 fl 9 - 17
+MPV 10,3 fl 9 - 13
+MPV 18,2 % 1 - 6
+Eozynofile 9,3 % 1 - 5
+Bazofile 0,9 % 0 - 2
+
+CRP, ilościowo
+CRP <0,6 mg/l 2.08.2021 13:31
+CRP 0,32 mg/dl 0 - 5
+
+Kreatynina
+Kreatynina 0,32 mg/dl 2.08.2021 12:51
+0,24 - 0,47
+
+Sód
+Sód 139,02 mmol/l 2.08.2021 12:51
+135 - 145
+
+Potas
+Potas 4,37 mmol/l 2.08.2021 12:51
+3,5 - 5,3
+
+Glukoza
+Glukoza 86,01 mg/dl 2.08.2021 12:51
+70 - 99
 
 Mocz - badanie ogólne
-Przejrzystość                      lekko mętny
+Przejrzystość lekko mątny 2.08.2021 12:51
 
 Imię i nazwisko pacjenta: FRANCISZEK HUL
-System Mediqus © GaBoS Software sp. z 0.0.
-
-Nrks.gł: 4459/2021
+System Medicus © GaBoS Software sp. z o.o.
+Nr ks. gt.: 4459/2021
+Nr ks.: 1
 Strona: 1
 
 --- Page 25 ---
-0.0.
-ul. G. Zapolskiej 3, 41-218 Sosnowiec tel. 032/720-77-00
-
-CENTRUM PEDIATRII im. Jana Pawła Il w Sosnowiec Sp. z
-
-Wyniki badania
-
-Nazwisko i imię: HUL FRANCISZEK
-
-NIP 644-35-08-924, REGON 276240724,                  Numer KG:           4459/2021
-ODDZIAŁ PEDIATRICZNY
-Nr umowy 125/100567/ Nr ks. rej.: 000000013912        Data urodz.:       12.01.2018  Sala:
-Kody res. czV:01 czVII:001 c,
-Barwa                                   żółty                                                         -
-Ciężar właściwy                                 1,025                          g/ml                        1,015 - 1,03
-pH                                      6,0                                                       5-7
-Glukoza                              nieobecna                  mg/dl                            -
-Ketony                               nieobecne                                                     -
-Urobilinogen                            w normie                   Hmol/l                        0-16
-Bilirubina                             nieobecna                                                     -
-Białko                               nieobecne                                                     -
-Azotyny                              nieobecne                                                     -
-Erytrocyty                             nieobecna                                                     -
-Leukocyty                             nieobecne                                                     -
-Mocz - badanie osadu                                                    2.08.2021               12:51
-Nabłonki płaskie                         nieliczne                    wpw                            -
-Leukocyty                                 0-1                        wpw                         0-5
-Pasma śluzu                             d liczne                   w prep.                           -
-Bakterie                               nieliczne                  w prep.                           -
-Moczany bezpostaciowe                      nieliczne                    w prep.                            -
-Kał - pasożyty (1 ozn.)                                                  3.08.2021              20:45
-Kał - pasożyty                           nie wykryto                                                         -
-Imię i nazwisko pacjenta: FRANCISZEK HUL                                                                     Nrks.gł: 4459/2021
-Strona: 2
-
-System Mediqus © GaBoS Software sp. z 0.0.
+[OCR FAILED]
 
 --- Page 26 ---
-CENTRUM PEDIATRII im. Jana Pawła ll w Sosnowiec Sp. z 0.0.
-ul. G. Zapolskiej 3, 41-218 Sosnowiec tel. 032/720-77-00
-
-NIP 644-35-08-924, REGON 276240724,
-
-ODDZIAŁ. PEDIATRICZNY
-
-Nrumowy 125/100567/ Nr ks. rej.: 000000013912
-
-Kody res. czV:01 czVII:001 czViIl:4401
-
+CENTRUM PEDIATRII im. Jana Pawła II w Sosnowiec Sp. z o.o.
+ul. G. Zawadzkiego 3, 41-219 Sosnowiec tel. 032/720-77-00
+NIP 844-35-08-924, REGON 276240724,
+ODDZIAŁ: PEDIATRICZNY
+Nr umowy 125/100567/ Nr ks. rej.: 000000013912
 KSG: 4459/2021
 Kartoteka: 16311115
+Kody res. czV.01 czV.001 czV.01:4401
 Kod chor.: G40.0
-Nazwisko Imie: HUL FRANCISZEK
-
+Nazwisko Imię: HUL FRANCISZEK
+Data urodz.: 12.01.2018
+PESEL: 18211204559
+Data przyjęcia: 2.08.2021
+Data wypisu: 4.08.2021
 Data: 2.08.2021
-
-Data urodz.: 12.01.2018    PESEL: 18211204559
-Data przyjęcia: 2.08.2021 Data wypisu: 4.08.2021
-
+Medicus by GaBoS Software
 Inf. o chorym po hospitalizacji
 ZAŁĄCZNIK DO KARTY INFORMACYJNEJ:
-
-*Kał -G.lamblia -wynik ujemny
-
-*P/c/p. gliście ludzkiej IgG -9,07 NTU
+*Kal -G.lambia -wynik ujemny
+*P/c/p. głisć ludzkiej IgG -9 NTU
 negatywny <9 NTU
-
 szara strefa 9-11 NTU
-
 pozytywny >11 NTU
-
-'Mediqus by GaBoŚ Sofiware
-
 Zalecenia: Utrzymanie zaleceń z karty wypisowej. Kontakt z lekarzem POZ celem ew. dalszego leczenia.
-
-* MR głowy (03.08.2021r.opisał A.Bajda)-Przestrzenie podpajęczynówkowe nieposzerzone. Układ komorowy
-nadnamiotowy symetryczny, nieposzerzony, nieprzemieszczony.
-Wodociąg mózgu drożny z widocznym przepływem, komora IV prawidłowa. Na poziomie jąder podkorowych
-widoczne odcinkowo zaznaczone przestrzenie okołonaczyniowe Virchowa-Robina.
-Intensywność sygnałów istoty szarej i białej obu półkul mózgu prawidłowa. W sekwencji OWI nie swierdza się
-
-obszarów ograniczenia dyfuzji cząsteczek wody.
-
-W sekwencji SWI nie stwierdza się obecności metabolitów krwi w obrębie mózgowia. Nie stwierdza się obecności
-obszarów patologicznego wzmocnienia po podaniu środka kontrastującego.
-Kręty przebieg naczyń układu podstawnego tylnego dołu czaszki. Struktury tylnojamowe bez patologicznych
-
-sygnałów.
-
+Zalecenia: Utrzymanie zaleceń z karty wypisowej. Kontakt z lekarzem POZ celem ew. dalszego leczenia.
+* MR głowy (03.08.2021r. opisał A.Bajda)-Przestrzenie podpajęczynówkowe nieposzerzone. Uklad komorowy nadnamiotowy symetryczny, nieposzerzony, nieprzemieszczony.
+Wodociąg mózgu droźny z widocznym przepływem, komora IV prawidłowa. Na poziomie jader podkorowych widoczne odcinkowo zaznaczone przestrzenie okołonaczyniowe Virchowa-Robina.
+Intensywność sygnałów istoty szarej i białej obu półkub mózgu prawidłowa. W sekwencji OWI nie stwierdza się obszarów ograniczenia dyfuzji cząsteczek wody.
+W sekwencji SWI nie stwierdza się obecności metabolitów krwi w obrębie mózgowia. Nie stwierdza się obecności obszarów patologicznego wzmacnienia po podaniu środka kontrastującego.
+Kręty przebieg naczyń układu podstawnego tylnego dolu czaszki. Struktury tylnojamowe bez patologicznych sygnałów.
 Wnioski: Obraz mózgowia w badaniu MR w granicach normy dla wieku.
-
 Opisywał: MARTYNA ANNA
-
 nr PWZ 3583891
-
+Piotr Plesik
+LEKARZ
+nr PWZ 3582235
+Wydruk Historii Choroby strona 1/1
 HUL FRANCISZEK KSG: 4459/2021
 
-"Wydnuk Historii Choroby strona 1/1
-
 --- Page 27 ---
-SP ZOZ Zespół Szpitali Miejskich                        ,
+SP ZOZ Zespół Szpitali Miejskich
 Zakład Radiologii, Diagnostyki Obrazowej i Medycyny Nuklearnej
 41-500 Chorzów ul. Truchana 7
 
-1-000000013027; VII-142; VIII-7250
+I-000000013027; VII-142; VIII-7250
 
-ię:                                                         Ę     1-12
-Nazwisko i Imię: HUL FRANCISZEK              Wiek: 003Y_ Płoć: M   Data ur.:2018-0
-Numer badania: 200431037                         ID: 2689649           PESEL: 18211204559
-Data i godzina badania: 2021-08-03 10:04:33                   Jednostka kierująca:  Rejestracja Pracowni ZDO
+WYNIK BADANIA MR
+
+Nazwisko i imię: HUL FRANCISZEK
+Wiek: 003Y Płeć: M Data ur.:2018-01-12
+Numer badania: 200431037 ID: 2689649 PESEL: 18211204559
+Data i godzina badania: 2021-08-03 10:04:33 Jednostka kierująca: Rejestracja Pracowni ZDO
 
 Rodzaj badania: MR GŁOWY BEZ I Z KONTRASTEM
 Lekarz opisujący: Bajda, Anna
+
 Opis:
-
-Radanie wykonane w obrazach T1, T2, FLAIR, DWI, przed i po podaniu środka kontrastowego dożylnie, w płaszczyznach
-__ Jprzecznych, strzałkowych i czołowych.
-
-Dane ze skierowania: Obserwacja w kierunku stanów napadowych. W TK (19.05.21) niewielka asymetria upowietrznienia
-
-wyrostków sutkowatych, słabsza po stronie P. Pogrubienie migdałka gardłowego.
-
+Badanie wykonane w obrazach T1, T2, FLAIR, DWI, przed i po podaniu środka kontrastowego dożylnie, w piaszczyznach oprzecznych, strzałkowych i czołowych.
+Dane ze skierowania: Obserwacja w kierunku stanów napadowych. W TK (19.05.21) niewielka asymetria upowietrzenia wyrostków sutkowatych, słabsza po stronie P. Pogrubienie międalka gardlowego.
 Przestrzenie podpajęczynówkowe nieposzerzone.
-
-Układ komorowy nadnamiotowy symetryczny, nieposzerzony, nieprzemieszczony.
-
-Wodociąg mózgu drożny z widocznym przepływem, komora IV prawidłowa.
-
-Na poziomie jąder podkorowych widoczne odcinkowo zaznaczone przestrzenie okołonaczyniowe Virchowa-Robina.
+Układ komorowy nadnamiotowy symetryczny, nieposzerzony, nieprzeszczony.
+Wodociąg mózgowy drożny z widocznym przepływem, komora IV prawidłowa.
+Na poziomie jader podkorowych widoczne odcinkowo zaznaczone przestrzenie okołonaczyniowe Virchowa-Robina.
 Intensywność sygnałów istoty szarej i białej obu półkul mózgu prawidłowa.
-
-W sekwencji DWI nie swierdza się obszarów ograniczenia dyfuzji cząsteczek wody.
-
-W sekwencji SWLnie stwierdza się obecności metabolitów krwi w obrębie mózgowia.
-
+W sekwencji DWI nie stwierdza się obszarów ograniczenia dyfuzji cząsteczek wody.
+W sekwencji SWI nie stwierdza się obecności metabolitów krwi w obrębie mózgowia.
 Nie stwierdza się obecności obszarów patologicznego wzmocnienia po podaniu środka kontrastującego.
-
-Kręty przebieg naczyń układu podstawnego tylnego dołu czaszki.
-
-Struktury tylnojamowe bez patologicznych sygnałów.
+Kręty przebieg naczyń układu podstawowego tylnego dolu czaszki.
+Struktury tylnojamoowe bez patologicznych sygnałów.
 
 Wnioski: Obraz mózgowia w badaniu MR w granicach normy dla wieku.
-lek. Tomasz Plebański
+
+Ilek. Tomasz Plebański
 
 Konsultacja:
-'ak. Anna Bajda
-„_ „ecjalista radiołż
-KY
-KO
-N
-<        d
+Ilek. Anna Bajda
+Ilek. Tomasz Plebański
+Ilek. Tomasz Plebański
 
 --- Page 28 ---
-CENTRUM PEDIATRII im. Jana Pawła II w Sosnowiec Sp. z 0.0.                                                                                                                       .
-ul. G. Zapolskiej 3, 41-218 Sosnowiec tel. 032/720-77-00                                                     Data: 2.08.2021
-
-NIP 644-35-08-924, REGON 276240724,                                                              :
-ODDZIAŁ PEDIATRICZNY                                                                            KSG: 4459/2021
-Nr umowy 125/100567/ Nr ks. rej.: 000000013912                                       Kartoteka: 16311115
-Kody res. czV:01 czVII:001 czVIII:4401
-
+CENTRUM PEDIATRYJNE im. Jana Pawła II w Sosnowiec Sp. z o.o.
+ul. G. Zawadzkiego 3, 44-191 Sosnowiec tel. 032/720-77-00
+REGON 125/100567/ Nr ks. rej.: 000000013912
+ODDEJ: PEDIATRICZNY
+NIP 893-35-08-924, REGON 275240724,
+KSG: 4459/2021
+Kartoteka: 16311115
+Nr umowy 125/100567/ Nr ks. rej.: 000000013912
+Kod res. czV.01 czVII.001 czVIII.4401
 Kod chor.: G40.0
-
-Nazwisko Imie: HUL FRANCISZEK
-Data urodz.: 12.01.2018      PESEL: 18211204559
-
+Nazwisko Imię: HUL FRANCISZEK
+Data urodz.: 12.01.2018 PESEL: 18211204559
 Data przyjęcia: 2.08.2021 Data wypisu: 4.08.2021
-"Mediqus by GaBoS Software
-
+Medicus by GaBoS Software
 Inf. o chorym po hospitalizacji
 ZAŁĄCZNIK DO KARTY INFORMACYJNEJ:
-
-*Kał -G.lamblia -wynik ujemny
-
-*P/c/p. gliście ludzkiej IgG -9,07 NTU
+*Kal-G.lambia -wynik ujemny
+*P/c/p. głęście ludzkiej IgG -9,07 NTU
 negatywny <9 NTU
-
 szara strefa 9-11 NTU
-
 pozytywny >11 NTU
-
 Zalecenia: Utrzymanie zaleceń z karty wypisowej. Kontakt z lekarzem POZ celem ew. dalszego leczenia.
-
-* MR głowy (03.08.2021r.opisał A.Bajda)-Przestrzenie podpajęczynówkowe nieposzerzone. Układ komorowy
-nadnamiotowy symetryczny, nieposzerzony, nieprzemieszczony.
-
-Wodociąg mózgu drożny z widocznym przepływem, komora IV prawidłowa. Na poziomie jąder podkorowych
-widoczne odcinkowo zaznaczone przestrzenie okołonaczyniowe Virchowa-Robina.
-
-Intensywność sygnałów istoty szarej i białej obu półkul mózgu prawidłowa. W sekwencji OWI nie swierdza się
-
-obszarów ograniczenia dyfuzji cząsteczek wody.
-W sekwencji SWI nie stwierdza się obecności metabolitów krwi w obrębie mózgowia. Nie stwierdza się obecności
-
-obszarów patologicznego wzmocnienia po podaniu środka kontrastującego.
-Kręty przebieg naczyń układu podstawnego tylnego dołu czaszki. Struktury tylnojamowe bez patologicznych
-
-sygnałów.
+Zalecenia: Utrzymanie zaleceń z karty wypisowej. Kontakt z lekarzem POZ celem ew. dalszego leczenia.
+MR głowy (03.08.2021r. opisał A.Bajda)-Przestrzenie podpajączynówkowe nieposzerzone. Układ komorowy nadnamiotowy symetryczny, nieposzerzony, nieprzemieszczony.
+Wodociąg mózgu drożny z widocznym przepływem, komora IV prawidłowa. Na poziomie jąder podkorowych widoczne odcinkowo zaznaczone przestrzenie okołonaczyniowe Virchowa-Robina.
+Intensywność sygnałów istoty szarej i białej obu półkul mózgu prawidłowa. W sekwencji OWI nie stwierdza się obszarów ograniczenia dyfuzji cząsteczek wody.
+W sekwencji SWI nie stwierdza się obecności metabolitów krwi w obrębie mózgowia. Nie stwierdza się obecności obszarów patologicznego wzmocnienia po podaniu środka kontrastującego.
+Kręty przebieg naczyń układu podstawowego tylnego dolu czaszki. Struktury tylnojamowe bez patologicznych sygnałów.
 Wnioski: Obraz mózgowia w badaniu MR w granicach normy dla wieku.
-
 Opisywał: MARTYNA ANNA
 nr PWZ 3583891
-
-Piotr Pij
-LEK,
-
-HUL FRANCISZEK KSG: 4459/2021                                                                                                                                        "Wydruk Historii Choroby strona 1/1
+Piotr Piesik
+LEKARZ
+3582235
+Wydruk Historii Choroby strona 1/1
+HUL FRANCISZEK KSG: 4459/2021
 
 --- Page 29 ---
-KCIĘCYC
-l DZIECIĘCEJ                             .       .
-32-332 Bu    , ul. Kolejowa 12                  Bukowno; data: 31.05.2021
-NIP: 644-178-56-19, tel, 602 728 678
-MNFZ 980630295, ŚNFŻ 981211797
-
+Gabinet Konsultacji Pediatricznych i Neurologii Dziecięcej
+Dr n. med. Leszek Strój
+SPECIALISTA CHORÓB DZIECIĘCYCH,
+NEONATOLOGI I NEUROLOGI DZIECIĘCEJ
+32-332 Bukowno, ul. Krasickiego 12
+NIP: 64-178-0295-9, tel. 602 728 678
+MNFZ 98060295, MNFZ 981211797
 REGON 271254986
+
+Bukowno; data: 31.05.2021
 
 Franciszek Hul ur.: 12.01.2018.
 
 Konsultacja neurologiczna.
 
-Wywiad: na podstawie rozmowa z matką dziecka + dostarczonej
-dokumentacji: wypis + książeczka zdrowia dziecka.
+Konsultacja neurologiczna.
 
-Badanie neurologiczne: stan ogólny dziecka dobry; prawidłowy - stosowny
-do wieku kontakt wzrokowy, słuchowy i emocjonalny; zachowanie stosowne do
-wieku; w obserwacji spontanicznej: ułożenie dowolne, bez ograniczeń
-ruchowych i ułożeń przymusowych, pełny zakres ruchów, prawidłowe napięcie
-mięśniowe centralne i obwodowe; odruchy głębokie żywe, symetryczne, bez
-asymetrii i bez odruchów patologicznych; bez zaburzeń koordynacji ruchowej i
-bez objawów ataksji, chód prawidłowy; czaszka o obwodzie: 49,0cm, kształt
-prawidłowy; nerwy czaszkowe bez patologii, gałki oczne osadzone prawidłowo i
-prawidłowo ruchome, szpary powiekowe symetryczne, źrenice równe, okrągłe, o
+Wywiad: na podstawie rozmowa z matką dziecka + dostarczonej dokumentacji: wypis + książeczka zdrowia dziecka.
 
-prawidłowej reakcji na światło.
+Badanie neurologiczne: stan ogólny dziecka dobry; prawidłowy - stosowny do do wieku kontakt wzrokowy, słuchowy i emocjonalny; zachowanie stosowne do do wieku; w obserwacji spontanicznej: ułożenie dowolne, bez ograniczeń ruchowych i ułożen przymusowych, pełny zakres ruchów, prawidłowe napięcie mięśniowe centralne i obwodowe; odruchy głębokie żywe, symetryczne, bez asymetrii i bez odruchów patologicznych; bez zaburzeń koordynacji ruchowej i obwodzie; bez objawów ataksji, chód prawidłowy; czaszka o obwodzie: 49,0cm, kształt prawidłowy; nerwy czaszkowe bez bez patologii, gałki oczne osadzone prawidłowo i prawidłowo ruchome, szpary powiekowe symetryczne, żrenice równe, okrągłe, o prawidłowej reakcji na światło.
 
-Wnioski: bez cech zespołu neurologicznego, bez objawów ogniskowego
-uszkodzenia oun.
+Wnioski: bez cech zespołu neurologicznego, bez objawów ogniskowego uszkodzenia ogn.
 
 Dgn.: Obserwacja w kierunku stanów napadowych.
 
 --- Page 30 ---
 Proponuję:
 1. Po dokończeniu diagnostyki rekonsultacja.
+2. Ewentualna weryfikacja rozpoznania w zależności od wskazań klinicznych i od wyniku badania MR.
 
-2. Ewentualna weryfikacja rozpoznania w zależności od wskazań klinicznych i
-od wyniku badania MR.
-
-Dr n. med. Leszek/rój
-Łerarz
-
-di     cych
-
-lczf/dzikcięcej
-
-«si. JC2 P8 678
-
+Dr n. med. Leszek Strój
+Lekarz
+Specjalista chorób dziecięcych
+neonatolog i neurolog dziecięcy
+tel. 728 678
 
 --- Page 31 ---
-CENTRUM PEDIKTRII m Jana Pawa li w
-. . Zapolkiaj 3, 4 216 Soonowiec e. 032720-
-NIP 644-55-08.524, REGON 276240724,                   KARTA INFORMACYJNA LECZENIA SZPITALNEGO
-ODDZIAŁ PEDIATRICZNY
-
-Nr umówy 125/100567/ Nr ks. re.: 000000013912
-Kody ros. czV:01 czVI:001 czVII:4401
-
-01/4401 Oddział Podiatryczny.
-
-Załącznik nr 3 do histori choroby
-Nazwisko:                                         Imiona:                                            PESEL:                          Data urodzenia:
-HUL                                               FRANCISZEK                              18211204559              12.01.2018
-Płeć: M
-Adresy pacjenta:
-Zamieszkania: 11 LISTOPADA 82 ; 41-200 SOSNOWIEC
-Zameldowania:
-Data przyjęcia                                                     Data wypisu
-19.05.2021 g. 17:15                           21.05.2024 g. 12:16
-Tryb wypisu
-
-Skierowanie do dalszego leczenia w lecznictwie ambulatoryjnym
-
-Procedury: ICD9, ICD10
-
-23.0105 - Konsultacja specjalistyczna, 99.18 - Wstrzyknięcie/ infuzja elektrolitów, 89.602 -
-Pulsoksymetria, 89.522 - Elektrokardiografia z 12 lub więcej odprowadzeniami (z opisem), 89.141 -
-Elektroencefalografia (EEG), 87.031 - TK głowy bez i ze wzmocnieniem kontrastowym, 89.540 -
-Monitorowanie podstawowych funkcji życiowych, 89.79 - Badanie fizykalne - inne, 89.04 - Opieka
-pielęgniarki lub położnej, 89.02 - Porada lekarska, inne, 89.01 - Profilaktyka i promocja zdrowia, 93.0701
-- Pomiar obwodów części ciala, A19 - Osad moczu, A01 - Badanie ogólne moczu (profil), 181 - Białko C-
-reaktywne (CRP), M87 - Magnez całkowity (Mg), L23 - Fosforan nieorganiczny, O77 - Wapń całkowity
-(Ca), M37 - Kreatynina, 119 - Aminotransferaza asparaginianowa (AST), 117 - Aminotransferaza
-alaninowa (ALT), N45 - Potas (K), 035 - Sód (Na), L43 - Glukoza z krwi żylnej, C32 - Leukocyty - obraz
-
-odsetkowy, C55 - Morfologia krwi, z pełnym różnicowaniem granulocytów, O29 - Równowaga kwasowo-
-zasadowa (pH, pCO2, pO2, HCO3, BE)
-
-Rozpoznanie
-
-ostateczne
-
-Obserwacja w kierunku padaczki (G40)
-Leczenie
-
-Nawodnienie pozajelitowe
-
-Epikryza
-
-3-letni chłopiec został przyjęty w stanie ogólnym średnim z powodu drgawek klonicznych kończyn z
-przewagą kończyny górnej prawej, lewej połowy twarzy. W IP podano 5 mg Relsedu, drgawki ustąpiły. W
-wywiadzie zmiany skórne po nadmiarze pokarmów mlecznych. Przy przyjęciu w badaniu fizykalnym
-stwierdzono dodatni objaw Babińskiego po stronie lewej, cichy szmer skurczowy nad sercem. W
-wykonanych badaniach laboratoryjnych niskie parametry stanu zapalnego, w rozmazie krwi obwodowej
-eozynofilia, jonogram, parametry wątrobowe oraz nerkowe prawidłowe. W TK głowy - obraz mózgowia
-bez uchwytnych zmian. EEG - wynik w opracowaniu. Chłopiec konsultowany neurologicznie. Wysunięto
-podejrzenie w kierunku padaczki. W trakcie hospitalizacji nie obserwowano występowania niepokojących
-objawów. Chłopiec został wypisany do domu w stanie ogólnym dobrym z zaleceniami.
-
-Zalecenia
-
-- Wrazie napadu nieustępujących drgawek zastosować wlewkę doodbytniczą Relsed 5mg. Można
-
-powtórzyć po 15 minutach jeśli drgawki nie ustąpią, wówczas wezwać Zespół Ratownictwa Medycznego.
-(kod e-recepty 7727)
-
-- Pilna kontrola w Poradni Neurologicznej z wynikami badań. (kod e-skierowania 6411)
-
-- Okresowa kontrola w Poradni Lekarza Rodzinnego.
-
-- Zalecenia żywieniowe - dieta zróżnicowana, dostosowana do wieku dziecka.
-
-- Zalecenia odnośnie ekspozycji na monitory: w wieku 2-7 lat czas spędzany przed monitorami
-
-Dokumentacja prowadzona w systemia Mediqus                                          ks.gł. 2838 / 202!                                                         tona1z3
-Wydrukowano 21.05.2021, 12.17                                               Np'ąul_ g.ng?szekl                                                       <
+[OCR FAILED]
 
 --- Page 32 ---
-CENTRUM PEDIATRII im. Jana Pawła l w
-Sosnowiec Sp. z 0.0.
-ul. G. Zapolskiej 3, 41-218 Sosnowiec tel. 032/720-
+CENTRUM PEDIATRII im. Jana Pawła II w
+Sosnowcu Sp. z o.o.
+ul. G. Zajłowskiej 3, 41-212 Sosnowiec tel. 032/720-
 77-00
-
-NIP 644-35-08524, RĘGON ZTG2407Z4,                   KARTA INFORMACYJNA LECZENIA SZPITALNEGO
-
-ODDZIAŁ PEDIATRICZNY
-Nrumowy 125/100567/ Nr ks. rj: 0000013912
-Kody res. czV:01 czWIL:001 czVIN:4401
-
-01/4401 Oddział Pediatryczny.                                                                     Załącznik nr 3 do historii choroby
-
-(komputera, tabletu, telefonu komórkowego, TV) nie powinien przekraczać 1 godziny dziennie (im krócej
-
-tym lepiej), nigdy przed snem. Treści powinny być zawsze sprawdzane przez rodziców- dostosowane do
-wieku dziecka.
-
-- Proszę zgłosić się po odbiór wyników brakujących badań po kontakcie telefonicznym - nr tel: Centrala
-32 720 77 00, proszę łączyć się z dyżurką lekarską Oddziału Pediatrii
-
-Lekarz prowadzący/wypisujący: .Elfg›ilg
-
-Anna Mhrtyna                      Oddziału
-lek,
-358   ó1                    lek. e. Anna
-specjalista Pediatrii
-
-Konsultacje
-
-19.05.2021 +21.05.2021.
-
-Konsultacja neurologiczna:
-
-Wywiad: na podstawie historii choroby + rozmowa z ojcem dziecka (3-letni chłopiec po prawdopodobnie
-około 30 minutowym epizodzie napadowym, pierwszy raz w życiu). Badanie neurologiczne: wykonane w
-pozycji stojącej, dziecko kontakcie stosownym do wieku, bez cech zespołu neurologicznego, bez
-objawów ogniskowego uszkodzenia oun, odruchy głębokie żywe, symetryczne, bez odruchów
-patologicznych, ułożenie dowolne, bez ograniczeń ruchowych i ułożeń przymusowych, pełny zakres
-ruchów, bez asymetrii; bez zaburzeń koordynacji ruchowej i bez objawów ataksji, chód prawidłowy,
-nerwy czaszkowe bez patologii, gałki oczne osadzone prawidłowo i prawidłowo ruchome, szpary
-powiekowe symetryczne, źrenice równe, okrągłe, o prawidłowej reakcji na światło. Tk głowy - bez zmian.
-Wnioski: bez cech zespołu neurologicznego, bez objawów ogniskowego uszkodzenia oun. Dgn.:
-Obserwacja w kierunku stanów napadowych. Proponuję: 1. Dokończenie zaplanowanej diagnostyki i
-rekonsultacja z wynikami badań.
-
-Leszek Strój
-
-Badania
-
-antropometryczne
-
-Ciężar ciała: 14,300 kg (25-50 pc) Wzrost: 92 cm (3-10 pc) RR: 95/65 mmHg
-Badania opisowe
-
-*TK-GŁOWY (19.05.2021r)- Dane w skierowaniu:"Stany napadowe" Opis w systemie teleradiologii
-badania TK głowy wykonanego warstwami grubości 2,5mm / vol 1,25 mm przed i po iv podaniu środka
-kontrastowego. Artefakty ruchowe. Nie stwierdza się cech krwawienia śródmózgowego i patologicznego
-ogniskowego wzmocnienia kontrastowego w obrębie OUN. Zróżnicowanie korowo-podkorowe
-zachowane. Przymózgowe przestrzenie płynowe nieposzerzone. Układ komorowy prawidłowej
-szerokości, nieprzemieszczony. Niewielka asymetria upowietrznienia wyrostków sutkowych . słabsza po
-stronie P. Kości pokrywy czaszki bez cech patologicznej przebudowy. Pogrubienie migdałka gardłowego
-- do korelajci klinciznej.
-
-Wnioski: obraz TK OUN bez uchwytnych morfologicznie odchyleń.
-
-*KARTA POMIARU SATURACJI:
-19.05.2021 godz:18.00 97% AS:80
-godz:20.30 98% AS:78
-godz:21.30 99% AS:80
-godz:22.30 97% AS:82
-godz:23.30 99% AS:79
-20.05.2021 godz:08.00 99% AS:89
-
-*EKG- Rytm zatokowy 83 /min. PQ- 0,12 s, QT- 0,3 s, QTc- 0,35 s. Zapis w normie dla wieku.
-
-Dokumentacja prowadzona w systeria Mediqus                                                        Nrks. gł. 2838 / 2021                                                                                Stona2z 3
-Wydrukowano 21.05.2021, 12.17                                                HUL FRANCISZEK
+NIP 644-108-924, REGON 16240724,
+0000000000000000000000000000000
 
 --- Page 33 ---
-CENTRUM PEDIATRII m. Jana Pawła ll w
-Sosnowiec Sp. z 0.0.
-
-ul. G. Zapolskiej 3, 41-218 Sosnowiec tel. 032/720-
-
-T7-
-
+CENTRUM PEDIATRII im. Jana Pawła II w
+Sosnowiec Sp. z o.o.
+ul. G. Zaleskiej 3, 41-216 Sosnowiec tel. 032/720-
+01/4401 Oddział Pediatriczny
 NIP 644-35-08-924, REGON 276240724,
-o:            PEDIATRICZNY
-Nr umowy 125/100567/ Nr ks. rej:: 000000013912
-Kody res. czV:01 czVII:001 czVII:4401
-
-KARTA INFORMACYJNA LECZENIA SZPITALNEGO
-
-01/4401 Oddział Pockaryczny,                                                                                       Załącznik nr 3 do histomichoroby
-* EEG - w opracowaniu
-
-Dokumentacja prowadzona w systernie                                       Tm                                                        3
-Wydrukowano 21.05.2021, 12.17                            Nrks, gł. 2838 1 2021                                 Strona 3 z
-
+Nr umowy 125/1000/2021, Nr konta 1000000013912
+Kody res. czV01 czVII-001 czVIII-4401
+EEG - w opracowaniu
+Załącznik nr 3 do historii choroby
+Dokumentacja prowadzona w systemie Medicus
+Wydrukowano 21.05.2021, 12.17
+Nr ks. gl. 2838 / 2021
 HUL FRANCISZEK
+Strona 3 z 3
 
 --- Page 34 ---
-CENTRUM PEDIATRII im. Jana Pawła ll w Sosnowiec Sp. z
-0.0.
-
-ul. G. Zapolskiej 3, 41-218 SOIODWFEG tel. 032/720-77-00       Nazwisko i ,”"ę  HUL FRANCISZEK
-
 Wyniki badania
 
-NIP &3›33&:2&%?&?6?›%„7«              Numer KG:         2838/2021
-Nr umowy 125/100567/ Nr ks. rej.: 000000013912       Data urodz.:      12.01.2018 — Sala:
-Kody res. czV:01 czVII:001 c
-Opis                                   Wynik                   Jednostka                     Norma
-Koronawirus SARS-CoV-2, antygen test immunochromat 19.05.2021              17:38
-SARS-CoV-2, antygen                NEGATYWNY                                             -
-Morfologia krwi (pełna , 25 parametrów)                           19.05.2021             18:10
-Leukocyty                                 6,1                        tys/ul                      5,5-15,5
-Erytrocyty                                      4,27                          mln/Hl                          46-62
-Hemoglobina                             11,6                      g/dl                      11-13,8
-Hematokryt                                    33                            %                            32 - 40
-MCV                                     78                           fl                          80 - 99
-MCH                                        27                            pg                         25,5 -29,5
-MCHC                                   34,9                        g/dl                      32,2 - 36,2
-Płytki krwi                                    325                         tys/pl                        150 - 450
-RDW-SD         .                    35,3                       f                     35,1 -43,9
-RDW-CV                           12,7                     %                     11-16
-PDW                                              10,5                                 fl                                   9-17
-MPV                                   9,8                         fl                         9-13
-P-LCR                                       221                            %                             13 - 43
-PCT                       0,32                %               0,17 - 0,35
-Neutrofile                                 34,1                          %                          25-60
-Limfocyty                                 49,5                         %                          25 - 50
-Monocyty                                  8,9                          %                            1-6
-Eozynofile                               7,0                        %                          1-5
-Bazofile                                         0,5                              %                                0-2
-Rozmaz krwi (manualnie)                             19.05.2021        18:55
-Gran. segmentowane                          37                          %                          25 -60
-Gran. kwasochłonne                        6                        %                        1-5
-Limfocyty                                     51                             %                            25-50
-Monocyty                                   6                           %                            1-6
-CRP,ilościowo                                                                19.05.2021              20:00
-CRP                                    <0,6                        mg/l                          0-5
-Sód                                                                                19.05.2021              18:55
-Sód                                 137,73                   mmol/l                    135 - 145
-Potas                                                                             19.05.2021              18:55
-Potas                                      4,04                        mmol/l                        35-53
-Wapń całkowity                                                               19.05.2021              18:55
+Nazwisko i imię: HUL FRANCISZEK
+Numer KG: 2838/2021
+Data urodz.: 12.01.2018
+Sala:
+
+Opis Wynik Jednostka Norma
+Koronawirus SARS-CoV-2, antygen test immunochromat 19.05.2021 17:38
+SARS-CoV-2, antigen NEGATYWNY
+
+Morfologia krwi (pełna, 25 parametrów)
+19.05.2021 18:10
+Leukocyty 6,1 tys/µl 5,5 - 15,5
+Erytrocyty 4,27 mln/µl 4,6 - 6,2
+Hemoglobina 11,6 g/dl 11 - 13,8
+Hematokryt 33 % 32 - 40
+MCV 78 fl 80 - 99
+MCH 27 pg 80,5 - 99
+MCHC 34,9 g/dl 32,2 - 36,2
+Płytki krwi 325 tys/µl 150 - 450
+RDW-SD 35,3 fl 35,1 - 43,9
+RDW-CV 12,7 % 11 - 16
+PDW 10,5 fl 9 - 17
+MPV 9,8 fl 9 - 13
+P-LCR 22,1 % 9 - 13
+PCT 0,32 % 0,17 - 0,35
+CRP,ilościowo 19.05.2021 20:00
+CRP <0,6 mg/l 0 - 5
+Sód 19.05.2021 18:55
+Sód 137,73 mmol/l 135 - 145
+Potas 19.05.2021 18:55
+Potas 4,04 mmol/l 3,5 - 5,3
+Wapń całkowity 19.05.2021 18:55
 
 Imię i nazwisko pacjenta: FRANCISZEK HUL
-System Mediqus © GaBoS Software sp. z 0.0.
-
-Nrks.gł: 2838/2021
+System MediQus © GaBoS Software sp. z o.o.
+Nr ks.: 2838/2021
 Strona: 1
 
 --- Page 35 ---
-CENTRUM PEDIATRII im. Jana Pawła li w Sosnowiec Sp. z
-0.0.
-ul. G. Zapolskiej 3, 41-218 Sosnowiec tel. 032/720-77-00
-
-Nazwisko i imię: HUL FRANCISZEK
-
 Wyniki badania
 
-NIP 644-35-08-924, REGON 276240724,                Numer KG:          2838/2021
+CENTRUM PEDIATRII im. Jana Pawła II w Sosnowiec Sp. z o.o.
+ul. G. Zaspolskiej 3, 41-218 Sosnowiec tel. 032/720-77-00
+NIP 644-35-08-924, REGON 276240724,
 ODDZIAŁ PEDIATRICZNY
-Nr umowy 125/100567/ Nr ks. rej.: 000000013912        Data urodz.:       12.01.2018 — Sala:
-Kody res. czV:01 czVII:001 c
-'Wapń całkowity                           9,98                     mg/di                     8,8 - 10,8
-Magnez                                                                          19.05.2021              18:55
-Magnez                                  2,22                       mg/dl                       17-23
-Fosfor nieorganiczny                                                       19.05.2021               18:55
-Fosfor nieorganiczny                         5,14                       mg/dl                       3,4 -6,2
-Glukoza                                                                         19.05.2021              18:55
-Glukoza                               101,42                    mg/dl                       70-99
-Gazometria podstawowa (pH, pCO2, pO2)                        19.05.2021             18:09
-pH                                      7,46                                                          .
-pCo2                                   32,90                     mmHg                           -
-pO2                                    85,80                     mmHg                      80 - 100
-Saturacja                                97,00                        %                              -
-HCO3-STD                               23,90                     mmol/                           -
-HCO3-akt.                            22,70                   mmol/l                    21-26
-BE(B)                                   -0,60                      mmol/l                           -
-BEecf                                   -1,20                      mmol/l                           -
-AST                                                                               19.05.2021              18:55
-AST                                     34                          U/                          0-40
-ALT                                                                               19.05.2021              18:55
-ALT                                      10                          UA                          0-41
-Kreatynina                                                                     19.05.2021              18:55
-Kreatynina                                0,38                       mg/dl                     0,24 -0,47
-TK - głowy bez i ze środkiem kontrastowym                                                 0:00
-Mocz - badanie ogólne                                                        20.05.2021                10:36
-Przejrzystość                          przejrzysty                                                      -
-Barwa                               jasnożółty                                                      -
-Ciężar właściwy                            1,005                       g/ml                     1,015 - 1,03
-pH                                      6,0                                                        5-7
-Glukoza                              nieobecna                   mg/dl                            -
-Ketony                               nieobecne                                                      -
-Urobilinogen                            w normie                   Hmol/l                        0-16
-Bilirubina                             nieobecna                                                      -
-Imię i nazwisko pacjenta: FRANCISZEK HUL                                                                         Nrks.gł:  2838/2021
+Nr umowy 125/100567/ Nf ks. rej. 000000013912
+Kody res. czV/01 czVII/001 c
 
-System Mediqus © GaBoS Software sp. z 0.0.
+Nazwisko i imię: HUL FRANCISZEK
+Numer KG: 2838/2021
+Data urodz.: 12.01.2018
+Sala:
 
+Wapń całkowity
+9,98
+mg/dl
+8,8 - 10,8
+
+Magnez
+2,22
+mg/dl
+1,7 - 2,3
+
+Fosfor nieorganiczny
+5,14
+mg/dl
+3,4 - 6,2
+
+Glukoza
+101,42
+mg/dl
+70 - 99
+
+Gazometria podstawowa (pH, pCO2, pO2)
+19.05.2021
+18:55
+
+pH
+7,46
+
+pCO2
+32,90
+mmHg
+
+pO2
+85,80
+mmHg
+
+Saturacja
+97,00
+%
+
+HCO3-STD
+23,90
+mmol/l
+
+HCO3-akt.
+22,70
+mmol/l
+
+BE(B)
+-0,60
+mmol/l
+
+BEecf
+-1,20
+mmol/l
+
+AST
+34
+U/l
+0 - 40
+
+ALT
+10
+U/l
+0 - 41
+
+Kreatynina
+0,38
+mg/dl
+0,24 - 0,47
+
+TK - głowy bez i ze środkiem kontrastowym
+0:00
+
+Mocz - badanie ogólne
+20.05.2021
+10:36
+
+Przejrzystość
+przejrzysty
+
+Barwa
+jasnożółty
+
+Ciężar właściwy
+1,005
+g/ml
+1,015 - 1,03
+
+pH
+6,0
+5 - 7
+
+Glukoza
+nieobecna
+
+Glubeczna
+mg/dl
+
+Ketony
+nieobecne
+
+Urobilinogen
+w normie
+
+Bilirubina
+nieobecna
+
+Bilirubina
+μmol/l
+0 - 16
+
+Imię i nazwisko pacjenta: FRANCISZEK HUL
+System Medicus © GaBoS Software sp. z o.o.
+Nr ks. gl.: 2838/2021
 Strona: 2
 
 --- Page 36 ---
-0.0.
-ul. G, Zapolskiej 3, 41-218 Sosnowiec tel. 032/720-77-00
-
-CENTRUM PEDIATRII im. Jana Pawła Il w Sosnowiec Sp. z
-
-Nazwisko i imię: HUL FRANCISZEK
-
 Wyniki badania
 
-NIP 644 35.08-924. F REGON 276240724,       Numer KG:    2838/2021
-Nr umowy 125/100567/ Nr ks. rej.: 000000013912       Data urodz.:      12.01.2018 — Sala:
-Kody res. czV:01 czVII:001 c
-Białko                                nieobecne                                                      -
-Azotyny                              nieobecne                                                      -
-Erytrocyty                             nieobecna                                                      :
-Leukocyty                             nieobecne                                                      -
-Mocz - badanie osadu                                                  20.05.2021             10:36
-Nabłonki płaskie                     pojedyncze                Wpw                         -
-Leukocyty                                  0-1                        wpw                          0-5
-Bakterie                             pojedyncze                 w prep.                           -
+Nazwisko i imię: HUL FRANCISZEK
+Numer KG: 2838/2021
+Data urodz.: 12.01.2018
+Sala:
+
+Białko nieobecne
+Azotyny nieobecne
+Erytrocyty nieobecne
+Leukocyty nieobecne
+
+Mocz - badanie osadu
+20.05.2021 10:36
+Nablonki płaskie pojedyncze wpw
+Leukocyty 0-1 wpw
+Bakterie pojedyncze w prep.
+0-5
 
 Imię i nazwisko pacjenta: FRANCISZEK HUL
-System Mediqus © GaBoS Software sp. z 0.0.
-
-Nrks.gł.: 2838/2021
+System Medius © GaBoS Software sp. z o.o.
+Nr ks.gl.: 2838/2021
 Strona: 3
 
 --- Page 37 ---
-CENTRUM PEDIATRII im. Jana Pawła II w Sosnowiec Sp. z 0.0.
-
-mpsśfawls;ar% 3 41-21% Sosnowiec [e. 032/720.77-00                                                                                                                     Data: 19.05.2021
-14-35-      ?4, REGON 276240724,                                                          .
-
-ODDZIAŁ PEDIATRICZNY                                                                 KsG:  2838/2021
-
-Nr umowy 125/100567/ Nr ks. rej.: O00000013912                                      Kartoteka:   16311115
-
-Kody res. czV:01 czVII:001 czVIIl:4401
+CENTRUM PEDIATRII im. Jana Pawła II w Sosnowiec Sp. z o.o.
+ul. G. Zaposłej 3, 41-218 Sosnowiec tel. 032/720-77-00
+NIP 644-35-09-924, REGON 276240724
+ODDZIAŁ PEDIATRICZNY
+Nr umowy 125/100587, Nr ks.: 000000013912
 Kod chor.: G40.0
-
+KSG: 2838/2021
+Data: 19.05.2021
+Kartoteka: 16311115
+Data urodz.: 12.01.2018
+Data wypisu: 21.05.2021
+PESEL: 18211204559
 Nazwisko Imie: HUL FRANCISZEK
-
-Data urodz.: 12.01.2018     PESEL: 18211204559
-Data przyjęcia: 19.05.2021 Data wypisu: 21.05.2021
-Mediqus by GaBoS Software
-
 Inf. o chorym po hospitalizacji
 ZAŁĄCZNIK DO KARTY INFORMACYJNEJ:
-
-*EEG (21.05.2021r opisał lek A.Gorczyca)-Badanie wykonano w śnie spontanicznym cechy bioelektryczne snu
-wyrażone dobrze
-
-pod postacią symetrycznych wrzecion snu 12 Hz fal ostrych wierzchołkowych i
-kolmpleksów K W okolicach czołowych i skronowo-potylicznych liczne fakle wolne 1-2
-Hz fale ostre z wolna iglice fala wolna z przewagą zmian po stronie lewej
-
+*EEG (21.05.2021r opisał lek A.Gorczyca)-Badanie wykonano w śnie spontanicznym cechy bioelektryczne snu wyraźnie dobrze
+pod postacią symetrycznych wzecion snu 12 Hz fal ostrych wierzcholkowych i kolmpleksów K W okolicach czolowych i skronowo-potylcznych liczne fakle wolne 1-2 Hz fale ostrye z wolna iglice fala wolna z przewagą zmian po stronie lewej
 Orzeczenie: Zapis nieprawidłowy
-
-Zalecenia: przyjęcie na Oddział Pediatrii celem wykonania MR głowy w znieczuleniu, planowany termin przyjęcia
-02.08.2021, g.8:30, numer skierowania 9175.
-
+Zalecenia: przyjęcie na Oddział Pediatrii celem wykonania MR głowy w znaczulieniu, planowany termin przyjęcia 02.08.2021, g.8:30, numer skierowania 9175.
 Opisywał: MOREL ANNA
-
 LEK.
-
 nr PWZ 3407721
-'14 Morel
-3407721
-
-HUL FRANCISZEK KSG: 2838/2021                                                                                                                                     "Wydruk Historii Choroby strona 171
+Wydruk Historii Choroby strona 1/1
+HUL FRANCISZEK KSG: 2838/2021
 
 --- Page 38 ---
-arecepta
-
-KMUKAADA KNRL
-
+@recepta
 10500439250725688871950848050523652125151390
-Prefiks ID 2.16.840.1.113883,3.4424.2.7.73268.2.1
-
-Kod dostępu 1991                          Wystawiono 10.03.2025
-
-Pacjent           Franciszek Hul
-Wystawca — Teresa Kleist
-PWZ lekarza 9624110
+Prefiks ID 2.16.840.1.113883.3.4424.2.7.73268.2.1
+Kod dostępu 1991
+Wystawiono 10.03.2025
+Pacjent Franciszek Hul
+Wystawca Teresa Kleist
+Wystawca PWZ lekarza 9624110
 tel.: +48797021021
-Recepta 1z 1                                       0000000000001937014553
-Cezarius roztw. doustny (100 mg/ml)                           IR
+Recepta 1 z 1
+0000000000001937014553
+Cezarius rozw. doustny (100 mg/ml)
 1 op. x but. 300 ml
-D.S.2x2ml
+D.S. 2 x 2 ml
 Sposób podania: doustnie
 Odpłatność: ryczałt
-
-Wejdź na pacjent.gov.pl i skorzystaj z Internetowego Konta Pacjenta (IKP),
-
+Wejdź na pacjent.gov.pl i skorzystaj z Internetowego Konta Pacjenta (IKP).
 mMedica wersja 10.7.0.20404
-
