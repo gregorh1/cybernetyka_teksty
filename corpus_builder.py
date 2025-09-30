@@ -9,10 +9,19 @@ import re
 from pathlib import Path
 import json
 from datetime import datetime
+import argparse
 
 def extract_metadata_from_txt(txt_path):
     """Wyciąga metadane z pliku tekstowego"""
     txt_path = Path(txt_path)
+    
+    # Extract topic from path structure TOPICS/<topic>/...
+    topic_parts = txt_path.parts
+    topic = 'unknown'
+    if 'TOPICS' in topic_parts:
+        topic_index = topic_parts.index('TOPICS')
+        if topic_index + 1 < len(topic_parts):
+            topic = topic_parts[topic_index + 1]
     
     metadata = {
         'filename': txt_path.name,
@@ -24,6 +33,7 @@ def extract_metadata_from_txt(txt_path):
         'pages': 0,
         'size_kb': round(txt_path.stat().st_size / 1024, 1),
         'words_estimate': 0,
+        'topic': topic,
         'topics': []
     }
     
@@ -115,29 +125,78 @@ def clean_text_content(text):
     
     return text.strip()
 
-def create_unified_corpus():
+def get_available_topics():
+    """Pobierz dostępne tematy"""
+    topics_path = Path("TOPICS")
+    if not topics_path.exists():
+        return []
+    
+    topics = []
+    for item in topics_path.iterdir():
+        if item.is_dir():
+            topics.append(item.name)
+    
+    return sorted(topics)
+
+def find_txt_files(topic=None):
+    """Znajdź pliki .txt w określonym temacie lub wszystkich tematach"""
+    topics_path = Path("TOPICS")
+    
+    if not topics_path.exists():
+        print("❌ Folder TOPICS/ nie istnieje")
+        return []
+    
+    txt_files = []
+    
+    if topic:
+        # Szukaj tylko w określonym temacie
+        topic_path = topics_path / topic
+        if not topic_path.exists():
+            print(f"❌ Temat '{topic}' nie istnieje")
+            available_topics = get_available_topics()
+            if available_topics:
+                print(f"Dostępne tematy: {', '.join(available_topics)}")
+            return []
+        
+        txt_files.extend(list(topic_path.rglob('*.txt')))
+        print(f"🔍 Szukanie plików .txt w temacie: {topic}")
+    else:
+        # Szukaj we wszystkich tematach
+        txt_files.extend(list(topics_path.rglob('*.txt')))
+        print(f"🔍 Szukanie plików .txt we wszystkich tematach")
+    
+    return txt_files
+
+def create_unified_corpus(topic=None):
     """Tworzy jednolity korpus ze wszystkich plików .txt"""
     
-    print("📚 Tworzenie korpusu cybernetyki...")
+    if topic:
+        print(f"📚 Tworzenie korpusu dla tematu: {topic}")
+    else:
+        print("📚 Tworzenie korpusu ze wszystkich tematów...")
     print("=" * 50)
     
     # Znajdź wszystkie pliki .txt
-    txt_files = []
-    for folder in ['TEXTS/autonom/Kossecki', 'TEXTS/autonom/Mazur']:
-        if os.path.exists(folder):
-            txt_files.extend(list(Path(folder).glob('*.txt')))
+    txt_files = find_txt_files(topic)
     
     if not txt_files:
-        print("❌ Nie znaleziono plików .txt")
+        if topic:
+            print(f"❌ Nie znaleziono plików .txt w temacie '{topic}'")
+        else:
+            print("❌ Nie znaleziono plików .txt")
         return
     
     print(f"📁 Znaleziono {len(txt_files)} plików .txt")
     
     # Przygotuj strukturę korpusu
+    corpus_title = f"Korpus {topic.title()}" if topic else "Korpus Cybernetyki Polskiej"
+    corpus_description = f"Zbiór tekstów z tematu: {topic}" if topic else "Zbiór tekstów z zakresu cybernetyki społecznej i ogólnej autorstwa Józefa Kosseckiego i Mariana Mazura"
+    
     corpus = {
         'metadata': {
-            'title': 'Korpus Cybernetyki Polskiej',
-            'description': 'Zbiór tekstów z zakresu cybernetyki społecznej i ogólnej autorstwa Józefa Kosseckiego i Mariana Mazura',
+            'title': corpus_title,
+            'description': corpus_description,
+            'topic_filter': topic,
             'authors': ['Józef Kossecki', 'Marian Mazur'],
             'created': datetime.now().isoformat(),
             'total_files': len(txt_files),
@@ -150,10 +209,11 @@ def create_unified_corpus():
     }
     
     unified_text = []
-    unified_text.append("KORPUS CYBERNETYKI POLSKIEJ")
+    unified_text.append(corpus_title.upper())
     unified_text.append("="*50)
-    unified_text.append(f"Zbiór tekstów z zakresu cybernetyki społecznej i ogólnej")
-    unified_text.append(f"Autorzy: Józef Kossecki, Marian Mazur")
+    unified_text.append(corpus_description)
+    if not topic:
+        unified_text.append(f"Autorzy: Józef Kossecki, Marian Mazur")
     unified_text.append(f"Utworzony: {datetime.now().strftime('%Y-%m-%d %H:%M')}")
     unified_text.append(f"Liczba dokumentów: {len(txt_files)}")
     unified_text.append("")
@@ -211,31 +271,49 @@ def create_unified_corpus():
     # Konwertuj set na listę dla JSON
     corpus['metadata']['topics'] = list(corpus['metadata']['topics'])
     
+    # Określ nazwy plików wyjściowych i lokalizację
+    if topic:
+        # Zapisz w folderze tematu
+        topic_path = Path("TOPICS") / topic
+        metadata_file = topic_path / 'corpus_metadata.json'
+        corpus_file = topic_path / 'corpus.txt'
+        compact_file = topic_path / 'corpus_compact.txt'
+    else:
+        # Gdy nie ma określonego tematu, zapisz w katalogu głównym
+        metadata_file = 'cybernetyka_corpus_metadata.json'
+        corpus_file = 'cybernetyka_corpus.txt'
+        compact_file = 'cybernetyka_corpus_compact.txt'
+    
     # Zapisz metadane korpusu
-    with open('cybernetyka_corpus_metadata.json', 'w', encoding='utf-8') as f:
+    with open(metadata_file, 'w', encoding='utf-8') as f:
         json.dump(corpus, f, indent=2, ensure_ascii=False)
     
     # Zapisz zunifikowany korpus tekstowy
     unified_content = '\n'.join(unified_text)
-    with open('cybernetyka_corpus.txt', 'w', encoding='utf-8') as f:
+    with open(corpus_file, 'w', encoding='utf-8') as f:
         f.write(unified_content)
     
     # Zapisz także kompaktową wersję dla OpenWebUI
     compact_content = []
-    compact_content.append("CYBERNETYKA POLSKA - KORPUS TEKSTÓW")
-    compact_content.append("Józef Kossecki & Marian Mazur")
+    if topic:
+        compact_content.append(f"{topic.upper()} - KORPUS TEKSTÓW")
+    else:
+        compact_content.append("CYBERNETYKA POLSKA - KORPUS TEKSTÓW")
+        compact_content.append("Józef Kossecki & Marian Mazur")
     compact_content.append("")
     
     for doc in corpus['documents']:
         meta = doc['metadata']
         compact_content.append(f"\n## {meta['title'] or meta['filename']}")
         compact_content.append(f"**Autor:** {meta['author']}")
+        if meta.get('topic'):
+            compact_content.append(f"**Temat:** {meta['topic']}")
         if meta['topics']:
             compact_content.append(f"**Tematy:** {', '.join(meta['topics'])}")
         compact_content.append("")
         compact_content.append(doc['content'][:1500] + "..." if len(doc['content']) > 1500 else doc['content'])
     
-    with open('cybernetyka_corpus_compact.txt', 'w', encoding='utf-8') as f:
+    with open(compact_file, 'w', encoding='utf-8') as f:
         f.write('\n'.join(compact_content))
     
     # Podsumowanie
@@ -247,12 +325,61 @@ def create_unified_corpus():
     print(f"🏷️  Tematy: {', '.join(corpus['metadata']['topics'])}")
     
     print(f"\n📄 Utworzone pliki:")
-    print(f"📋 cybernetyka_corpus_metadata.json - metadane korpusu")
-    print(f"📄 cybernetyka_corpus.txt - pełny korpus ({len(unified_content)/1024:.1f} KB)")
+    print(f"📋 {metadata_file} - metadane korpusu")
+    print(f"📄 {corpus_file} - pełny korpus ({len(unified_content)/1024:.1f} KB)")
     compact_size = len('\n'.join(compact_content))/1024
-    print(f"📄 cybernetyka_corpus_compact.txt - kompaktowa wersja ({compact_size:.1f} KB)")
+    print(f"📄 {compact_file} - kompaktowa wersja ({compact_size:.1f} KB)")
     
     return corpus
 
+def build_all_topic_corpuses():
+    """Zbuduj korpus dla każdego tematu oddzielnie"""
+    topics = get_available_topics()
+    
+    if not topics:
+        print("❌ Nie znaleziono tematów w folderze TOPICS/")
+        return
+    
+    print(f"📚 Tworzenie korpusów dla wszystkich tematów ({len(topics)} tematów)")
+    print("=" * 60)
+    
+    for i, topic in enumerate(topics, 1):
+        print(f"\n🔄 [{i}/{len(topics)}] Przetwarzam temat: {topic}")
+        print("-" * 40)
+        
+        try:
+            create_unified_corpus(topic)
+            print(f"✅ Korpus dla tematu '{topic}' został utworzony")
+        except Exception as e:
+            print(f"❌ Błąd podczas tworzenia korpusu dla tematu '{topic}': {e}")
+    
+    print(f"\n🎉 Zakończono tworzenie korpusów dla wszystkich tematów!")
+    print(f"📁 Każdy temat ma swój korpus w folderze TOPICS/<temat>/")
+
+def main():
+    """Główna funkcja z obsługą argumentów wiersza poleceń"""
+    parser = argparse.ArgumentParser(description="Tworzenie korpusu tekstów z plików .txt")
+    parser.add_argument("-t", "--topic", help="Przetwarzaj tylko pliki z określonego tematu")
+    parser.add_argument("--list-topics", action="store_true", help="Pokaż dostępne tematy")
+    parser.add_argument("--all-topics", action="store_true", help="Zbuduj korpus dla każdego tematu oddzielnie")
+    
+    args = parser.parse_args()
+    
+    if args.list_topics:
+        topics = get_available_topics()
+        if topics:
+            print("📂 Dostępne tematy:")
+            for topic in topics:
+                print(f"  • {topic}")
+        else:
+            print("❌ Nie znaleziono tematów w folderze TOPICS/")
+        return
+    
+    if args.all_topics:
+        build_all_topic_corpuses()
+        return
+    
+    create_unified_corpus(args.topic)
+
 if __name__ == "__main__":
-    create_unified_corpus() 
+    main() 

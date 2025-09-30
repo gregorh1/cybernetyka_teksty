@@ -1,26 +1,68 @@
 #!/bin/bash
 
 # Script to OCR multiple PDF books containing 'tiff' in filename to text
-# Usage: ./tesseract_pdf_ocr.sh [specific_pdf_file]
-#   Without parameter: processes all PDF files containing 'tiff' in subfolders
-#   With parameter: processes only the specified PDF file
+# Usage: ./tesseract_pdf_ocr.sh [specific_pdf_file] [-t topic]
+#   Without parameter: processes all PDF files containing 'tiff' in all topics
+#   With specific file: processes only the specified PDF file
+#   With -t topic: processes files only from specific topic folder
 
 # Show help
 if [[ "$1" == "-h" || "$1" == "--help" ]]; then
     echo "📖 Tesseract PDF OCR Script"
     echo ""
     echo "Usage:"
-    echo "  ./tesseract_pdf_ocr.sh                    - Process all PDF files containing 'tiff'"
-    echo "  ./tesseract_pdf_ocr.sh path/to/file.pdf   - Process specific PDF file"
-    echo "  ./tesseract_pdf_ocr.sh -h                 - Show this help"
+    echo "  ./tesseract_pdf_ocr.sh                        - Process all PDF files containing 'tiff' in all topics"
+    echo "  ./tesseract_pdf_ocr.sh -t <topic>             - Process files only from specific topic"
+    echo "  ./tesseract_pdf_ocr.sh path/to/file.pdf       - Process specific PDF file"
+    echo "  ./tesseract_pdf_ocr.sh -h                     - Show this help"
+    echo "  ./tesseract_pdf_ocr.sh --list-topics          - Show available topics"
     echo ""
     echo "Examples:"
-    echo "  ./tesseract_pdf_ocr.sh                                        # Process all files"
-    echo "  ./tesseract_pdf_ocr.sh Mazur/cybernetyka-tiff.pdf            # Test with one file"
-    echo "  ./tesseract_pdf_ocr.sh /full/path/to/document.pdf            # Process specific file"
+    echo "  ./tesseract_pdf_ocr.sh                                    # Process all files"
+    echo "  ./tesseract_pdf_ocr.sh -t cybernertics                    # Process only cybernertics topic"
+    echo "  ./tesseract_pdf_ocr.sh TOPICS/cybernertics/file.pdf       # Process specific file"
     echo ""
     exit 0
 fi
+
+# List available topics
+if [[ "$1" == "--list-topics" ]]; then
+    echo "📂 Available topics:"
+    if [ -d "TOPICS" ]; then
+        for topic_dir in TOPICS/*/; do
+            if [ -d "$topic_dir" ]; then
+                topic_name=$(basename "$topic_dir")
+                echo "  • $topic_name"
+            fi
+        done
+    else
+        echo "❌ TOPICS/ directory not found"
+    fi
+    exit 0
+fi
+
+# Parse arguments
+TOPIC=""
+SPECIFIC_FILE=""
+
+# Parse command line arguments
+while [[ $# -gt 0 ]]; do
+    case $1 in
+        -t|--topic)
+            TOPIC="$2"
+            shift 2
+            ;;
+        *.pdf)
+            SPECIFIC_FILE="$1"
+            shift
+            ;;
+        *)
+            echo "❌ Unknown argument: $1"
+            echo "Use -h for help"
+            exit 1
+            ;;
+    esac
+done
 
 # Check dependencies
 echo "🔧 Checking dependencies..."
@@ -44,41 +86,72 @@ echo "✅ Dependencies checked"
 echo ""
 
 # Check if specific file parameter is provided
-if [ -n "$1" ]; then
+if [ -n "$SPECIFIC_FILE" ]; then
     # Process specific file
-    echo "🎯 Processing specific file: $1"
+    echo "🎯 Processing specific file: $SPECIFIC_FILE"
     
-    if [ ! -f "$1" ]; then
-        echo "❌ File not found: $1"
+    if [ ! -f "$SPECIFIC_FILE" ]; then
+        echo "❌ File not found: $SPECIFIC_FILE"
         exit 1
     fi
     
-    if [[ "$1" != *.pdf ]]; then
-        echo "❌ File is not a PDF: $1"
+    if [[ "$SPECIFIC_FILE" != *.pdf ]]; then
+        echo "❌ File is not a PDF: $SPECIFIC_FILE"
         exit 1
     fi
     
     # Use array for single file to preserve spaces
-    pdf_files_array=("$1")
+    pdf_files_array=("$SPECIFIC_FILE")
 else
-    # Process all files containing 'tiff'
-    echo "🔍 Looking for PDF files containing 'tiff' in subfolders..."
-    
-    # Use array to store files found by find command
-    mapfile -t pdf_files_array < <(find . -name "*tiff*.pdf" -type f)
+    # Process files based on topic or all topics
+    if [ -n "$TOPIC" ]; then
+        # Process specific topic
+        echo "🔍 Looking for PDF files containing 'tiff' in topic: $TOPIC"
+        
+        if [ ! -d "TOPICS/$TOPIC" ]; then
+            echo "❌ Topic directory not found: TOPICS/$TOPIC"
+            echo "Available topics:"
+            for topic_dir in TOPICS/*/; do
+                if [ -d "$topic_dir" ]; then
+                    echo "  • $(basename "$topic_dir")"
+                fi
+            done
+            exit 1
+        fi
+        
+        # Use array to store files found by find command in specific topic
+        mapfile -t pdf_files_array < <(find "TOPICS/$TOPIC" -name "*tiff*.pdf" -type f)
+    else
+        # Process all topics
+        echo "🔍 Looking for PDF files containing 'tiff' in all topics..."
+        
+        if [ ! -d "TOPICS" ]; then
+            echo "❌ TOPICS directory not found"
+            exit 1
+        fi
+        
+        # Use array to store files found by find command in all topics
+        mapfile -t pdf_files_array < <(find "TOPICS" -name "*tiff*.pdf" -type f)
+    fi
     
     if [ ${#pdf_files_array[@]} -eq 0 ]; then
-        echo "❌ No PDF files containing 'tiff' found in subfolders"
+        if [ -n "$TOPIC" ]; then
+            echo "❌ No PDF files containing 'tiff' found in topic: $TOPIC"
+        else
+            echo "❌ No PDF files containing 'tiff' found in TOPICS"
+        fi
         exit 1
     fi
 fi
 
 # Count total files and set up processing
 total_files=${#pdf_files_array[@]}
-if [ -n "$1" ]; then
+if [ -n "$SPECIFIC_FILE" ]; then
     echo "📚 Processing 1 specific PDF file"
+elif [ -n "$TOPIC" ]; then
+    echo "📚 Found $total_files PDF files to process in topic: $TOPIC"
 else
-    echo "📚 Found $total_files PDF files to process"
+    echo "📚 Found $total_files PDF files to process across all topics"
 fi
 
 # Process each PDF file
@@ -197,10 +270,13 @@ for pdf_file in "${pdf_files_array[@]}"; do
 done
 
 echo ""
-if [ -n "$1" ]; then
+if [ -n "$SPECIFIC_FILE" ]; then
     echo "🎉 PDF file processed successfully!"
     echo "💡 You can find the .txt file in the same directory as the original PDF"
+elif [ -n "$TOPIC" ]; then
+    echo "🎉 All PDF files in topic '$TOPIC' processed!"
+    echo "💡 You can find the .txt files in their respective directories alongside the original PDFs"
 else
-    echo "🎉 All PDF files processed!"
+    echo "🎉 All PDF files across all topics processed!"
     echo "💡 You can find the .txt files in their respective directories alongside the original PDFs"
 fi

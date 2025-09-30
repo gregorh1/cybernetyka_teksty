@@ -7,6 +7,7 @@ Używa múltiple metod konwersji: docx2txt, mammoth, python-docx, textract
 import os
 import subprocess
 from pathlib import Path
+import argparse
 
 def convert_with_docx2txt(doc_path):
     """Próba konwersji przez docx2txt (najlepsze dla .docx)"""
@@ -169,20 +170,80 @@ def convert_doc_file(doc_path):
     print(f"❌ Wszystkie metody zawiodły dla: {doc_path.name}")
     return False
 
+def get_available_topics():
+    """Pobierz dostępne tematy"""
+    topics_path = Path("TOPICS")
+    if not topics_path.exists():
+        return []
+    
+    topics = []
+    for item in topics_path.iterdir():
+        if item.is_dir():
+            topics.append(item.name)
+    
+    return sorted(topics)
+
+def find_doc_files(topic=None):
+    """Znajdź pliki .doc w określonym temacie lub wszystkich tematach"""
+    topics_path = Path("TOPICS")
+    
+    if not topics_path.exists():
+        print("❌ Folder TOPICS/ nie istnieje")
+        return []
+    
+    doc_files = []
+    
+    if topic:
+        # Szukaj tylko w określonym temacie
+        topic_path = topics_path / topic
+        if not topic_path.exists():
+            print(f"❌ Temat '{topic}' nie istnieje")
+            available_topics = get_available_topics()
+            if available_topics:
+                print(f"Dostępne tematy: {', '.join(available_topics)}")
+            return []
+        
+        doc_files.extend(list(topic_path.rglob('*.doc')))
+        print(f"🔍 Szukanie plików .doc w temacie: {topic}")
+    else:
+        # Szukaj we wszystkich tematach
+        doc_files.extend(list(topics_path.rglob('*.doc')))
+        print(f"🔍 Szukanie plików .doc we wszystkich tematach")
+    
+    return doc_files
+
 def main():
     """Konwertuj wszystkie pliki .doc w folderach"""
+    parser = argparse.ArgumentParser(description="Konwersja plików .doc do .txt")
+    parser.add_argument("-t", "--topic", help="Przetwarzaj tylko pliki z określonego tematu")
+    parser.add_argument("--list-topics", action="store_true", help="Pokaż dostępne tematy")
     
-    print("📄 Konwersja plików .doc do .txt")
+    args = parser.parse_args()
+    
+    if args.list_topics:
+        topics = get_available_topics()
+        if topics:
+            print("📂 Dostępne tematy:")
+            for topic in topics:
+                print(f"  • {topic}")
+        else:
+            print("❌ Nie znaleziono tematów w folderze TOPICS/")
+        return
+    
+    if args.topic:
+        print(f"📄 Konwersja plików .doc do .txt - temat: {args.topic}")
+    else:
+        print("📄 Konwersja plików .doc do .txt - wszystkie tematy")
     print("=" * 40)
     
     # Znajdź wszystkie pliki .doc
-    doc_files = []
-    for folder in ['TEXTS/autonom/Kossecki', 'TEXTS/autonom/Mazur']:
-        if os.path.exists(folder):
-            doc_files.extend(list(Path(folder).glob('*.doc')))
+    doc_files = find_doc_files(args.topic)
     
     if not doc_files:
-        print("❌ Nie znaleziono plików .doc")
+        if args.topic:
+            print(f"❌ Nie znaleziono plików .doc w temacie '{args.topic}'")
+        else:
+            print("❌ Nie znaleziono plików .doc")
         return
     
     print(f"📁 Znaleziono {len(doc_files)} plików .doc")

@@ -270,72 +270,133 @@ def show_menu(processor: AIORProcessor, dpi: int = 200):
     print("=" * 70)
     print("📄 PROCESSING OPTIONS:")
     print("1. 📄 Process specific PDF file")
-    print("2. 🔍 Scan TEXTS/ folder for image-only PDFs")
-    print("3. 🚀 Process all image-only PDFs in TEXTS/ folder")
+    print("2. 🔍 Scan specific topic folder for image-only PDFs")
+    print("3. 🚀 Process all image-only PDFs in specific topic")
+    print("4. 🌐 Scan all topics for image-only PDFs")
+    print("5. 🚀 Process all image-only PDFs in all topics")
     print("")
     print("❓ HELP & INFO:")
-    print("4. ℹ️  Show script information & usage")
-    print("5. 🔧 Check dependencies & model status")
-    print("6. 📚 Show examples & tips")
+    print("6. ℹ️  Show script information & usage")
+    print("7. 🔧 Check dependencies & model status")
+    print("8. 📚 Show examples & tips")
     print("")
     print("⚙️  CURRENT SETTINGS:")
     print(f"   📊 Model: {processor.model_name}")
     print(f"   🖼️  DPI: {dpi} (use --dpi option to change)")
     print(f"   🌐 Server: {processor.ollama_url}")
     print("")
-    print("7. ❌ Exit")
+    print("9. ❌ Exit")
     print("=" * 70)
     
     while True:
         try:
-            choice = input("Select option (1-7): ").strip()
-            if choice in ['1', '2', '3', '4', '5', '6', '7']:
+            choice = input("Select option (1-9): ").strip()
+            if choice in ['1', '2', '3', '4', '5', '6', '7', '8', '9']:
                 return choice
             else:
-                print("❌ Invalid choice. Please enter 1-7.")
+                print("❌ Invalid choice. Please enter 1-9.")
         except KeyboardInterrupt:
             print("\n👋 Goodbye!")
-            return '7'
+            return '9'
 
 
-def scan_texts_folder() -> List[Path]:
-    """Scan entire TEXTS/ folder for image-only PDFs"""
-    texts_path = Path("TEXTS")
-    
-    if not texts_path.exists():
-        print("❌ TEXTS/ folder not found in current directory")
+def get_available_topics() -> List[str]:
+    """Get list of available topic directories"""
+    topics_path = Path("TOPICS")
+    if not topics_path.exists():
         return []
     
-    print(f"🔍 Scanning entire TEXTS/ folder recursively...")
+    topics = []
+    for item in topics_path.iterdir():
+        if item.is_dir():
+            topics.append(item.name)
+    
+    return sorted(topics)
+
+def select_topic() -> str:
+    """Interactive topic selection"""
+    topics = get_available_topics()
+    
+    if not topics:
+        print("❌ No topic folders found in TOPICS/")
+        return None
+    
+    print("\n📂 Available topics:")
+    for i, topic in enumerate(topics, 1):
+        print(f"  {i}. {topic}")
+    
+    while True:
+        try:
+            choice = input(f"\nSelect topic (1-{len(topics)}) or 'back' to return: ").strip()
+            
+            if choice.lower() == 'back':
+                return None
+            
+            choice_num = int(choice)
+            if 1 <= choice_num <= len(topics):
+                selected_topic = topics[choice_num - 1]
+                print(f"✅ Selected topic: {selected_topic}")
+                return selected_topic
+            else:
+                print(f"❌ Please enter a number between 1 and {len(topics)}")
+                
+        except ValueError:
+            print("❌ Please enter a valid number or 'back'")
+        except KeyboardInterrupt:
+            print("\n👋 Returning to main menu...")
+            return None
+
+def scan_topic_folder(topic: str = None) -> List[Path]:
+    """Scan TOPICS/<topic> folder for image-only PDFs"""
+    topics_path = Path("TOPICS")
+    
+    if not topics_path.exists():
+        print("❌ TOPICS/ folder not found in current directory")
+        return []
+    
+    if topic:
+        topic_path = topics_path / topic
+        if not topic_path.exists():
+            print(f"❌ Topic folder '{topic}' not found in TOPICS/")
+            available_topics = [d.name for d in topics_path.iterdir() if d.is_dir()]
+            print(f"Available topics: {', '.join(available_topics)}")
+            return []
+        search_paths = [topic_path]
+        print(f"🔍 Scanning TOPICS/{topic}/ folder recursively...")
+    else:
+        search_paths = [topics_path]
+        print(f"🔍 Scanning entire TOPICS/ folder recursively...")
     
     all_image_pdfs = []
     
-    # Recursively scan all subdirectories
-    for pdf_file in texts_path.rglob("*.pdf"):
-        try:
-            doc = fitz.open(pdf_file)
-            has_text = False
+    # Recursively scan specified directories
+    for search_path in search_paths:
+        for pdf_file in search_path.rglob("*.pdf"):
+            try:
+                doc = fitz.open(pdf_file)
+                has_text = False
+                
+                # Check first few pages for text content
+                pages_to_check = min(3, len(doc))
+                for page_num in range(pages_to_check):
+                    page = doc.load_page(page_num)
+                    text = page.get_text().strip()
+                    if len(text) > 50:  # More than 50 characters suggests real text
+                        has_text = True
+                        break
+                
+                doc.close()
+                
+                if not has_text:
+                    all_image_pdfs.append(pdf_file)
+                    relative_path = pdf_file.relative_to(topics_path)
+                    print(f"  📑 Found: TOPICS/{relative_path}")
             
-            # Check first few pages for text content
-            pages_to_check = min(3, len(doc))
-            for page_num in range(pages_to_check):
-                page = doc.load_page(page_num)
-                text = page.get_text().strip()
-                if len(text) > 50:  # More than 50 characters suggests real text
-                    has_text = True
-                    break
-            
-            doc.close()
-            
-            if not has_text:
-                all_image_pdfs.append(pdf_file)
-                relative_path = pdf_file.relative_to(texts_path)
-                print(f"  📑 Found: TEXTS/{relative_path}")
-        
-        except Exception as e:
-            print(f"  ⚠️  Could not analyze {pdf_file.name}: {e}")
+            except Exception as e:
+                print(f"  ⚠️  Could not analyze {pdf_file.name}: {e}")
     
-    print(f"✅ Found {len(all_image_pdfs)} image-only PDFs in TEXTS/ folder")
+    folder_name = f"TOPICS/{topic}/" if topic else "TOPICS/"
+    print(f"✅ Found {len(all_image_pdfs)} image-only PDFs in {folder_name} folder")
     return all_image_pdfs
 
 
@@ -481,20 +542,26 @@ def interactive_mode(processor: AIORProcessor, dpi: int = 200):
             process_specific_file(processor, dpi)
             
         elif choice == '2':
-            # Scan TEXTS folder
-            scan_texts_folder()
+            # Scan specific topic folder
+            topic = select_topic()
+            if topic:
+                scan_topic_folder(topic)
             input("\nPress Enter to continue...")
             
         elif choice == '3':
-            # Process all image PDFs in TEXTS folder
-            pdf_files = scan_texts_folder()
+            # Process all image PDFs in specific topic
+            topic = select_topic()
+            if not topic:
+                continue
+                
+            pdf_files = scan_topic_folder(topic)
             
             if not pdf_files:
-                print("❌ No image-only PDFs found in TEXTS/ folder")
+                print(f"❌ No image-only PDFs found in TOPICS/{topic}/ folder")
                 input("Press Enter to continue...")
                 continue
             
-            print(f"\n🚀 Ready to process {len(pdf_files)} image-only PDFs")
+            print(f"\n🚀 Ready to process {len(pdf_files)} image-only PDFs from topic '{topic}'")
             confirm = input("Continue? (y/N): ").strip().lower()
             
             if confirm in ['y', 'yes']:
@@ -518,21 +585,58 @@ def interactive_mode(processor: AIORProcessor, dpi: int = 200):
             input("\nPress Enter to continue...")
             
         elif choice == '4':
+            # Scan all topics
+            scan_topic_folder()  # No topic = scan all
+            input("\nPress Enter to continue...")
+            
+        elif choice == '5':
+            # Process all image PDFs in all topics
+            pdf_files = scan_topic_folder()  # No topic = scan all
+            
+            if not pdf_files:
+                print("❌ No image-only PDFs found in TOPICS/ folder")
+                input("Press Enter to continue...")
+                continue
+            
+            print(f"\n🚀 Ready to process {len(pdf_files)} image-only PDFs from all topics")
+            confirm = input("Continue? (y/N): ").strip().lower()
+            
+            if confirm in ['y', 'yes']:
+                success_count = 0
+                
+                for i, pdf_file in enumerate(pdf_files, 1):
+                    print(f"\n📄 Processing file {i}/{len(pdf_files)}: {pdf_file.name}")
+                    
+                    if processor.process_pdf(pdf_file, dpi=dpi):
+                        success_count += 1
+                    
+                    # Add delay between files
+                    if i < len(pdf_files):
+                        print("⏳ Waiting 2 seconds before next file...")
+                        time.sleep(2)
+                
+                print(f"\n📊 PROCESSING COMPLETE:")
+                print(f"  ✅ Successful: {success_count}/{len(pdf_files)}")
+                print(f"  ❌ Failed: {len(pdf_files) - success_count}/{len(pdf_files)}")
+            
+            input("\nPress Enter to continue...")
+            
+        elif choice == '6':
             # Show script information
             show_script_info()
             input("\nPress Enter to continue...")
             
-        elif choice == '5':
+        elif choice == '7':
             # Check dependencies and model status
             check_dependencies_status()
             input("\nPress Enter to continue...")
             
-        elif choice == '6':
+        elif choice == '8':
             # Show examples and tips
             show_examples()
             input("\nPress Enter to continue...")
             
-        elif choice == '7':
+        elif choice == '9':
             # Exit
             print("👋 Goodbye!")
             break
@@ -544,6 +648,7 @@ def main():
     parser.add_argument("-m", "--model", default="qwen2.5vl:7b", help="AI model to use (default: qwen2.5vl:7b)")
     parser.add_argument("--ollama-url", default="http://localhost:11434", help="Ollama server URL")
     parser.add_argument("--dpi", type=int, default=200, help="DPI for PDF to image conversion (default: 200)")
+    parser.add_argument("-t", "--topic", help="Process only files from specific topic folder")
     
     args = parser.parse_args()
     

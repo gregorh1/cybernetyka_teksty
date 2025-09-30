@@ -7,17 +7,37 @@ import os
 import subprocess
 from pathlib import Path
 import hashlib
+import argparse
 
-def check_for_duplicates():
+def get_available_topics():
+    """Pobierz dostępne tematy"""
+    topics_path = Path("TOPICS")
+    if not topics_path.exists():
+        return []
+    
+    topics = []
+    for item in topics_path.iterdir():
+        if item.is_dir():
+            topics.append(item.name)
+    
+    return sorted(topics)
+
+def check_for_duplicates(topic=None):
     """Sprawdź czy są duplikaty plików tekstowych"""
     print("🔍 Sprawdzam duplikaty...")
     
     duplicates = []
     txt_files = []
     
-    for folder in ['TEXTS/autonom/Kossecki', 'TEXTS/autonom/Mazur']:
-        if os.path.exists(folder):
-            txt_files.extend(list(Path(folder).glob('*.txt')))
+    topics_path = Path("TOPICS")
+    
+    if topic:
+        topic_path = topics_path / topic
+        if topic_path.exists():
+            txt_files.extend(list(topic_path.rglob('*.txt')))
+    else:
+        if topics_path.exists():
+            txt_files.extend(list(topics_path.rglob('*.txt')))
     
     # Szukaj plików o podobnych nazwach
     base_names = {}
@@ -37,24 +57,44 @@ def check_for_duplicates():
     
     return duplicates
 
-def find_ocr_pdfs_to_process():
+def find_ocr_pdfs_to_process(topic=None):
     """Znajdź pliki PDF-OCR które nie mają odpowiadających plików TXT"""
     
-    print("📋 Sprawdzam pliki PDF-OCR do przetworzenia...")
+    if topic:
+        print(f"📋 Sprawdzam pliki PDF-OCR do przetworzenia w temacie: {topic}")
+    else:
+        print("📋 Sprawdzam pliki PDF-OCR do przetworzenia...")
     
     to_process = []
     skipped = []
     
-    for folder in ['TEXTS/autonom/Kossecki', 'TEXTS/autonom/Mazur']:
-        if not os.path.exists(folder):
-            continue
-            
-        folder_path = Path(folder)
-        
+    topics_path = Path("TOPICS")
+    
+    if not topics_path.exists():
+        print("❌ Folder TOPICS/ nie istnieje")
+        return [], []
+    
+    if topic:
+        # Szukaj tylko w określonym temacie
+        topic_path = topics_path / topic
+        if not topic_path.exists():
+            print(f"❌ Temat '{topic}' nie istnieje")
+            available_topics = get_available_topics()
+            if available_topics:
+                print(f"Dostępne tematy: {', '.join(available_topics)}")
+            return [], []
+        search_paths = [topic_path]
+    else:
+        # Szukaj we wszystkich tematach
+        search_paths = [topics_path]
+    
+    for search_path in search_paths:
         # Znajdź wszystkie pliki PDF z -ocr
-        ocr_pdfs = list(folder_path.glob('*-ocr*.pdf'))
+        ocr_pdfs = list(search_path.rglob('*-ocr*.pdf'))
         
         for pdf_file in ocr_pdfs:
+            folder_path = pdf_file.parent
+            
             # Sprawdź czy odpowiadający plik .txt już istnieje
             potential_txt_names = [
                 pdf_file.stem + '.txt',
@@ -172,15 +212,33 @@ def process_with_direct_text_extraction(pdf_path):
 
 def main():
     """Główna funkcja przetwarzania PDF-OCR"""
+    parser = argparse.ArgumentParser(description="Przetwarzanie pozostałych plików PDF-OCR")
+    parser.add_argument("-t", "--topic", help="Przetwarzaj tylko pliki z określonego tematu")
+    parser.add_argument("--list-topics", action="store_true", help="Pokaż dostępne tematy")
     
-    print("📄 Przetwarzanie pozostałych plików PDF-OCR")
+    args = parser.parse_args()
+    
+    if args.list_topics:
+        topics = get_available_topics()
+        if topics:
+            print("📂 Dostępne tematy:")
+            for topic in topics:
+                print(f"  • {topic}")
+        else:
+            print("❌ Nie znaleziono tematów w folderze TOPICS/")
+        return
+    
+    if args.topic:
+        print(f"📄 Przetwarzanie pozostałych plików PDF-OCR - temat: {args.topic}")
+    else:
+        print("📄 Przetwarzanie pozostałych plików PDF-OCR - wszystkie tematy")
     print("=" * 50)
     
     # Sprawdź duplikaty
-    duplicates = check_for_duplicates()
+    duplicates = check_for_duplicates(args.topic)
     
     # Znajdź pliki do przetworzenia  
-    to_process, skipped = find_ocr_pdfs_to_process()
+    to_process, skipped = find_ocr_pdfs_to_process(args.topic)
     
     if not to_process:
         print("\n✅ Wszystkie pliki PDF-OCR już zostały przetworzone!")
