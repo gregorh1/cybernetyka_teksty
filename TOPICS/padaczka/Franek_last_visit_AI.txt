@@ -30,7 +30,7 @@ Padaczka z napadami ogniskowymi, wtórnie uogólnionymi.
 G40.0
 
 LECZENIE
-Cezariusz
+Cezarius
 
 ZALECENIA
 1. Kontrola w Poradni Neurologicznej dla Dzieci (z kserokopią karty wypisowej).
